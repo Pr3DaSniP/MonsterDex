@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+--primary-color: #ea2a33;
+--secondary-color: #ff7f84;
+--background-color: #1a1a1a;
+--text-primary: #f0f0f0;
+--text-secondary: #b0b0b0;
+--accent-color: #ff4d54;
+
+}
+
+/* Animation scroll gauche */
+@keyframes scroll {
+  to {
+    transform: translateX(calc(-50% - 0.5rem));
+  }
+}
