@@ -1,0 +1,107 @@
+[
+  {
+    "element": "Water",
+    "natural_stars": 5,
+    "skill_group_id": 26400,
+    "variants": [
+      {
+        "name": "Hollyberry Cookie",
+        "image_filename": "unit_icon_0092_1_1.png",
+        "family_id": 26400,
+        "id": 1989,
+        "com2us_id": 26411
+      },
+      {
+        "name": "Manon",
+        "image_filename": "unit_icon_0097_1_1.png",
+        "family_id": 26900,
+        "id": 2031,
+        "com2us_id": 26911
+      }
+    ]
+  },
+  {
+    "element": "Fire",
+    "natural_stars": 5,
+    "skill_group_id": 26400,
+    "variants": [
+      {
+        "name": "Hollyberry Cookie",
+        "image_filename": "unit_icon_0092_1_2.png",
+        "family_id": 26400,
+        "id": 1990,
+        "com2us_id": 26412
+      },
+      {
+        "name": "Alice",
+        "image_filename": "unit_icon_0097_1_2.png",
+        "family_id": 26900,
+        "id": 2032,
+        "com2us_id": 26912
+      }
+    ]
+  },
+  {
+    "element": "Wind",
+    "natural_stars": 5,
+    "skill_group_id": 26400,
+    "variants": [
+      {
+        "name": "Hollyberry Cookie",
+        "image_filename": "unit_icon_0092_1_3.png",
+        "family_id": 26400,
+        "id": 1991,
+        "com2us_id": 26413
+      },
+      {
+        "name": "Jade",
+        "image_filename": "unit_icon_0097_1_3.png",
+        "family_id": 26900,
+        "id": 2033,
+        "com2us_id": 26913
+      }
+    ]
+  },
+  {
+    "element": "Light",
+    "natural_stars": 5,
+    "skill_group_id": 26400,
+    "variants": [
+      {
+        "name": "Hollyberry Cookie",
+        "image_filename": "unit_icon_0092_1_4.png",
+        "family_id": 26400,
+        "id": 1992,
+        "com2us_id": 26414
+      },
+      {
+        "name": "Audrey",
+        "image_filename": "unit_icon_0097_1_4.png",
+        "family_id": 26900,
+        "id": 2034,
+        "com2us_id": 26914
+      }
+    ]
+  },
+  {
+    "element": "Dark",
+    "natural_stars": 5,
+    "skill_group_id": 26400,
+    "variants": [
+      {
+        "name": "Hollyberry Cookie",
+        "image_filename": "unit_icon_0092_1_5.png",
+        "family_id": 26400,
+        "id": 1993,
+        "com2us_id": 26415
+      },
+      {
+        "name": "Giselle",
+        "image_filename": "unit_icon_0097_1_5.png",
+        "family_id": 26900,
+        "id": 2035,
+        "com2us_id": 26915
+      }
+    ]
+  }
+]

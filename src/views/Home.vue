@@ -19,7 +19,7 @@
       </h1>
       <p class="text-xl mb-8">Découvrez tous vos monstres et gérez votre collection facilement.</p>
       <RouterLink
-        to="{name: 'monsters.show'}"
+        :to="{ name: 'monsters.show' }"
         class="inline-block px-8 py-4 bg-[var(--primary-color)] hover:bg-[var(--accent-color)] rounded-lg font-semibold shadow-lg transition-colors"
       >
         Voir les monstres
@@ -28,9 +28,9 @@
 
     <!-- https://modrinth.com/ -->
     <div class="w-full">
-      <ScrollingMonsterRow :speed="60" :direction="'right'" />
-      <ScrollingMonsterRow :speed="45" :direction="'left'" />
-      <ScrollingMonsterRow :speed="30" :direction="'right'" />
+      <ScrollingMonsterRow :speed="60" :direction="'right'" :id="1" />
+      <ScrollingMonsterRow :speed="45" :direction="'left'" :id="2"/>
+      <ScrollingMonsterRow :speed="30" :direction="'right'" :id="3"/>
     </div>
   </div>
 </template>

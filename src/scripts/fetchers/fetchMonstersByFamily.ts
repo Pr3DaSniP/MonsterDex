@@ -3,12 +3,7 @@ import { sortByElement } from "../helpers/sortByElement";
 import { type SimpleMonster } from "../../types/monsters";
 import { type ApiResponse } from "../../types/apiResponse"
 
-export async function fetchMonstersByFamily(familyId: number): Promise<SimpleMonster[]> {
-  const filters = {
-    family_id: familyId,
-    awaken_level: 1, // Filtre pour les monstres éveillés
-    obtainable: true, // Filtre pour les monstres obtenables
-  };
+export async function fetchMonstersByFamily(familyId: number, filters: Object): Promise<SimpleMonster[]> {
   const url: string = applyFilters(
     `https://swarfarm.com/api/v2/monsters/?`,
     filters
@@ -26,6 +21,7 @@ export async function fetchMonstersByFamily(familyId: number): Promise<SimpleMon
     family_id: monster.family_id,
     owned: false,
     full_skill: false,
+    skill_group_id: monster.skill_group_id,
   }));
 
   return sortByElement(monsters);

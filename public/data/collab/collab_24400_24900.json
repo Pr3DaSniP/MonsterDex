@@ -1,0 +1,107 @@
+[
+  {
+    "element": "Water",
+    "natural_stars": 4,
+    "skill_group_id": 24400,
+    "variants": [
+      {
+        "name": "CHUN-LI",
+        "image_filename": "unit_icon_0062_1_1.png",
+        "family_id": 24400,
+        "id": 1667,
+        "com2us_id": 24411
+      },
+      {
+        "name": "Lariel",
+        "image_filename": "unit_icon_0065_1_1.png",
+        "family_id": 24900,
+        "id": 1709,
+        "com2us_id": 24911
+      }
+    ]
+  },
+  {
+    "element": "Fire",
+    "natural_stars": 4,
+    "skill_group_id": 24400,
+    "variants": [
+      {
+        "name": "CHUN-LI",
+        "image_filename": "unit_icon_0062_1_2.png",
+        "family_id": 24400,
+        "id": 1668,
+        "com2us_id": 24412
+      },
+      {
+        "name": "Berenice",
+        "image_filename": "unit_icon_0065_1_2.png",
+        "family_id": 24900,
+        "id": 1710,
+        "com2us_id": 24912
+      }
+    ]
+  },
+  {
+    "element": "Wind",
+    "natural_stars": 4,
+    "skill_group_id": 24400,
+    "variants": [
+      {
+        "name": "CHUN-LI",
+        "image_filename": "unit_icon_0062_1_3.png",
+        "family_id": 24400,
+        "id": 1669,
+        "com2us_id": 24413
+      },
+      {
+        "name": "Cordelia",
+        "image_filename": "unit_icon_0065_1_3.png",
+        "family_id": 24900,
+        "id": 1711,
+        "com2us_id": 24913
+      }
+    ]
+  },
+  {
+    "element": "Light",
+    "natural_stars": 4,
+    "skill_group_id": 24400,
+    "variants": [
+      {
+        "name": "CHUN-LI",
+        "image_filename": "unit_icon_0062_1_4.png",
+        "family_id": 24400,
+        "id": 1670,
+        "com2us_id": 24414
+      },
+      {
+        "name": "Leah",
+        "image_filename": "unit_icon_0065_1_4.png",
+        "family_id": 24900,
+        "id": 1712,
+        "com2us_id": 24914
+      }
+    ]
+  },
+  {
+    "element": "Dark",
+    "natural_stars": 4,
+    "skill_group_id": 24400,
+    "variants": [
+      {
+        "name": "CHUN-LI",
+        "image_filename": "unit_icon_0062_1_5.png",
+        "family_id": 24400,
+        "id": 1671,
+        "com2us_id": 24415
+      },
+      {
+        "name": "Vereesa",
+        "image_filename": "unit_icon_0065_1_5.png",
+        "family_id": 24900,
+        "id": 1713,
+        "com2us_id": 24915
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "element": "Water",
+    "natural_stars": 5,
+    "skill_group_id": 30400,
+    "variants": [
+      {
+        "name": "Yuji Itadori",
+        "image_filename": "unit_icon_0155_1_1.png",
+        "family_id": 30400,
+        "id": 2507,
+        "com2us_id": 30411
+      },
+      {
+        "name": "Exorcist Association Fighter",
+        "image_filename": "unit_icon_0163_1_1.png",
+        "family_id": 31000,
+        "id": 2586,
+        "com2us_id": 31011
+      }
+    ]
+  },
+  {
+    "element": "Fire",
+    "natural_stars": 5,
+    "skill_group_id": 30400,
+    "variants": [
+      {
+        "name": "Yuji Itadori",
+        "image_filename": "unit_icon_0155_1_2.png",
+        "family_id": 30400,
+        "id": 2508,
+        "com2us_id": 30412
+      },
+      {
+        "name": "Exorcist Association Fighter",
+        "image_filename": "unit_icon_0163_1_2.png",
+        "family_id": 31000,
+        "id": 2587,
+        "com2us_id": 31012
+      }
+    ]
+  },
+  {
+    "element": "Wind",
+    "natural_stars": 4,
+    "skill_group_id": 30400,
+    "variants": [
+      {
+        "name": "Yuji Itadori",
+        "image_filename": "unit_icon_0155_1_3.png",
+        "family_id": 30400,
+        "id": 2509,
+        "com2us_id": 30413
+      },
+      {
+        "name": "Exorcist Association Fighter",
+        "image_filename": "unit_icon_0163_1_3.png",
+        "family_id": 31000,
+        "id": 2588,
+        "com2us_id": 31013
+      }
+    ]
+  },
+  {
+    "element": "Light",
+    "natural_stars": 4,
+    "skill_group_id": 30400,
+    "variants": [
+      {
+        "name": "Yuji Itadori",
+        "image_filename": "unit_icon_0155_1_4.png",
+        "family_id": 30400,
+        "id": 2510,
+        "com2us_id": 30414
+      },
+      {
+        "name": "Exorcist Association Fighter",
+        "image_filename": "unit_icon_0163_1_4.png",
+        "family_id": 31000,
+        "id": 2589,
+        "com2us_id": 31014
+      }
+    ]
+  },
+  {
+    "element": "Dark",
+    "natural_stars": 5,
+    "skill_group_id": 30400,
+    "variants": [
+      {
+        "name": "Yuji Itadori",
+        "image_filename": "unit_icon_0155_1_5.png",
+        "family_id": 30400,
+        "id": 2511,
+        "com2us_id": 30415
+      },
+      {
+        "name": "Exorcist Association Fighter",
+        "image_filename": "unit_icon_0163_1_5.png",
+        "family_id": 31000,
+        "id": 2590,
+        "com2us_id": 31015
+      }
+    ]
+  }
+]

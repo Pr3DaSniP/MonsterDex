@@ -1,0 +1,107 @@
+[
+  {
+    "element": "Water",
+    "natural_stars": 4,
+    "skill_group_id": 31800,
+    "variants": [
+      {
+        "name": "Tanjiro Kamado",
+        "image_filename": "unit_icon_0167_1_1.png",
+        "family_id": 31800,
+        "id": 2640,
+        "com2us_id": 31811
+      },
+      {
+        "name": "Azure Dragon Swordsman",
+        "image_filename": "unit_icon_0179_1_1.png",
+        "family_id": 32500,
+        "id": 2687,
+        "com2us_id": 32511
+      }
+    ]
+  },
+  {
+    "element": "Fire",
+    "natural_stars": 5,
+    "skill_group_id": 31800,
+    "variants": [
+      {
+        "name": "Tanjiro Kamado",
+        "image_filename": "unit_icon_0167_1_2.png",
+        "family_id": 31800,
+        "id": 2641,
+        "com2us_id": 31812
+      },
+      {
+        "name": "Azure Dragon Swordsman",
+        "image_filename": "unit_icon_0179_1_2.png",
+        "family_id": 32500,
+        "id": 2688,
+        "com2us_id": 32512
+      }
+    ]
+  },
+  {
+    "element": "Wind",
+    "natural_stars": 5,
+    "skill_group_id": 31800,
+    "variants": [
+      {
+        "name": "Tanjiro Kamado",
+        "image_filename": "unit_icon_0167_1_3.png",
+        "family_id": 31800,
+        "id": 2642,
+        "com2us_id": 31813
+      },
+      {
+        "name": "Azure Dragon Swordsman",
+        "image_filename": "unit_icon_0179_1_3.png",
+        "family_id": 32500,
+        "id": 2689,
+        "com2us_id": 32513
+      }
+    ]
+  },
+  {
+    "element": "Light",
+    "natural_stars": 5,
+    "skill_group_id": 31800,
+    "variants": [
+      {
+        "name": "Tanjiro Kamado",
+        "image_filename": "unit_icon_0167_1_4.png",
+        "family_id": 31800,
+        "id": 2643,
+        "com2us_id": 31814
+      },
+      {
+        "name": "Azure Dragon Swordsman",
+        "image_filename": "unit_icon_0179_1_4.png",
+        "family_id": 32500,
+        "id": 2690,
+        "com2us_id": 32514
+      }
+    ]
+  },
+  {
+    "element": "Dark",
+    "natural_stars": 4,
+    "skill_group_id": 31800,
+    "variants": [
+      {
+        "name": "Tanjiro Kamado",
+        "image_filename": "unit_icon_0167_1_5.png",
+        "family_id": 31800,
+        "id": 2644,
+        "com2us_id": 31815
+      },
+      {
+        "name": "Azure Dragon Swordsman",
+        "image_filename": "unit_icon_0179_1_5.png",
+        "family_id": 32500,
+        "id": 2691,
+        "com2us_id": 32515
+      }
+    ]
+  }
+]

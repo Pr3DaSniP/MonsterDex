@@ -1,0 +1,107 @@
+[
+  {
+    "element": "Water",
+    "natural_stars": 5,
+    "skill_group_id": 26300,
+    "variants": [
+      {
+        "name": "Pure Vanilla Cookie",
+        "image_filename": "unit_icon_0093_1_1.png",
+        "family_id": 26300,
+        "id": 1979,
+        "com2us_id": 26311
+      },
+      {
+        "name": "Adriana",
+        "image_filename": "unit_icon_0099_1_1.png",
+        "family_id": 26800,
+        "id": 2021,
+        "com2us_id": 26811
+      }
+    ]
+  },
+  {
+    "element": "Fire",
+    "natural_stars": 5,
+    "skill_group_id": 26300,
+    "variants": [
+      {
+        "name": "Pure Vanilla Cookie",
+        "image_filename": "unit_icon_0093_1_2.png",
+        "family_id": 26300,
+        "id": 1980,
+        "com2us_id": 26312
+      },
+      {
+        "name": "Lucia",
+        "image_filename": "unit_icon_0099_1_2.png",
+        "family_id": 26800,
+        "id": 2022,
+        "com2us_id": 26812
+      }
+    ]
+  },
+  {
+    "element": "Wind",
+    "natural_stars": 5,
+    "skill_group_id": 26300,
+    "variants": [
+      {
+        "name": "Pure Vanilla Cookie",
+        "image_filename": "unit_icon_0093_1_3.png",
+        "family_id": 26300,
+        "id": 1981,
+        "com2us_id": 26313
+      },
+      {
+        "name": "Angela",
+        "image_filename": "unit_icon_0099_1_3.png",
+        "family_id": 26800,
+        "id": 2023,
+        "com2us_id": 26813
+      }
+    ]
+  },
+  {
+    "element": "Light",
+    "natural_stars": 5,
+    "skill_group_id": 26300,
+    "variants": [
+      {
+        "name": "Pure Vanilla Cookie",
+        "image_filename": "unit_icon_0093_1_4.png",
+        "family_id": 26300,
+        "id": 1982,
+        "com2us_id": 26314
+      },
+      {
+        "name": "Ariana",
+        "image_filename": "unit_icon_0099_1_4.png",
+        "family_id": 26800,
+        "id": 2024,
+        "com2us_id": 26814
+      }
+    ]
+  },
+  {
+    "element": "Dark",
+    "natural_stars": 5,
+    "skill_group_id": 26300,
+    "variants": [
+      {
+        "name": "Pure Vanilla Cookie",
+        "image_filename": "unit_icon_0093_1_5.png",
+        "family_id": 26300,
+        "id": 1983,
+        "com2us_id": 26315
+      },
+      {
+        "name": "Elena",
+        "image_filename": "unit_icon_0099_1_5.png",
+        "family_id": 26800,
+        "id": 2025,
+        "com2us_id": 26815
+      }
+    ]
+  }
+]

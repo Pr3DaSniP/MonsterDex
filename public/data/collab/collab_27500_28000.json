@@ -1,0 +1,107 @@
+[
+  {
+    "element": "Water",
+    "natural_stars": 4,
+    "skill_group_id": 27500,
+    "variants": [
+      {
+        "name": "Bayek",
+        "image_filename": "unit_icon_0110_1_1.png",
+        "family_id": 27500,
+        "id": 2111,
+        "com2us_id": 27511
+      },
+      {
+        "name": "Omar",
+        "image_filename": "unit_icon_0115_1_1.png",
+        "family_id": 28000,
+        "id": 2172,
+        "com2us_id": 28011
+      }
+    ]
+  },
+  {
+    "element": "Fire",
+    "natural_stars": 5,
+    "skill_group_id": 27500,
+    "variants": [
+      {
+        "name": "Bayek",
+        "image_filename": "unit_icon_0110_1_2.png",
+        "family_id": 27500,
+        "id": 2112,
+        "com2us_id": 27512
+      },
+      {
+        "name": "Ashour",
+        "image_filename": "unit_icon_0115_1_2.png",
+        "family_id": 28000,
+        "id": 2173,
+        "com2us_id": 28012
+      }
+    ]
+  },
+  {
+    "element": "Wind",
+    "natural_stars": 5,
+    "skill_group_id": 27500,
+    "variants": [
+      {
+        "name": "Bayek",
+        "image_filename": "unit_icon_0110_1_3.png",
+        "family_id": 27500,
+        "id": 2113,
+        "com2us_id": 27513
+      },
+      {
+        "name": "Shahat",
+        "image_filename": "unit_icon_0115_1_3.png",
+        "family_id": 28000,
+        "id": 2174,
+        "com2us_id": 28013
+      }
+    ]
+  },
+  {
+    "element": "Light",
+    "natural_stars": 4,
+    "skill_group_id": 27500,
+    "variants": [
+      {
+        "name": "Bayek",
+        "image_filename": "unit_icon_0110_1_4.png",
+        "family_id": 27500,
+        "id": 2114,
+        "com2us_id": 27514
+      },
+      {
+        "name": "Ahmed",
+        "image_filename": "unit_icon_0115_1_4.png",
+        "family_id": 28000,
+        "id": 2175,
+        "com2us_id": 28014
+      }
+    ]
+  },
+  {
+    "element": "Dark",
+    "natural_stars": 5,
+    "skill_group_id": 27500,
+    "variants": [
+      {
+        "name": "Bayek",
+        "image_filename": "unit_icon_0110_1_5.png",
+        "family_id": 27500,
+        "id": 2115,
+        "com2us_id": 27515
+      },
+      {
+        "name": "Salah",
+        "image_filename": "unit_icon_0115_1_5.png",
+        "family_id": 28000,
+        "id": 2176,
+        "com2us_id": 28015
+      }
+    ]
+  }
+]

@@ -2,7 +2,7 @@ import { type SimpleMonster, ElementType } from "../../types/monsters.js";
 
 const ELEMENT_ORDER: String[] = ["Water", "Fire", "Wind", "Light", "Dark"];
 
-const emptyMonster: SimpleMonster = {
+export const emptyMonster: SimpleMonster = {
   com2us_id: -1,
   id: -1,
   name: "???",
@@ -11,7 +11,8 @@ const emptyMonster: SimpleMonster = {
   element: ElementType.Unknown,
   family_id: -1,
   owned: false,
-  full_skill: false
+  full_skill: false,
+  skill_group_id: -1,
 };
 
 // Fonction pour trier les monstres selon l'ordre des éléments

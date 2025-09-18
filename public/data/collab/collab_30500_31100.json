@@ -1,0 +1,107 @@
+[
+  {
+    "element": "Water",
+    "natural_stars": 4,
+    "skill_group_id": 30500,
+    "variants": [
+      {
+        "name": "Megumi Fushiguro",
+        "image_filename": "unit_icon_0157_1_1.png",
+        "family_id": 30500,
+        "id": 2517,
+        "com2us_id": 30511
+      },
+      {
+        "name": "Exorcist Association Conjurer",
+        "image_filename": "unit_icon_0165_1_1.png",
+        "family_id": 31100,
+        "id": 2596,
+        "com2us_id": 31111
+      }
+    ]
+  },
+  {
+    "element": "Fire",
+    "natural_stars": 5,
+    "skill_group_id": 30500,
+    "variants": [
+      {
+        "name": "Megumi Fushiguro",
+        "image_filename": "unit_icon_0157_1_2.png",
+        "family_id": 30500,
+        "id": 2518,
+        "com2us_id": 30512
+      },
+      {
+        "name": "Exorcist Association Conjurer",
+        "image_filename": "unit_icon_0165_1_2.png",
+        "family_id": 31100,
+        "id": 2597,
+        "com2us_id": 31112
+      }
+    ]
+  },
+  {
+    "element": "Wind",
+    "natural_stars": 5,
+    "skill_group_id": 30500,
+    "variants": [
+      {
+        "name": "Megumi Fushiguro",
+        "image_filename": "unit_icon_0157_1_3.png",
+        "family_id": 30500,
+        "id": 2519,
+        "com2us_id": 30513
+      },
+      {
+        "name": "Exorcist Association Conjurer",
+        "image_filename": "unit_icon_0165_1_3.png",
+        "family_id": 31100,
+        "id": 2598,
+        "com2us_id": 31113
+      }
+    ]
+  },
+  {
+    "element": "Light",
+    "natural_stars": 4,
+    "skill_group_id": 30500,
+    "variants": [
+      {
+        "name": "Megumi Fushiguro",
+        "image_filename": "unit_icon_0157_1_4.png",
+        "family_id": 30500,
+        "id": 2520,
+        "com2us_id": 30514
+      },
+      {
+        "name": "Exorcist Association Conjurer",
+        "image_filename": "unit_icon_0165_1_4.png",
+        "family_id": 31100,
+        "id": 2599,
+        "com2us_id": 31114
+      }
+    ]
+  },
+  {
+    "element": "Dark",
+    "natural_stars": 5,
+    "skill_group_id": 30500,
+    "variants": [
+      {
+        "name": "Megumi Fushiguro",
+        "image_filename": "unit_icon_0157_1_5.png",
+        "family_id": 30500,
+        "id": 2521,
+        "com2us_id": 30515
+      },
+      {
+        "name": "Exorcist Association Conjurer",
+        "image_filename": "unit_icon_0165_1_5.png",
+        "family_id": 31100,
+        "id": 2600,
+        "com2us_id": 31115
+      }
+    ]
+  }
+]

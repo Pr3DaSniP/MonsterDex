@@ -1,0 +1,107 @@
+[
+  {
+    "element": "Water",
+    "natural_stars": 4,
+    "skill_group_id": 24300,
+    "variants": [
+      {
+        "name": "DHALSIM",
+        "image_filename": "unit_icon_0063_1_1.png",
+        "family_id": 24300,
+        "id": 1657,
+        "com2us_id": 24311
+      },
+      {
+        "name": "Kyle",
+        "image_filename": "unit_icon_0064_1_1.png",
+        "family_id": 24800,
+        "id": 1699,
+        "com2us_id": 24811
+      }
+    ]
+  },
+  {
+    "element": "Fire",
+    "natural_stars": 4,
+    "skill_group_id": 24300,
+    "variants": [
+      {
+        "name": "DHALSIM",
+        "image_filename": "unit_icon_0063_1_2.png",
+        "family_id": 24300,
+        "id": 1658,
+        "com2us_id": 24312
+      },
+      {
+        "name": "Todd",
+        "image_filename": "unit_icon_0064_1_2.png",
+        "family_id": 24800,
+        "id": 1700,
+        "com2us_id": 24812
+      }
+    ]
+  },
+  {
+    "element": "Wind",
+    "natural_stars": 4,
+    "skill_group_id": 24300,
+    "variants": [
+      {
+        "name": "DHALSIM",
+        "image_filename": "unit_icon_0063_1_3.png",
+        "family_id": 24300,
+        "id": 1659,
+        "com2us_id": 24313
+      },
+      {
+        "name": "Jarrett",
+        "image_filename": "unit_icon_0064_1_3.png",
+        "family_id": 24800,
+        "id": 1701,
+        "com2us_id": 24813
+      }
+    ]
+  },
+  {
+    "element": "Light",
+    "natural_stars": 4,
+    "skill_group_id": 24300,
+    "variants": [
+      {
+        "name": "DHALSIM",
+        "image_filename": "unit_icon_0063_1_4.png",
+        "family_id": 24300,
+        "id": 1660,
+        "com2us_id": 24314
+      },
+      {
+        "name": "Hekerson",
+        "image_filename": "unit_icon_0064_1_4.png",
+        "family_id": 24800,
+        "id": 1702,
+        "com2us_id": 24814
+      }
+    ]
+  },
+  {
+    "element": "Dark",
+    "natural_stars": 4,
+    "skill_group_id": 24300,
+    "variants": [
+      {
+        "name": "DHALSIM",
+        "image_filename": "unit_icon_0063_1_5.png",
+        "family_id": 24300,
+        "id": 1661,
+        "com2us_id": 24315
+      },
+      {
+        "name": "Cayde",
+        "image_filename": "unit_icon_0064_1_5.png",
+        "family_id": 24800,
+        "id": 1703,
+        "com2us_id": 24815
+      }
+    ]
+  }
+]

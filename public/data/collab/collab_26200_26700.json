@@ -1,0 +1,107 @@
+[
+  {
+    "element": "Unknown",
+    "natural_stars": 0,
+    "skill_group_id": -1,
+    "variants": [
+      {
+        "name": "???",
+        "image_filename": null,
+        "family_id": -1,
+        "id": -1,
+        "com2us_id": -1
+      },
+      {
+        "name": "???",
+        "image_filename": null,
+        "family_id": -1,
+        "id": -1,
+        "com2us_id": -1
+      }
+    ]
+  },
+  {
+    "element": "Unknown",
+    "natural_stars": 0,
+    "skill_group_id": -1,
+    "variants": [
+      {
+        "name": "???",
+        "image_filename": null,
+        "family_id": -1,
+        "id": -1,
+        "com2us_id": -1
+      },
+      {
+        "name": "???",
+        "image_filename": null,
+        "family_id": -1,
+        "id": -1,
+        "com2us_id": -1
+      }
+    ]
+  },
+  {
+    "element": "Wind",
+    "natural_stars": 5,
+    "skill_group_id": 26200,
+    "variants": [
+      {
+        "name": "GingerBrave",
+        "image_filename": "unit_icon_0089_1_3.png",
+        "family_id": 26200,
+        "id": 1973,
+        "com2us_id": 26213
+      },
+      {
+        "name": "Thomas",
+        "image_filename": "unit_icon_0096_1_3.png",
+        "family_id": 26700,
+        "id": 2015,
+        "com2us_id": 26713
+      }
+    ]
+  },
+  {
+    "element": "Unknown",
+    "natural_stars": 0,
+    "skill_group_id": -1,
+    "variants": [
+      {
+        "name": "???",
+        "image_filename": null,
+        "family_id": -1,
+        "id": -1,
+        "com2us_id": -1
+      },
+      {
+        "name": "???",
+        "image_filename": null,
+        "family_id": -1,
+        "id": -1,
+        "com2us_id": -1
+      }
+    ]
+  },
+  {
+    "element": "Unknown",
+    "natural_stars": 0,
+    "skill_group_id": -1,
+    "variants": [
+      {
+        "name": "???",
+        "image_filename": null,
+        "family_id": -1,
+        "id": -1,
+        "com2us_id": -1
+      },
+      {
+        "name": "???",
+        "image_filename": null,
+        "family_id": -1,
+        "id": -1,
+        "com2us_id": -1
+      }
+    ]
+  }
+]

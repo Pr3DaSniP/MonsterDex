@@ -1,0 +1,107 @@
+[
+  {
+    "element": "Water",
+    "natural_stars": 5,
+    "skill_group_id": 29400,
+    "variants": [
+      {
+        "name": "Yennefer",
+        "image_filename": "unit_icon_0143_1_1.png",
+        "family_id": 29400,
+        "id": 2374,
+        "com2us_id": 29411
+      },
+      {
+        "name": "Johanna",
+        "image_filename": "unit_icon_0152_1_1.png",
+        "family_id": 29800,
+        "id": 2438,
+        "com2us_id": 29811
+      }
+    ]
+  },
+  {
+    "element": "Fire",
+    "natural_stars": 5,
+    "skill_group_id": 29400,
+    "variants": [
+      {
+        "name": "Yennefer",
+        "image_filename": "unit_icon_0143_1_2.png",
+        "family_id": 29400,
+        "id": 2375,
+        "com2us_id": 29412
+      },
+      {
+        "name": "Tarnisha",
+        "image_filename": "unit_icon_0152_1_2.png",
+        "family_id": 29800,
+        "id": 2439,
+        "com2us_id": 29812
+      }
+    ]
+  },
+  {
+    "element": "Wind",
+    "natural_stars": 4,
+    "skill_group_id": 29400,
+    "variants": [
+      {
+        "name": "Yennefer",
+        "image_filename": "unit_icon_0143_1_3.png",
+        "family_id": 29400,
+        "id": 2376,
+        "com2us_id": 29413
+      },
+      {
+        "name": "Hexarina",
+        "image_filename": "unit_icon_0152_1_3.png",
+        "family_id": 29800,
+        "id": 2440,
+        "com2us_id": 29813
+      }
+    ]
+  },
+  {
+    "element": "Light",
+    "natural_stars": 4,
+    "skill_group_id": 29400,
+    "variants": [
+      {
+        "name": "Yennefer",
+        "image_filename": "unit_icon_0143_1_4.png",
+        "family_id": 29400,
+        "id": 2377,
+        "com2us_id": 29414
+      },
+      {
+        "name": "Arcana",
+        "image_filename": "unit_icon_0152_1_4.png",
+        "family_id": 29800,
+        "id": 2441,
+        "com2us_id": 29814
+      }
+    ]
+  },
+  {
+    "element": "Dark",
+    "natural_stars": 5,
+    "skill_group_id": 29400,
+    "variants": [
+      {
+        "name": "Yennefer",
+        "image_filename": "unit_icon_0143_1_5.png",
+        "family_id": 29400,
+        "id": 2378,
+        "com2us_id": 29415
+      },
+      {
+        "name": "Hilda",
+        "image_filename": "unit_icon_0152_1_5.png",
+        "family_id": 29800,
+        "id": 2442,
+        "com2us_id": 29815
+      }
+    ]
+  }
+]
