@@ -1,0 +1,215 @@
+[
+  {
+    "family_id": 14900,
+    "family_name": "amazon",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": false,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 3,
+        "skill_group_id": 14900,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "name": "Ellin",
+            "image_filename": "unit_icon_0018_0_0.png",
+            "family_id": 14900,
+            "id": 296,
+            "com2us_id": 14911
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 3,
+        "skill_group_id": 14900,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "name": "Ceres",
+            "image_filename": "unit_icon_0018_1_0.png",
+            "family_id": 14900,
+            "id": 175,
+            "com2us_id": 14912
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 3,
+        "skill_group_id": 14900,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "name": "Hina",
+            "image_filename": "unit_icon_0018_2_0.png",
+            "family_id": 14900,
+            "id": 350,
+            "com2us_id": 14913
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 3,
+        "skill_group_id": 14900,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "name": "Lyn",
+            "image_filename": "unit_icon_0018_3_0.png",
+            "family_id": 14900,
+            "id": 400,
+            "com2us_id": 14914
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 3,
+        "skill_group_id": 14900,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "name": "Mara",
+            "image_filename": "unit_icon_0018_4_0.png",
+            "family_id": 14900,
+            "id": 460,
+            "com2us_id": 14915
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 32200,
+    "family_name": "zenitsu x qilin",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": true,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 5,
+        "skill_group_id": 32200,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "name": "Zenitsu Agatsuma",
+            "image_filename": "unit_icon_0169_1_1.png",
+            "family_id": 32200,
+            "id": 2675,
+            "com2us_id": 32211
+          },
+          {
+            "name": "Qilin Slasher",
+            "image_filename": "unit_icon_0181_1_1.png",
+            "family_id": 32900,
+            "id": 2717,
+            "com2us_id": 32911
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 4,
+        "skill_group_id": 32200,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "name": "Zenitsu Agatsuma",
+            "image_filename": "unit_icon_0169_1_2.png",
+            "family_id": 32200,
+            "id": 2676,
+            "com2us_id": 32212
+          },
+          {
+            "name": "Qilin Slasher",
+            "image_filename": "unit_icon_0181_1_2.png",
+            "family_id": 32900,
+            "id": 2718,
+            "com2us_id": 32912
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 5,
+        "skill_group_id": 32200,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "name": "Zenitsu Agatsuma",
+            "image_filename": "unit_icon_0169_1_3.png",
+            "family_id": 32200,
+            "id": 2677,
+            "com2us_id": 32213
+          },
+          {
+            "name": "Qilin Slasher",
+            "image_filename": "unit_icon_0181_1_3.png",
+            "family_id": 32900,
+            "id": 2719,
+            "com2us_id": 32913
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 4,
+        "skill_group_id": 32200,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "name": "Zenitsu Agatsuma",
+            "image_filename": "unit_icon_0169_1_4.png",
+            "family_id": 32200,
+            "id": 2678,
+            "com2us_id": 32214
+          },
+          {
+            "name": "Qilin Slasher",
+            "image_filename": "unit_icon_0181_1_4.png",
+            "family_id": 32900,
+            "id": 2720,
+            "com2us_id": 32914
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 5,
+        "skill_group_id": 32200,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "name": "Zenitsu Agatsuma",
+            "image_filename": "unit_icon_0169_1_5.png",
+            "family_id": 32200,
+            "id": 2679,
+            "com2us_id": 32215
+          },
+          {
+            "name": "Qilin Slasher",
+            "image_filename": "unit_icon_0181_1_5.png",
+            "family_id": 32900,
+            "id": 2721,
+            "com2us_id": 32915
+          }
+        ]
+      }
+    ]
+  }
+]

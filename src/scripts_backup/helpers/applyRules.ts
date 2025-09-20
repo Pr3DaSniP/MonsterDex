@@ -1,22 +1,18 @@
-import { Family, MonsterRule, SimpleMonster } from '../../types/monsters.js'
+import { MonsterRule, SimpleMonster } from '../../types/monsters.js'
 import { fetchSecondAwakenedFamiliesIds } from '../fetchers/fetchSecondAwakenedFamiliesIds.js'
 import { mergeFamilies } from '../merger/mergeFamiliesFromFile.js'
 import { fetchMonstersByFamily } from '../fetchers/fetchMonstersByFamily.js'
-import { findFamilyIndex } from '../helpers/findFamilyIndex'
 import { findCollabPairs } from './findCollabPairs.js'
 import { mergeCollabFamilies } from '../merger/mergeCollabFamilies.js'
 
-export async function applyRules(rules: MonsterRule[], allMonsters: Family[]): Promise<Family[]> {
+export async function applyRules(
+  rules: MonsterRule[],
+  allMonsters: SimpleMonster[][],
+): Promise<SimpleMonster[][]> {
   for (const rule of rules) {
     switch (rule.type) {
       case 'merge':
-        if (!rule.families || rule.families.length !== 2) {
-          console.warn('⚠️ Merge skipped, need exactly 2 family IDs', rule.families)
-          break
-        }
-
         allMonsters = mergeFamilies(rule.families, allMonsters)
-        console.log(`✅ Merged families: ${rule.families.join(' & ')}`)
         break
       case 'cmd':
         for (const cmd of rule.commands) {
@@ -24,18 +20,20 @@ export async function applyRules(rules: MonsterRule[], allMonsters: Family[]): P
             case 'fetch_2a':
               const ids = await fetchSecondAwakenedFamiliesIds()
               for (const id of ids) {
-                const index = findFamilyIndex(allMonsters, id)
+                const index = allMonsters.findIndex((fam) => {
+                  const valid = fam.find((m) => m.family_id != -1)
+                  return valid?.family_id === id
+                })
                 // Remove the family if found
                 if (index !== -1) {
                   allMonsters.splice(index, 1)
                 }
                 // Fetch and add the 2a family
-                let secondAwakenedFamily: Family = await fetchMonstersByFamily(id, {
+                const secondAwakenedFamily = await fetchMonstersByFamily(id, {
                   family_id: id,
-                  awaken_level: 2, // Filtre pour les monstres second awake
+                  awaken_level: 2, // Filtre pour les monstres éveillés
                   obtainable: true, // Filtre pour les monstres obtenables
                 })
-                secondAwakenedFamily.isSecondAwakedFamily = true
                 allMonsters.push(secondAwakenedFamily)
               }
               break

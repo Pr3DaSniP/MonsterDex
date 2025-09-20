@@ -1,9 +1,9 @@
 import { applyFilters } from "../helpers/applyFilters";
-import { sortByElement } from "../helpers/sortByElement";
-import { type SimpleMonster } from "../../types/monsters";
+import { sortFamilyByElement } from "../helpers/sortByElement";
+import { SimpleMonsterWithVariants, type Family, type SimpleMonster } from "../../types/monsters";
 import { type ApiResponse } from "../../types/apiResponse"
 
-export async function fetchMonstersByFamily(familyId: number, filters: Object): Promise<SimpleMonster[]> {
+export async function fetchMonstersByFamily(familyId: number, filters: Object): Promise<Family> {
   const url: string = applyFilters(
     `https://swarfarm.com/api/v2/monsters/?`,
     filters
@@ -11,18 +11,55 @@ export async function fetchMonstersByFamily(familyId: number, filters: Object): 
   const res = await fetch(url);
   const data = await res.json() as ApiResponse<SimpleMonster>;
 
-  const monsters: SimpleMonster[] = data.results.map((monster: SimpleMonster) => ({
-    com2us_id: monster.com2us_id,
-    id: monster.id,
-    name: monster.name,
-    natural_stars: monster.natural_stars,
-    image_filename: monster.image_filename,
+  const family : Family = buildFamily(data.results);
+
+  return sortFamilyByElement(family);
+}
+
+function buildFamily(monsters: SimpleMonster[]): Family {
+  if (monsters.length === 0) {
+    throw new Error("Impossible de créer une famille vide")
+  }
+
+  const familyName = extractFamilyNameFromSlug(monsters[0].bestiary_slug);
+
+  return {
+    family_id: monsters[0].family_id,
+    family_name: familyName,
+    isSecondAwakedFamily: false,
+    isCollaboredFamily: false,
+    isMergedFamily: false,
+    monsters: monsters.map(m => getSimpleMonsterWithVariants(m)),
+  }
+}
+
+
+function extractFamilyNameFromSlug(slug: string): string {
+  const parts = slug.split("-");
+  if (parts.length < 3) {
+    return slug; // sécurité si le format est invalide
+  }
+  const familyParts = parts.slice(2, -1);
+  return familyParts.join("-") || slug; // retourne le slug complet si le nom de famille est vide
+}
+
+function getSimpleMonsterWithVariants(monster: SimpleMonster): SimpleMonsterWithVariants {
+  return {
     element: monster.element,
-    family_id: monster.family_id,
+    natural_stars: monster.natural_stars,
+    skill_group_id: monster.skill_group_id,
     owned: false,
     full_skill: false,
-    skill_group_id: monster.skill_group_id,
-  }));
+    variants: getVariantMonster(monster)
+  };
+}
 
-  return sortByElement(monsters);
+function getVariantMonster(monster: SimpleMonster) {
+  return [{
+    name: monster.name,
+    image_filename: monster.image_filename,
+    family_id: monster.family_id,
+    id: monster.id,
+    com2us_id: monster.com2us_id
+  }];
 }

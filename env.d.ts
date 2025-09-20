@@ -2,6 +2,7 @@
 
 interface ImportMetaEnv {
     VITE_OUTPUT_FOLDER: string;
+    VITE_API_IMG_URL: string;
 }
 
 interface ImportMeta {

@@ -1,25 +1,35 @@
-import { type SimpleMonster, ElementType } from "../../types/monsters.js";
+import { type SimpleMonsterWithVariants, type Family } from "../../types/monsters";
+import { ElementType } from "../../types/element";
 
 const ELEMENT_ORDER: String[] = ["Water", "Fire", "Wind", "Light", "Dark"];
 
-export const emptyMonster: SimpleMonster = {
-  com2us_id: -1,
-  id: -1,
-  name: "???",
-  natural_stars: 0,
-  image_filename: null,
+export const emptyMonsterWithVariants: SimpleMonsterWithVariants = {
   element: ElementType.Unknown,
-  family_id: -1,
-  owned: false,
-  full_skill: false,
+  natural_stars: 0,
   skill_group_id: -1,
-};
+  variants: [
+    {
+      com2us_id: -1,
+      id: -1,
+      name: "???",
+      image_filename: null,
+      family_id: -1,
+    },
+  ],
+}
 
-// Fonction pour trier les monstres selon l'ordre des éléments
-export function sortByElement(family: SimpleMonster[]): SimpleMonster[] {
-  const sorted: SimpleMonster[] = ELEMENT_ORDER.map((element) => {
-    const found = family.find((m: SimpleMonster) => m.element === element);
-    return found ?? emptyMonster;
-  });
-  return sorted;
+export function sortFamilyByElement(family: Family): Family {
+  const sortedMonsters: SimpleMonsterWithVariants[] = ELEMENT_ORDER.map(
+    (element) => {
+      const found = family.monsters.find(
+        (m) => m.element === element
+      )
+      return found ?? emptyMonsterWithVariants
+    }
+  )
+
+  return {
+    ...family,
+    monsters: sortedMonsters,
+  }
 }

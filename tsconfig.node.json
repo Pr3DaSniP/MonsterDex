@@ -7,7 +7,7 @@
     "nightwatch.conf.*",
     "playwright.config.*",
     "eslint.config.*",
-    "src/scripts/**/*.ts",
+    "src/scripts/**/*.ts"
   ],
   "compilerOptions": {
     "noEmit": true,

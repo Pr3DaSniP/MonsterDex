@@ -1,12 +1,10 @@
 import { writeFile, readFile } from 'fs/promises'
-import pathModule from 'path'
+import path from 'path'
 
 // Fonction pour sauvegarder un json
 export async function saveJson(path: string, filename: string, data: any): Promise<void> {
   try {
-    const fullPath = pathModule.join(path, filename);
-    await writeFile(fullPath, JSON.stringify(data, null, 2))
-    console.log(`✅ Fichier sauvegardé en Json: ${fullPath}`);
+    await writeFile(`${path}/${filename}.json`, JSON.stringify(data, null, 2))
   } catch (e: unknown) {
     if (e instanceof Error) console.error(e.toString())
     else console.error('Unknown error', e)
@@ -21,7 +19,7 @@ export async function updateJson(
   toAdd: number[],
 ): Promise<void> {
   const url = `${folderPath}/${filename}.json`
-  const filePath = pathModule.resolve(url)
+  const filePath = path.resolve(url)
   let existing: number[] = []
 
   try {

@@ -1,23 +1,27 @@
 <template>
-    <div class="scroll-container">
-      <div class="scroll-inner" :style="animationStyle">
-          <img v-for="monster in displayMonsters" :key="monster.id" :src="VITE_API_IMG_URL + monster.image_filename"
-          class="w-32 h-32 object-cover rounded-4xl opacity-50" />
-      </div>
+  <div class="scroll-container">
+    <div class="scroll-inner" :style="animationStyle">
+      <img
+        v-for="monster in displayMonsters"
+        :key="monster.id"
+        :src="VITE_API_IMG_URL + monster.image_filename"
+        class="w-32 h-32 object-cover rounded-4xl opacity-50"
+      />
     </div>
+  </div>
 </template>
 
 <script setup lang="ts">
 import { ref, onMounted, computed } from 'vue'
 import { useBackgroundMonsters } from '@/composables/useMonstersBackground'
-import type { ScrollingMonstersProps } from '@/types/props/ScrollingMonsters'
-import { type BackgroundMonsterImg } from '@/types/monsters';
+import { type ScrollingMonstersProps } from '@/types/props/ScrollingMonsters'
+import { type BackgroundMonsterImg } from '@/types/monsters'
 
 const props = defineProps<ScrollingMonstersProps>()
 const VITE_API_IMG_URL = import.meta.env.VITE_API_IMG_URL
 
 const { loadMonsters } = useBackgroundMonsters()
-const displayMonsters = ref<BackgroundMonsterImg[]>([]);
+const displayMonsters = ref<BackgroundMonsterImg[]>([])
 
 const direction = props.direction ?? 'left'
 const speed = props.speed ?? 40
@@ -32,7 +36,6 @@ onMounted(async () => {
   displayMonsters.value = [...monsters, ...monsters]
 })
 </script>
-
 
 <style scoped>
 .scroll-container {
