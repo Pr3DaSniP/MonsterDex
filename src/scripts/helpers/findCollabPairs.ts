@@ -1,8 +1,11 @@
-import { Family, SimpleMonster } from '../../types/monsters'
-import { collabWhiteList } from '../knownCollabFamiliesIds'
+import { type Family, type SimpleMonsterWithVariants } from '../../types/monsters.ts'
+import { collabWhiteList } from '../knownCollabFamiliesIds.ts'
 
 // Construire un set pour lookup rapide
-const collabFamilyIds = new Set(collabWhiteList.flatMap((c) => c.families))
+const collabFamilyIds = new Set(collabWhiteList.flatMap((c: {
+    name: string;
+    families: number[];
+}) => c.families))
 
 
 export function findCollabPairs(families: Family[]) {
@@ -10,7 +13,7 @@ export function findCollabPairs(families: Family[]) {
 
   for (const family of families) {
     // Prendre le premier monstre valide
-    const firstMonster = family.monsters.find((m) => m.variants[0]?.id !== -1);
+    const firstMonster = family.monsters.find((m: SimpleMonsterWithVariants) => m.variants[0]?.id !== -1);
     if (!firstMonster) continue;
 
     const sgid = firstMonster.skill_group_id;

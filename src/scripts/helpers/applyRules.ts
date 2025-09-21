@@ -1,10 +1,10 @@
-import { Family, MonsterRule, SimpleMonster } from '../../types/monsters.js'
-import { fetchSecondAwakenedFamiliesIds } from '../fetchers/fetchSecondAwakenedFamiliesIds.js'
-import { mergeFamilies } from '../merger/mergeFamiliesFromFile.js'
-import { fetchMonstersByFamily } from '../fetchers/fetchMonstersByFamily.js'
-import { findFamilyIndex } from '../helpers/findFamilyIndex'
-import { findCollabPairs } from './findCollabPairs.js'
-import { mergeCollabFamilies } from '../merger/mergeCollabFamilies.js'
+import { type Family, type MonsterRule } from '../../types/monsters.ts'
+import { fetchSecondAwakenedFamiliesIds } from '../fetchers/fetchSecondAwakenedFamiliesIds.ts'
+import { mergeFamilies } from '../merger/mergeFamiliesFromFile.ts'
+import { fetchMonstersByFamily } from '../fetchers/fetchMonstersByFamily.ts'
+import { findFamilyIndex } from '../helpers/findFamilyIndex.ts'
+import { findCollabPairs } from './findCollabPairs.ts'
+import { mergeCollabFamilies } from '../merger/mergeCollabFamilies.ts'
 
 export async function applyRules(rules: MonsterRule[], allMonsters: Family[]): Promise<Family[]> {
   for (const rule of rules) {

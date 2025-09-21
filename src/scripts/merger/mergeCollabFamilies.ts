@@ -1,5 +1,5 @@
-import { SimpleMonsterWithVariants, type Family } from '../../types/monsters'
-import { findFamilyIndex } from '../helpers/findFamilyIndex'
+import { type SimpleMonsterWithVariants, type Family } from '../../types/monsters.ts'
+import { findFamilyIndex } from '../helpers/findFamilyIndex.ts'
 
 export function mergeCollabFamilies(
   familyIds: number[],

@@ -1,4 +1,4 @@
-import { Family } from "../../types/monsters";
+import { type Family, type SimpleMonsterWithVariants } from "../../types/monsters.ts";
 
 export function loggingFamily(family: Family) {
   const iconMap: Record<string, string> = {
@@ -10,7 +10,7 @@ export function loggingFamily(family: Family) {
     Unknown: "❓"
   };
 
-  const names = family.monsters.map((m) => {
+  const names = family.monsters.map((m: SimpleMonsterWithVariants) => {
     const icon = iconMap[m.element] ?? "❓";
 
     const firstVariant = m.variants[0];

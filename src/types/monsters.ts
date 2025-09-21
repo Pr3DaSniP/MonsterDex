@@ -1,4 +1,4 @@
-import { ElementType } from './element'
+import { ElementType } from './element.ts'
 
 type BackgroundMonsterImg = { image_filename: string; id: number }
 

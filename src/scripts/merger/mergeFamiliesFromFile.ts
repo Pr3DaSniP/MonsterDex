@@ -1,6 +1,6 @@
-import { Family, SimpleMonsterWithVariants } from "../../types/monsters";
-import { findFamilyIndex } from "../helpers/findFamilyIndex";
-import { emptyMonsterWithVariants } from "../helpers/sortByElement"; 
+import { type Family, type SimpleMonsterWithVariants } from "../../types/monsters.ts";
+import { findFamilyIndex } from "../helpers/findFamilyIndex.ts";
+import { emptyMonsterWithVariants } from "../helpers/sortByElement.ts"; 
 
 
 export function mergeFamilies(familiesIdToMerge: number[], allMonsters: Family[]) : Family[] {

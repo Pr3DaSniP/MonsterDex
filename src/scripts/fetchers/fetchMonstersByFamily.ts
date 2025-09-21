@@ -1,7 +1,7 @@
-import { applyFilters } from "../helpers/applyFilters";
-import { sortFamilyByElement } from "../helpers/sortByElement";
-import { SimpleMonsterWithVariants, type Family, type SimpleMonster } from "../../types/monsters";
-import { type ApiResponse } from "../../types/apiResponse"
+import { applyFilters } from "../helpers/applyFilters.ts";
+import { sortFamilyByElement } from "../helpers/sortByElement.ts";
+import { type SimpleMonsterWithVariants, type Family, type SimpleMonster } from "../../types/monsters.ts";
+import { type ApiResponse } from "../../types/apiResponse.ts"
 
 export async function fetchMonstersByFamily(familyId: number, filters: Object): Promise<Family> {
   const url: string = applyFilters(

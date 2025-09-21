@@ -1,15 +1,15 @@
 import 'dotenv/config'
 import fs from 'fs/promises'
 
-import { fetchFamiliesIds } from './fetchers/fetchFamiliesIds'
-import { fetchMonstersByFamily } from './fetchers/fetchMonstersByFamily'
-import { loggingFamily } from './logging/loggingFamily'
+import { fetchFamiliesIds } from './fetchers/fetchFamiliesIds.ts'
+import { fetchMonstersByFamily } from './fetchers/fetchMonstersByFamily.ts'
+import { loggingFamily } from './logging/loggingFamily.ts'
 
-import { saveJson } from './helpers/jsonUtils'
-import { saveMsgPack } from './helpers/msgpackUtils.js'
-import { BackgroundMonsterImg, type Family, MonsterRule, SimpleMonster } from '../types/monsters'
+import { saveJson } from './helpers/jsonUtils.ts'
+import { saveMsgPack } from './helpers/msgpackUtils.ts'
+import { type SimpleMonsterWithVariants, type BackgroundMonsterImg, type Family, type MonsterRule } from '../types/monsters.ts'
 
-import { applyRules } from './helpers/applyRules'
+import { applyRules } from './helpers/applyRules.ts'
 ;(async () => {
   /*
    *  Création du dossier data dans public
@@ -46,7 +46,7 @@ import { applyRules } from './helpers/applyRules'
     /*
      *Création de la liste des images de monstres
      */
-    family.monsters.map((m) => {
+    family.monsters.map((m: SimpleMonsterWithVariants) => {
       imgMonsters.push({
         image_filename: m.variants[0].image_filename!,
         id: m.variants[0].com2us_id,

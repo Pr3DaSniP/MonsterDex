@@ -1,6 +1,6 @@
-import { applyFilters } from "../helpers/applyFilters";
-import { type SimpleMonster } from "../../types/monsters";
-import { type ApiResponse } from "../../types/apiResponse"
+import { applyFilters } from "../helpers/applyFilters.ts";
+import { type SimpleMonster } from "../../types/monsters.ts";
+import { type ApiResponse } from "../../types/apiResponse.ts"
 
 export async function fetchSecondAwakenedFamiliesIds(): Promise<number[]> {
   let families_id = new Set<number>();

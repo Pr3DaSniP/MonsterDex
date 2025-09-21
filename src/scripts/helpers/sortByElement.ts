@@ -1,5 +1,5 @@
-import { type SimpleMonsterWithVariants, type Family } from '../../types/monsters'
-import { ElementType } from '../../types/element'
+import { type SimpleMonsterWithVariants, type Family } from '../../types/monsters.ts'
+import { ElementType } from '../../types/element.ts'
 
 const ELEMENT_ORDER: String[] = ['Water', 'Fire', 'Wind', 'Light', 'Dark']
 
@@ -23,7 +23,7 @@ export const emptyMonsterWithVariants: SimpleMonsterWithVariants = {
 
 export function sortFamilyByElement(family: Family): Family {
   const sortedMonsters: SimpleMonsterWithVariants[] = ELEMENT_ORDER.map((element) => {
-    const found = family.monsters.find((m) => m.element === element)
+    const found = family.monsters.find((m: SimpleMonsterWithVariants) => m.element === element)
     return found ?? emptyMonsterWithVariants
   })
 
