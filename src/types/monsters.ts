@@ -14,6 +14,7 @@ type SimpleMonster = {
   owned: boolean
   full_skill: boolean
   bestiary_slug: string
+  skill_ups_to_max: number
 }
 
 type VariantMonster = {
@@ -30,6 +31,7 @@ type SimpleMonsterWithVariants = {
   skill_group_id: number
   owned: boolean
   full_skill: boolean
+  skill_ups_to_max: number
   variants: VariantMonster[]
 }
 

@@ -50,6 +50,7 @@ function getSimpleMonsterWithVariants(monster: SimpleMonster): SimpleMonsterWith
     skill_group_id: monster.skill_group_id,
     owned: false,
     full_skill: false,
+    skill_ups_to_max: monster.skill_ups_to_max,
     variants: getVariantMonster(monster)
   };
 }

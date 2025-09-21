@@ -12,6 +12,7 @@
         "skill_group_id": 14900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Ellin",
@@ -28,6 +29,7 @@
         "skill_group_id": 14900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Ceres",
@@ -44,6 +46,7 @@
         "skill_group_id": 14900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Hina",
@@ -60,6 +63,7 @@
         "skill_group_id": 14900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Lyn",
@@ -76,6 +80,7 @@
         "skill_group_id": 14900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Mara",
@@ -101,6 +106,7 @@
         "skill_group_id": 19000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Talc",
@@ -117,6 +123,7 @@
         "skill_group_id": 19000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Granite",
@@ -133,6 +140,7 @@
         "skill_group_id": 19000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Olivine",
@@ -149,6 +157,7 @@
         "skill_group_id": 19000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Marble",
@@ -165,6 +174,7 @@
         "skill_group_id": 19000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Basalt",
@@ -190,6 +200,7 @@
         "skill_group_id": 13700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Gruda",
@@ -206,6 +217,7 @@
         "skill_group_id": 13700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Kungen",
@@ -222,6 +234,7 @@
         "skill_group_id": 13700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Dagorr",
@@ -238,6 +251,7 @@
         "skill_group_id": 13700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Ahman",
@@ -254,6 +268,7 @@
         "skill_group_id": 13700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Haken",
@@ -279,6 +294,7 @@
         "skill_group_id": 18500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Gangchun",
@@ -295,6 +311,7 @@
         "skill_group_id": 18500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Nangrim",
@@ -311,6 +328,7 @@
         "skill_group_id": 18500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Suri",
@@ -327,6 +345,7 @@
         "skill_group_id": 18500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Baekdu",
@@ -343,6 +362,7 @@
         "skill_group_id": 18500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Hanra",
@@ -368,6 +388,7 @@
         "skill_group_id": 15600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Wayne",
@@ -384,6 +405,7 @@
         "skill_group_id": 15600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Randy",
@@ -400,6 +422,7 @@
         "skill_group_id": 15600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Roger",
@@ -416,6 +439,7 @@
         "skill_group_id": 15600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Walkers",
@@ -432,6 +456,7 @@
         "skill_group_id": 15600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Jamie",
@@ -457,6 +482,7 @@
         "skill_group_id": 19300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Sera",
@@ -473,6 +499,7 @@
         "skill_group_id": 19300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Anne",
@@ -489,6 +516,7 @@
         "skill_group_id": 19300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Hannah",
@@ -505,6 +533,7 @@
         "skill_group_id": 19300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Loren",
@@ -521,6 +550,7 @@
         "skill_group_id": 19300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Cassie",
@@ -546,6 +576,7 @@
         "skill_group_id": 17200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Mao",
@@ -562,6 +593,7 @@
         "skill_group_id": 17200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Xiao Chun",
@@ -578,6 +610,7 @@
         "skill_group_id": 17200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Huan",
@@ -594,6 +627,7 @@
         "skill_group_id": 17200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Tien Qin",
@@ -610,6 +644,7 @@
         "skill_group_id": 17200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Wei Shin",
@@ -635,6 +670,7 @@
         "skill_group_id": 11400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Kuhn",
@@ -651,6 +687,7 @@
         "skill_group_id": 11400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Kugo",
@@ -667,6 +704,7 @@
         "skill_group_id": 11400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 7,
         "variants": [
           {
             "name": "Ragion",
@@ -683,6 +721,7 @@
         "skill_group_id": 11400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 7,
         "variants": [
           {
             "name": "Groggo",
@@ -699,6 +738,7 @@
         "skill_group_id": 11400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Maggi",
@@ -724,6 +764,7 @@
         "skill_group_id": 10500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Ramira",
@@ -740,6 +781,7 @@
         "skill_group_id": 10500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Lucasha",
@@ -756,6 +798,7 @@
         "skill_group_id": 10500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Prilea",
@@ -772,6 +815,7 @@
         "skill_group_id": 10500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Kabilla",
@@ -788,6 +832,7 @@
         "skill_group_id": 10500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 17,
         "variants": [
           {
             "name": "Hellea",
@@ -813,6 +858,7 @@
         "skill_group_id": 15800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Yaku",
@@ -829,6 +875,7 @@
         "skill_group_id": 15800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Fairo",
@@ -845,6 +892,7 @@
         "skill_group_id": 15800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 7,
         "variants": [
           {
             "name": "Pigma",
@@ -861,6 +909,7 @@
         "skill_group_id": 15800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Shaffron",
@@ -877,6 +926,7 @@
         "skill_group_id": 15800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Loque",
@@ -902,6 +952,7 @@
         "skill_group_id": 11700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Purian",
@@ -918,6 +969,7 @@
         "skill_group_id": 11700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Tagaros",
@@ -934,6 +986,7 @@
         "skill_group_id": 11700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Anduril",
@@ -950,6 +1003,7 @@
         "skill_group_id": 11700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Eludain",
@@ -966,6 +1020,7 @@
         "skill_group_id": 11700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Drogan",
@@ -991,6 +1046,7 @@
         "skill_group_id": 17800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Kernodon",
@@ -1007,6 +1063,7 @@
         "skill_group_id": 17800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Igmanodon",
@@ -1023,6 +1080,7 @@
         "skill_group_id": 17800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Velfinodon",
@@ -1039,6 +1097,7 @@
         "skill_group_id": 17800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Glinodon",
@@ -1055,6 +1114,7 @@
         "skill_group_id": 17800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Devinodon",
@@ -1080,6 +1140,7 @@
         "skill_group_id": 15400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Sharron",
@@ -1096,6 +1157,7 @@
         "skill_group_id": 15400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Amanda",
@@ -1112,6 +1174,7 @@
         "skill_group_id": 15400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Ardella",
@@ -1128,6 +1191,7 @@
         "skill_group_id": 15400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Chris",
@@ -1144,6 +1208,7 @@
         "skill_group_id": 15400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Bethony",
@@ -1169,6 +1234,7 @@
         "skill_group_id": 17700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Urtau",
@@ -1185,6 +1251,7 @@
         "skill_group_id": 17700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Burentau",
@@ -1201,6 +1268,7 @@
         "skill_group_id": 17700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Eintau",
@@ -1217,6 +1285,7 @@
         "skill_group_id": 17700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Grotau",
@@ -1233,6 +1302,7 @@
         "skill_group_id": 17700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Kamatau",
@@ -1258,6 +1328,7 @@
         "skill_group_id": 18700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Toma",
@@ -1274,6 +1345,7 @@
         "skill_group_id": 18700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Naki",
@@ -1290,6 +1362,7 @@
         "skill_group_id": 18700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Mav",
@@ -1306,6 +1379,7 @@
         "skill_group_id": 18700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Dona",
@@ -1322,6 +1396,7 @@
         "skill_group_id": 18700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Kuna",
@@ -1347,6 +1422,7 @@
         "skill_group_id": 11100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Kaimann",
@@ -1363,6 +1439,7 @@
         "skill_group_id": 11100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Krakdon",
@@ -1379,6 +1456,7 @@
         "skill_group_id": 11100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Lukan",
@@ -1395,6 +1473,7 @@
         "skill_group_id": 11100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Sharman",
@@ -1411,6 +1490,7 @@
         "skill_group_id": 11100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Decamaron",
@@ -1436,6 +1516,7 @@
         "skill_group_id": 11300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Shailoq",
@@ -1452,6 +1533,7 @@
         "skill_group_id": 11300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Fao",
@@ -1468,6 +1550,7 @@
         "skill_group_id": 11300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 7,
         "variants": [
           {
             "name": "Ermeda",
@@ -1484,6 +1567,7 @@
         "skill_group_id": 11300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Elpuria",
@@ -1500,6 +1584,7 @@
         "skill_group_id": 11300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Mantura",
@@ -1525,6 +1610,7 @@
         "skill_group_id": 18400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Gildong",
@@ -1541,6 +1627,7 @@
         "skill_group_id": 18400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Gunpyeong",
@@ -1557,6 +1644,7 @@
         "skill_group_id": 18400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Woochi",
@@ -1573,6 +1661,7 @@
         "skill_group_id": 18400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Hwadam",
@@ -1589,6 +1678,7 @@
         "skill_group_id": 18400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Woonhak",
@@ -1614,6 +1704,7 @@
         "skill_group_id": 14800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Huga",
@@ -1630,6 +1721,7 @@
         "skill_group_id": 14800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Geoffrey",
@@ -1646,6 +1738,7 @@
         "skill_group_id": 14800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 17,
         "variants": [
           {
             "name": "Walter",
@@ -1662,6 +1755,7 @@
         "skill_group_id": 14800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Jansson",
@@ -1678,6 +1772,7 @@
         "skill_group_id": 14800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 17,
         "variants": [
           {
             "name": "Janssen",
@@ -1703,6 +1798,7 @@
         "skill_group_id": 18800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Aegir",
@@ -1719,6 +1815,7 @@
         "skill_group_id": 18800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Surtr",
@@ -1735,6 +1832,7 @@
         "skill_group_id": 18800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Hraesvelg",
@@ -1751,6 +1849,7 @@
         "skill_group_id": 18800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Mimirr",
@@ -1767,6 +1866,7 @@
         "skill_group_id": 18800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Hrungnir",
@@ -1792,6 +1892,7 @@
         "skill_group_id": 18000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Orion",
@@ -1808,6 +1909,7 @@
         "skill_group_id": 18000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Draco",
@@ -1824,6 +1926,7 @@
         "skill_group_id": 18000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Aquila",
@@ -1840,6 +1943,7 @@
         "skill_group_id": 18000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Gemini",
@@ -1856,6 +1960,7 @@
         "skill_group_id": 18000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Korona",
@@ -1881,6 +1986,7 @@
         "skill_group_id": 16200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Fedora",
@@ -1897,6 +2003,7 @@
         "skill_group_id": 16200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Arnold",
@@ -1913,6 +2020,7 @@
         "skill_group_id": 16200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Briand",
@@ -1929,6 +2037,7 @@
         "skill_group_id": 16200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Conrad",
@@ -1945,6 +2054,7 @@
         "skill_group_id": 16200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Dias",
@@ -1970,6 +2080,7 @@
         "skill_group_id": 15300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Rina",
@@ -1986,6 +2097,7 @@
         "skill_group_id": 15300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Chloe",
@@ -2002,6 +2114,7 @@
         "skill_group_id": 15300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Michelle",
@@ -2018,6 +2131,7 @@
         "skill_group_id": 15300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Iona",
@@ -2034,6 +2148,7 @@
         "skill_group_id": 15300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Rasheed",
@@ -2059,6 +2174,7 @@
         "skill_group_id": 13400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Sian",
@@ -2075,6 +2191,7 @@
         "skill_group_id": 13400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Jojo",
@@ -2091,6 +2208,7 @@
         "skill_group_id": 13400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Lushen",
@@ -2107,6 +2225,7 @@
         "skill_group_id": 13400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Figaro",
@@ -2123,6 +2242,7 @@
         "skill_group_id": 13400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Liebli",
@@ -2148,6 +2268,7 @@
         "skill_group_id": 18100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Malaka",
@@ -2164,6 +2285,7 @@
         "skill_group_id": 18100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Zibrolta",
@@ -2180,6 +2302,7 @@
         "skill_group_id": 18100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Taurus",
@@ -2196,6 +2319,7 @@
         "skill_group_id": 18100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Dover",
@@ -2212,6 +2336,7 @@
         "skill_group_id": 18100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Bering",
@@ -2237,6 +2362,7 @@
         "skill_group_id": 17300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Xiao Lin",
@@ -2253,6 +2379,7 @@
         "skill_group_id": 17300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Hong Hua",
@@ -2269,6 +2396,7 @@
         "skill_group_id": 17300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Ling Ling",
@@ -2285,6 +2413,7 @@
         "skill_group_id": 17300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Liu Mei",
@@ -2301,6 +2430,7 @@
         "skill_group_id": 17300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Fei",
@@ -2326,6 +2456,7 @@
         "skill_group_id": 16300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Rigel",
@@ -2342,6 +2473,7 @@
         "skill_group_id": 16300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Antares",
@@ -2358,6 +2490,7 @@
         "skill_group_id": 16300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Fuco",
@@ -2374,6 +2507,7 @@
         "skill_group_id": 16300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Halphas",
@@ -2390,6 +2524,7 @@
         "skill_group_id": 16300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Grego",
@@ -2415,6 +2550,7 @@
         "skill_group_id": 11200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Soha",
@@ -2431,6 +2567,7 @@
         "skill_group_id": 11200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Shihwa",
@@ -2447,6 +2584,7 @@
         "skill_group_id": 11200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Arang",
@@ -2463,6 +2601,7 @@
         "skill_group_id": 11200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Chamie",
@@ -2479,6 +2618,7 @@
         "skill_group_id": 11200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Kamiya",
@@ -2504,6 +2644,7 @@
         "skill_group_id": 13500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Susano",
@@ -2520,6 +2661,7 @@
         "skill_group_id": 13500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Garo",
@@ -2536,6 +2678,7 @@
         "skill_group_id": 13500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Orochi",
@@ -2552,6 +2695,7 @@
         "skill_group_id": 13500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Gin",
@@ -2568,6 +2712,7 @@
         "skill_group_id": 13500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Han",
@@ -2593,6 +2738,7 @@
         "skill_group_id": 14100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Luer",
@@ -2609,6 +2755,7 @@
         "skill_group_id": 14100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Jean",
@@ -2625,6 +2772,7 @@
         "skill_group_id": 14100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Julien",
@@ -2641,6 +2789,7 @@
         "skill_group_id": 14100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Louis",
@@ -2657,6 +2806,7 @@
         "skill_group_id": 14100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Guillaume",
@@ -2682,6 +2832,7 @@
         "skill_group_id": 13900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Julie",
@@ -2698,6 +2849,7 @@
         "skill_group_id": 13900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Clara",
@@ -2714,6 +2866,7 @@
         "skill_group_id": 13900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Sophia",
@@ -2730,6 +2883,7 @@
         "skill_group_id": 13900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Eva",
@@ -2746,6 +2900,7 @@
         "skill_group_id": 13900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Luna",
@@ -2771,6 +2926,7 @@
         "skill_group_id": 15500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Su",
@@ -2787,6 +2943,7 @@
         "skill_group_id": 15500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Hwa",
@@ -2803,6 +2960,7 @@
         "skill_group_id": 15500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Yen",
@@ -2819,6 +2977,7 @@
         "skill_group_id": 15500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Pang",
@@ -2835,6 +2994,7 @@
         "skill_group_id": 15500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Ran",
@@ -2860,6 +3020,7 @@
         "skill_group_id": 16900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Kaz",
@@ -2876,6 +3037,7 @@
         "skill_group_id": 16900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Jun",
@@ -2892,6 +3054,7 @@
         "skill_group_id": 16900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Kaito",
@@ -2908,6 +3071,7 @@
         "skill_group_id": 16900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Tosi",
@@ -2924,6 +3088,7 @@
         "skill_group_id": 16900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Sige",
@@ -2949,6 +3114,7 @@
         "skill_group_id": 18300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Mihyang",
@@ -2965,6 +3131,7 @@
         "skill_group_id": 18300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Hwahee",
@@ -2981,6 +3148,7 @@
         "skill_group_id": 18300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Chasun",
@@ -2997,6 +3165,7 @@
         "skill_group_id": 18300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Yeonhong",
@@ -3013,6 +3182,7 @@
         "skill_group_id": 18300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Wolyung",
@@ -3038,6 +3208,7 @@
         "skill_group_id": 13300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Izaria",
@@ -3054,6 +3225,7 @@
         "skill_group_id": 13300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Akia",
@@ -3070,6 +3242,7 @@
         "skill_group_id": 13300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Selena",
@@ -3086,6 +3259,7 @@
         "skill_group_id": 13300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Aria",
@@ -3102,6 +3276,7 @@
         "skill_group_id": 13300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Isael",
@@ -3127,6 +3302,7 @@
         "skill_group_id": 11800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Tyron",
@@ -3143,6 +3319,7 @@
         "skill_group_id": 11800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Baretta",
@@ -3159,6 +3336,7 @@
         "skill_group_id": 11800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Shimitae",
@@ -3175,6 +3353,7 @@
         "skill_group_id": 11800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Eredas",
@@ -3191,6 +3370,7 @@
         "skill_group_id": 11800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Aschubel",
@@ -3216,6 +3396,7 @@
         "skill_group_id": 11900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Lumirecia",
@@ -3232,6 +3413,7 @@
         "skill_group_id": 11900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Fria",
@@ -3248,6 +3430,7 @@
         "skill_group_id": 11900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Acasis",
@@ -3264,6 +3447,7 @@
         "skill_group_id": 11900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Mihael",
@@ -3280,6 +3464,7 @@
         "skill_group_id": 11900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Icares",
@@ -3305,6 +3490,7 @@
         "skill_group_id": 11600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Mikene",
@@ -3321,6 +3507,7 @@
         "skill_group_id": 11600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Atenai",
@@ -3337,6 +3524,7 @@
         "skill_group_id": 11600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Delphoi",
@@ -3353,6 +3541,7 @@
         "skill_group_id": 11600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Icasha",
@@ -3369,6 +3558,7 @@
         "skill_group_id": 11600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Tilasha",
@@ -3394,6 +3584,7 @@
         "skill_group_id": 14700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Liesel",
@@ -3410,6 +3601,7 @@
         "skill_group_id": 14700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Verdehile",
@@ -3426,6 +3618,7 @@
         "skill_group_id": 14700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Argen",
@@ -3442,6 +3635,7 @@
         "skill_group_id": 14700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Julianne",
@@ -3458,6 +3652,7 @@
         "skill_group_id": 14700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Cadiz",
@@ -3483,6 +3678,7 @@
         "skill_group_id": 17000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Ariel",
@@ -3499,6 +3695,7 @@
         "skill_group_id": 17000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Velajuel",
@@ -3515,6 +3712,7 @@
         "skill_group_id": 17000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Eladriel",
@@ -3531,6 +3729,7 @@
         "skill_group_id": 17000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Artamiel",
@@ -3547,6 +3746,7 @@
         "skill_group_id": 17000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 7,
         "variants": [
           {
             "name": "Fermion",
@@ -3572,6 +3772,7 @@
         "skill_group_id": 17400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Chandra",
@@ -3588,6 +3789,7 @@
         "skill_group_id": 17400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Kumar",
@@ -3604,6 +3806,7 @@
         "skill_group_id": 17400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Ritesh",
@@ -3620,6 +3823,7 @@
         "skill_group_id": 17400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Shazam",
@@ -3636,6 +3840,7 @@
         "skill_group_id": 17400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Rahul",
@@ -3661,6 +3866,7 @@
         "skill_group_id": 14600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Taor",
@@ -3677,6 +3883,7 @@
         "skill_group_id": 14600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Rakan",
@@ -3693,6 +3900,7 @@
         "skill_group_id": 14600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Lagmaron",
@@ -3709,6 +3917,7 @@
         "skill_group_id": 14600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Shan",
@@ -3725,6 +3934,7 @@
         "skill_group_id": 14600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Zeratu",
@@ -3750,6 +3960,7 @@
         "skill_group_id": 14400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Verad",
@@ -3766,6 +3977,7 @@
         "skill_group_id": 14400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Zaiross",
@@ -3782,6 +3994,7 @@
         "skill_group_id": 14400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Jamire",
@@ -3798,6 +4011,7 @@
         "skill_group_id": 14400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Zerath",
@@ -3814,6 +4028,7 @@
         "skill_group_id": 14400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Grogen",
@@ -3839,6 +4054,7 @@
         "skill_group_id": 16600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Chow",
@@ -3855,6 +4071,7 @@
         "skill_group_id": 16600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Laika",
@@ -3871,6 +4088,7 @@
         "skill_group_id": 16600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Leo",
@@ -3887,6 +4105,7 @@
         "skill_group_id": 16600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Jager",
@@ -3903,6 +4122,7 @@
         "skill_group_id": 16600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Ragdoll",
@@ -3928,6 +4148,7 @@
         "skill_group_id": 17900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Beth",
@@ -3944,6 +4165,7 @@
         "skill_group_id": 17900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Raki",
@@ -3960,6 +4182,7 @@
         "skill_group_id": 17900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Ethna",
@@ -3976,6 +4199,7 @@
         "skill_group_id": 17900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Asima",
@@ -3992,6 +4216,7 @@
         "skill_group_id": 17900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Craka",
@@ -4017,6 +4242,7 @@
         "skill_group_id": 19200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Theomars",
@@ -4033,6 +4259,7 @@
         "skill_group_id": 19200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Tesarion",
@@ -4049,6 +4276,7 @@
         "skill_group_id": 19200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Akhamamir",
@@ -4065,6 +4293,7 @@
         "skill_group_id": 19200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Elsharion",
@@ -4081,6 +4310,7 @@
         "skill_group_id": 19200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Veromos",
@@ -4106,6 +4336,7 @@
         "skill_group_id": 16800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Shi Hou",
@@ -4122,6 +4353,7 @@
         "skill_group_id": 16800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Mei Hou Wang",
@@ -4138,6 +4370,7 @@
         "skill_group_id": 16800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Xing Zhe",
@@ -4154,6 +4387,7 @@
         "skill_group_id": 16800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Qitian Dasheng",
@@ -4170,6 +4404,7 @@
         "skill_group_id": 16800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Son Zhang Lao",
@@ -4195,6 +4430,7 @@
         "skill_group_id": 16100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Anavel",
@@ -4211,6 +4447,7 @@
         "skill_group_id": 16100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Rica",
@@ -4227,6 +4464,7 @@
         "skill_group_id": 16100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Charlotte",
@@ -4243,6 +4481,7 @@
         "skill_group_id": 16100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Lora",
@@ -4259,6 +4498,7 @@
         "skill_group_id": 16100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Nicki",
@@ -4284,6 +4524,7 @@
         "skill_group_id": 15700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Praha",
@@ -4300,6 +4541,7 @@
         "skill_group_id": 15700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Juno",
@@ -4316,6 +4558,7 @@
         "skill_group_id": 15700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Seara",
@@ -4332,6 +4575,7 @@
         "skill_group_id": 15700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Laima",
@@ -4348,6 +4592,7 @@
         "skill_group_id": 15700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Giana",
@@ -4373,6 +4618,7 @@
         "skill_group_id": 14500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Sigmarus",
@@ -4389,6 +4635,7 @@
         "skill_group_id": 14500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Perna",
@@ -4405,6 +4652,7 @@
         "skill_group_id": 14500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Teshar",
@@ -4421,6 +4669,7 @@
         "skill_group_id": 14500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Eludia",
@@ -4437,6 +4686,7 @@
         "skill_group_id": 14500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Jaara",
@@ -4462,6 +4712,7 @@
         "skill_group_id": 18600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Woosa",
@@ -4478,6 +4729,7 @@
         "skill_group_id": 18600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Chiwu",
@@ -4494,6 +4746,7 @@
         "skill_group_id": 18600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Pungbaek",
@@ -4510,6 +4763,7 @@
         "skill_group_id": 18600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Nigong",
@@ -4526,6 +4780,7 @@
         "skill_group_id": 18600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Woonsa",
@@ -4551,6 +4806,7 @@
         "skill_group_id": 18900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Alicia",
@@ -4567,6 +4823,7 @@
         "skill_group_id": 18900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Brandia",
@@ -4583,6 +4840,7 @@
         "skill_group_id": 18900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Tiana",
@@ -4599,6 +4857,7 @@
         "skill_group_id": 18900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Elenoa",
@@ -4615,6 +4874,7 @@
         "skill_group_id": 18900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Lydia",
@@ -4640,6 +4900,7 @@
         "skill_group_id": 13800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 7,
         "variants": [
           {
             "name": "Camilla",
@@ -4656,6 +4917,7 @@
         "skill_group_id": 13800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Vanessa",
@@ -4672,6 +4934,7 @@
         "skill_group_id": 13800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Katarina",
@@ -4688,6 +4951,7 @@
         "skill_group_id": 13800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 7,
         "variants": [
           {
             "name": "Akroma",
@@ -4704,6 +4968,7 @@
         "skill_group_id": 13800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Trinity",
@@ -4729,6 +4994,7 @@
         "skill_group_id": 10800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Daharenos",
@@ -4745,6 +5011,7 @@
         "skill_group_id": 10800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Bremis",
@@ -4761,6 +5028,7 @@
         "skill_group_id": 10800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Taharus",
@@ -4777,6 +5045,7 @@
         "skill_group_id": 10800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Priz",
@@ -4793,6 +5062,7 @@
         "skill_group_id": 10800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Camules",
@@ -4860,6 +5130,7 @@
         "skill_group_id": 10100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Fran",
@@ -4899,6 +5170,7 @@
         "skill_group_id": 10900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Konamiya",
@@ -4915,6 +5187,7 @@
         "skill_group_id": 10900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Cahule",
@@ -4931,6 +5204,7 @@
         "skill_group_id": 10900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 17,
         "variants": [
           {
             "name": "Lindermen",
@@ -4947,6 +5221,7 @@
         "skill_group_id": 10900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Teon",
@@ -4963,6 +5238,7 @@
         "skill_group_id": 10900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Rizak",
@@ -4988,6 +5264,7 @@
         "skill_group_id": 10600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Tarq",
@@ -5004,6 +5281,7 @@
         "skill_group_id": 10600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Sieq",
@@ -5020,6 +5298,7 @@
         "skill_group_id": 10600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Gamir",
@@ -5036,6 +5315,7 @@
         "skill_group_id": 10600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Shamar",
@@ -5052,6 +5332,7 @@
         "skill_group_id": 10600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Shumar",
@@ -5077,6 +5358,7 @@
         "skill_group_id": 10400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Kunda",
@@ -5093,6 +5375,7 @@
         "skill_group_id": 10400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Tantra",
@@ -5109,6 +5392,7 @@
         "skill_group_id": 10400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 16,
         "variants": [
           {
             "name": "Rakaja",
@@ -5125,6 +5409,7 @@
         "skill_group_id": 10400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Arkajan",
@@ -5141,6 +5426,7 @@
         "skill_group_id": 10400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Kumae",
@@ -5166,6 +5452,7 @@
         "skill_group_id": 19500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Aqcus",
@@ -5182,6 +5469,7 @@
         "skill_group_id": 19500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Ignicus",
@@ -5198,6 +5486,7 @@
         "skill_group_id": 19500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Zephicus",
@@ -5214,6 +5503,7 @@
         "skill_group_id": 19500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Rumicus",
@@ -5230,6 +5520,7 @@
         "skill_group_id": 19500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Calicus",
@@ -5255,6 +5546,7 @@
         "skill_group_id": 19400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Galleon",
@@ -5271,6 +5563,7 @@
         "skill_group_id": 19400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Carrack",
@@ -5287,6 +5580,7 @@
         "skill_group_id": 19400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Barque",
@@ -5303,6 +5597,7 @@
         "skill_group_id": 19400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Brig",
@@ -5319,6 +5614,7 @@
         "skill_group_id": 19400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Frigate",
@@ -5344,6 +5640,7 @@
         "skill_group_id": 19600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Tetra",
@@ -5360,6 +5657,7 @@
         "skill_group_id": 19600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Platy",
@@ -5376,6 +5674,7 @@
         "skill_group_id": 19600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Cichlid",
@@ -5392,6 +5691,7 @@
         "skill_group_id": 19600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Molly",
@@ -5408,6 +5708,7 @@
         "skill_group_id": 19600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Betta",
@@ -5433,6 +5734,7 @@
         "skill_group_id": 19700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Poseidon",
@@ -5449,6 +5751,7 @@
         "skill_group_id": 19700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Okeanos",
@@ -5465,6 +5768,7 @@
         "skill_group_id": 19700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Triton",
@@ -5481,6 +5785,7 @@
         "skill_group_id": 19700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 7,
         "variants": [
           {
             "name": "Pontos",
@@ -5497,6 +5802,7 @@
         "skill_group_id": 19700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Manannan",
@@ -5522,6 +5828,7 @@
         "skill_group_id": 19800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Lapis",
@@ -5538,6 +5845,7 @@
         "skill_group_id": 19800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Astar",
@@ -5554,6 +5862,7 @@
         "skill_group_id": 19800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Lupinus",
@@ -5570,6 +5879,7 @@
         "skill_group_id": 19800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Iris",
@@ -5586,6 +5896,7 @@
         "skill_group_id": 19800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Lanett",
@@ -5653,6 +5964,7 @@
         "skill_group_id": 15400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Fami",
@@ -5692,6 +6004,7 @@
         "skill_group_id": 19900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Stella",
@@ -5708,6 +6021,7 @@
         "skill_group_id": 19900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Lexy",
@@ -5724,6 +6038,7 @@
         "skill_group_id": 19900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Tanya",
@@ -5740,6 +6055,7 @@
         "skill_group_id": 19900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Natalie",
@@ -5756,6 +6072,7 @@
         "skill_group_id": 19900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Isabelle",
@@ -5781,6 +6098,7 @@
         "skill_group_id": 20100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Emma",
@@ -5797,6 +6115,7 @@
         "skill_group_id": 20100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Lisa",
@@ -5813,6 +6132,7 @@
         "skill_group_id": 20100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Olivia",
@@ -5829,6 +6149,7 @@
         "skill_group_id": 20100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Illianna",
@@ -5845,6 +6166,7 @@
         "skill_group_id": 20100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Sylvia",
@@ -5870,6 +6192,7 @@
         "skill_group_id": 20200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 18,
         "variants": [
           {
             "name": "Luan",
@@ -5886,6 +6209,7 @@
         "skill_group_id": 20200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Sin",
@@ -5902,6 +6226,7 @@
         "skill_group_id": 20200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 17,
         "variants": [
           {
             "name": "Lo",
@@ -5918,6 +6243,7 @@
         "skill_group_id": 20200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 17,
         "variants": [
           {
             "name": "Hiro",
@@ -5934,6 +6260,7 @@
         "skill_group_id": 20200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 18,
         "variants": [
           {
             "name": "Jackie",
@@ -5959,6 +6286,7 @@
         "skill_group_id": 20000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Ryan",
@@ -5975,6 +6303,7 @@
         "skill_group_id": 20000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Trevor",
@@ -5991,6 +6320,7 @@
         "skill_group_id": 20000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Logan",
@@ -6007,6 +6337,7 @@
         "skill_group_id": 20000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Lucas",
@@ -6023,6 +6354,7 @@
         "skill_group_id": 20000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Karl",
@@ -6048,6 +6380,7 @@
         "skill_group_id": 20300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Nubia",
@@ -6064,6 +6397,7 @@
         "skill_group_id": 20300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Sonora",
@@ -6080,6 +6414,7 @@
         "skill_group_id": 20300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Namib",
@@ -6096,6 +6431,7 @@
         "skill_group_id": 20300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Sahara",
@@ -6112,6 +6448,7 @@
         "skill_group_id": 20300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Karakum",
@@ -6137,6 +6474,7 @@
         "skill_group_id": 20400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Avaris",
@@ -6153,6 +6491,7 @@
         "skill_group_id": 20400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Khmun",
@@ -6169,6 +6508,7 @@
         "skill_group_id": 20400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Iunu",
@@ -6185,6 +6525,7 @@
         "skill_group_id": 20400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Amarna",
@@ -6201,6 +6542,7 @@
         "skill_group_id": 20400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Thebae",
@@ -6226,6 +6568,7 @@
         "skill_group_id": 20600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Qebehsenuef",
@@ -6242,6 +6585,7 @@
         "skill_group_id": 20600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Duamutef",
@@ -6258,6 +6602,7 @@
         "skill_group_id": 20600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Imesety",
@@ -6274,6 +6619,7 @@
         "skill_group_id": 20600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Wedjat",
@@ -6290,6 +6636,7 @@
         "skill_group_id": 20600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Amduat",
@@ -6315,6 +6662,7 @@
         "skill_group_id": 20500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Bastet",
@@ -6331,6 +6679,7 @@
         "skill_group_id": 20500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Sekhmet",
@@ -6347,6 +6696,7 @@
         "skill_group_id": 20500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Hathor",
@@ -6363,6 +6713,7 @@
         "skill_group_id": 20500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Isis",
@@ -6379,6 +6730,7 @@
         "skill_group_id": 20500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Nephthys",
@@ -6404,6 +6756,7 @@
         "skill_group_id": 20700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 7,
         "variants": [
           {
             "name": "Chilling",
@@ -6420,6 +6773,7 @@
         "skill_group_id": 20700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Smokey",
@@ -6436,6 +6790,7 @@
         "skill_group_id": 20700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Windy",
@@ -6452,6 +6807,7 @@
         "skill_group_id": 20700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Misty",
@@ -6468,6 +6824,7 @@
         "skill_group_id": 20700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Dusky",
@@ -6493,6 +6850,7 @@
         "skill_group_id": 20900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Eluin",
@@ -6509,6 +6867,7 @@
         "skill_group_id": 20900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Adrian",
@@ -6525,6 +6884,7 @@
         "skill_group_id": 20900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Erwin",
@@ -6541,6 +6901,7 @@
         "skill_group_id": 20900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Lucien",
@@ -6557,6 +6918,7 @@
         "skill_group_id": 20900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Isillen",
@@ -6582,6 +6944,7 @@
         "skill_group_id": 21000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Remy",
@@ -6598,6 +6961,7 @@
         "skill_group_id": 21000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Racuni",
@@ -6614,6 +6978,7 @@
         "skill_group_id": 21000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Raviti",
@@ -6630,6 +6995,7 @@
         "skill_group_id": 21000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Dova",
@@ -6646,6 +7012,7 @@
         "skill_group_id": 21000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Kroa",
@@ -6671,6 +7038,7 @@
         "skill_group_id": 21100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 15,
         "variants": [
           {
             "name": "Psamathe",
@@ -6687,6 +7055,7 @@
         "skill_group_id": 21100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Daphnis",
@@ -6703,6 +7072,7 @@
         "skill_group_id": 21100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Ganymede",
@@ -6719,6 +7089,7 @@
         "skill_group_id": 21100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Oberon",
@@ -6735,6 +7106,7 @@
         "skill_group_id": 21100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Nyx",
@@ -6760,6 +7132,7 @@
         "skill_group_id": 21200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Mo Long",
@@ -6776,6 +7149,7 @@
         "skill_group_id": 21200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Xiong Fei",
@@ -6792,6 +7166,7 @@
         "skill_group_id": 21200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Feng Yan",
@@ -6808,6 +7183,7 @@
         "skill_group_id": 21200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Tian Lang",
@@ -6824,6 +7200,7 @@
         "skill_group_id": 21200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Mi Ying",
@@ -6849,6 +7226,7 @@
         "skill_group_id": 21300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Reno",
@@ -6865,6 +7243,7 @@
         "skill_group_id": 21300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Ludo",
@@ -6881,6 +7260,7 @@
         "skill_group_id": 21300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Morris",
@@ -6897,6 +7277,7 @@
         "skill_group_id": 21300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Tablo",
@@ -6913,6 +7294,7 @@
         "skill_group_id": 21300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Monte",
@@ -6938,6 +7320,7 @@
         "skill_group_id": 21400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Sonnet",
@@ -6954,6 +7337,7 @@
         "skill_group_id": 21400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Harmonia",
@@ -6970,6 +7354,7 @@
         "skill_group_id": 21400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Triana",
@@ -6986,6 +7371,7 @@
         "skill_group_id": 21400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Celia",
@@ -7002,6 +7388,7 @@
         "skill_group_id": 21400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Vivachel",
@@ -7027,6 +7414,7 @@
         "skill_group_id": 21500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Amelia",
@@ -7043,6 +7431,7 @@
         "skill_group_id": 21500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Helena",
@@ -7059,6 +7448,7 @@
         "skill_group_id": 21500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Diana",
@@ -7075,6 +7465,7 @@
         "skill_group_id": 21500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Eleanor",
@@ -7091,6 +7482,7 @@
         "skill_group_id": 21500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Alexandra",
@@ -7116,6 +7508,7 @@
         "skill_group_id": 21800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Josephine",
@@ -7132,6 +7525,7 @@
         "skill_group_id": 21800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Ophilia",
@@ -7148,6 +7542,7 @@
         "skill_group_id": 21800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Louise",
@@ -7164,6 +7559,7 @@
         "skill_group_id": 21800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Jeanne",
@@ -7180,6 +7576,7 @@
         "skill_group_id": 21800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Leona",
@@ -7205,6 +7602,7 @@
         "skill_group_id": 21900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Talia",
@@ -7221,6 +7619,7 @@
         "skill_group_id": 21900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Shaina",
@@ -7237,6 +7636,7 @@
         "skill_group_id": 21900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Melissa",
@@ -7253,6 +7653,7 @@
         "skill_group_id": 21900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Deva",
@@ -7269,6 +7670,7 @@
         "skill_group_id": 21900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Belita",
@@ -7294,6 +7696,7 @@
         "skill_group_id": 22000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Sabrina",
@@ -7310,6 +7713,7 @@
         "skill_group_id": 22000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Maruna",
@@ -7326,6 +7730,7 @@
         "skill_group_id": 22000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Zenobia",
@@ -7342,6 +7747,7 @@
         "skill_group_id": 22000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Bailey",
@@ -7358,6 +7764,7 @@
         "skill_group_id": 22000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Martina",
@@ -7383,6 +7790,7 @@
         "skill_group_id": 22100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Herne",
@@ -7399,6 +7807,7 @@
         "skill_group_id": 22100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Nisha",
@@ -7415,6 +7824,7 @@
         "skill_group_id": 22100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Mellia",
@@ -7431,6 +7841,7 @@
         "skill_group_id": 22100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Felleria",
@@ -7447,6 +7858,7 @@
         "skill_group_id": 22100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Hyanes",
@@ -7472,6 +7884,7 @@
         "skill_group_id": 22200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Abellio",
@@ -7488,6 +7901,7 @@
         "skill_group_id": 22200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Bellenus",
@@ -7504,6 +7918,7 @@
         "skill_group_id": 22200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Taranys",
@@ -7520,6 +7935,7 @@
         "skill_group_id": 22200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Valantis",
@@ -7536,6 +7952,7 @@
         "skill_group_id": 22200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Pater",
@@ -7561,6 +7978,7 @@
         "skill_group_id": 22400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Bagir",
@@ -7577,6 +7995,7 @@
         "skill_group_id": 22400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Vidurr",
@@ -7593,6 +8012,7 @@
         "skill_group_id": 22400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Skogul",
@@ -7609,6 +8029,7 @@
         "skill_group_id": 22400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 14,
         "variants": [
           {
             "name": "Einheri",
@@ -7625,6 +8046,7 @@
         "skill_group_id": 22400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Trasar",
@@ -7650,6 +8072,7 @@
         "skill_group_id": 22600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Bolverk",
@@ -7666,6 +8089,7 @@
         "skill_group_id": 22600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Baleygr",
@@ -7682,6 +8106,7 @@
         "skill_group_id": 22600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Odin",
@@ -7698,6 +8123,7 @@
         "skill_group_id": 22600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Geldnir",
@@ -7714,6 +8140,7 @@
         "skill_group_id": 22600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Herteit",
@@ -7739,6 +8166,7 @@
         "skill_group_id": 22700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Covenant",
@@ -7755,6 +8183,7 @@
         "skill_group_id": 22700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Carcano",
@@ -7771,6 +8200,7 @@
         "skill_group_id": 22700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Carbine",
@@ -7787,6 +8217,7 @@
         "skill_group_id": 22700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Magnum",
@@ -7803,6 +8234,7 @@
         "skill_group_id": 22700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Dragunov",
@@ -7828,6 +8260,7 @@
         "skill_group_id": 22900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Abigail",
@@ -7844,6 +8277,7 @@
         "skill_group_id": 22900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Scarlett",
@@ -7860,6 +8294,7 @@
         "skill_group_id": 22900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Christina",
@@ -7876,6 +8311,7 @@
         "skill_group_id": 22900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Emily",
@@ -7892,6 +8328,7 @@
         "skill_group_id": 22900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Bella",
@@ -7973,6 +8410,7 @@
         "skill_group_id": 14700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Eirgar",
@@ -7998,6 +8436,7 @@
         "skill_group_id": 23100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Belial",
@@ -8014,6 +8453,7 @@
         "skill_group_id": 23100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Bael",
@@ -8030,6 +8470,7 @@
         "skill_group_id": 23100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Mephisto",
@@ -8046,6 +8487,7 @@
         "skill_group_id": 23100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Lucifer",
@@ -8062,6 +8504,7 @@
         "skill_group_id": 23100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Beelzebub",
@@ -8087,6 +8530,7 @@
         "skill_group_id": 23300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Tanzaite",
@@ -8103,6 +8547,7 @@
         "skill_group_id": 23300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Kunite",
@@ -8119,6 +8564,7 @@
         "skill_group_id": 23300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Malite",
@@ -8135,6 +8581,7 @@
         "skill_group_id": 23300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Phenaka",
@@ -8151,6 +8598,7 @@
         "skill_group_id": 23300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Onyx",
@@ -8176,6 +8624,7 @@
         "skill_group_id": 23500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Barbara",
@@ -8192,6 +8641,7 @@
         "skill_group_id": 23500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Masha",
@@ -8208,6 +8658,7 @@
         "skill_group_id": 23500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Savannah",
@@ -8224,6 +8675,7 @@
         "skill_group_id": 23500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Narsha",
@@ -8240,6 +8692,7 @@
         "skill_group_id": 23500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Xiana",
@@ -8265,6 +8718,7 @@
         "skill_group_id": 23700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Haegang",
@@ -8281,6 +8735,7 @@
         "skill_group_id": 23700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Jeogun",
@@ -8297,6 +8752,7 @@
         "skill_group_id": 23700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Cheongpung",
@@ -8313,6 +8769,7 @@
         "skill_group_id": 23700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Hanwul",
@@ -8329,6 +8786,7 @@
         "skill_group_id": 23700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Mookwol",
@@ -8354,6 +8812,7 @@
         "skill_group_id": 23900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Songseol",
@@ -8370,6 +8829,7 @@
         "skill_group_id": 23900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Hongyeon",
@@ -8386,6 +8846,7 @@
         "skill_group_id": 23900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Yeonhwa",
@@ -8402,6 +8863,7 @@
         "skill_group_id": 23900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Dongbaek",
@@ -8418,6 +8880,7 @@
         "skill_group_id": 23900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Mirinae",
@@ -8443,6 +8906,7 @@
         "skill_group_id": 25000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Shizuka",
@@ -8459,6 +8923,7 @@
         "skill_group_id": 25000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Tomoe",
@@ -8475,6 +8940,7 @@
         "skill_group_id": 25000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Giou",
@@ -8491,6 +8957,7 @@
         "skill_group_id": 25000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Seimei",
@@ -8507,6 +8974,7 @@
         "skill_group_id": 25000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Douman",
@@ -8532,6 +9000,7 @@
         "skill_group_id": 25100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Suiki",
@@ -8548,6 +9017,7 @@
         "skill_group_id": 25100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Kaki",
@@ -8564,6 +9034,7 @@
         "skill_group_id": 25100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Fuuki",
@@ -8580,6 +9051,7 @@
         "skill_group_id": 25100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Kinki",
@@ -8596,6 +9068,7 @@
         "skill_group_id": 25100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Ongyouki",
@@ -8621,6 +9094,7 @@
         "skill_group_id": 25200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Nana",
@@ -8637,6 +9111,7 @@
         "skill_group_id": 25200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Coco",
@@ -8653,6 +9128,7 @@
         "skill_group_id": 25200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Momo",
@@ -8669,6 +9145,7 @@
         "skill_group_id": 25200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Dorothy",
@@ -8685,6 +9162,7 @@
         "skill_group_id": 25200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Kiki",
@@ -8710,6 +9188,7 @@
         "skill_group_id": 25300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Miles",
@@ -8726,6 +9205,7 @@
         "skill_group_id": 25300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "John",
@@ -8742,6 +9222,7 @@
         "skill_group_id": 25300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Oliver",
@@ -8758,6 +9239,7 @@
         "skill_group_id": 25300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Daniel",
@@ -8774,6 +9256,7 @@
         "skill_group_id": 25300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Jackson",
@@ -8799,6 +9282,7 @@
         "skill_group_id": 25400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "ROBO-R40",
@@ -8815,6 +9299,7 @@
         "skill_group_id": 25400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "ROBO-P27",
@@ -8831,6 +9316,7 @@
         "skill_group_id": 25400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "ROBO-G92",
@@ -8847,6 +9333,7 @@
         "skill_group_id": 25400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "ROBO-E65",
@@ -8863,6 +9350,7 @@
         "skill_group_id": 25400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "ROBO-F29",
@@ -8888,6 +9376,7 @@
         "skill_group_id": 25600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Aaliyah",
@@ -8904,6 +9393,7 @@
         "skill_group_id": 25600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Nora",
@@ -8920,6 +9410,7 @@
         "skill_group_id": 25600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Riley",
@@ -8936,6 +9427,7 @@
         "skill_group_id": 25600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Ella",
@@ -8952,6 +9444,7 @@
         "skill_group_id": 25600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Maya",
@@ -8977,6 +9470,7 @@
         "skill_group_id": 25700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Liam",
@@ -8993,6 +9487,7 @@
         "skill_group_id": 25700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Carlos",
@@ -9009,6 +9504,7 @@
         "skill_group_id": 25700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Dominic",
@@ -9025,6 +9521,7 @@
         "skill_group_id": 25700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Benedict",
@@ -9041,6 +9538,7 @@
         "skill_group_id": 25700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Maximilian",
@@ -9066,6 +9564,7 @@
         "skill_group_id": 25800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Susan",
@@ -9082,6 +9581,7 @@
         "skill_group_id": 25800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Miriam",
@@ -9098,6 +9598,7 @@
         "skill_group_id": 25800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Celine",
@@ -9114,6 +9615,7 @@
         "skill_group_id": 25800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Madeleine",
@@ -9130,6 +9632,7 @@
         "skill_group_id": 25800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Deborah",
@@ -9155,6 +9658,7 @@
         "skill_group_id": 25900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Minato",
@@ -9171,6 +9675,7 @@
         "skill_group_id": 25900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Ren",
@@ -9187,6 +9692,7 @@
         "skill_group_id": 25900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Zen",
@@ -9203,6 +9709,7 @@
         "skill_group_id": 25900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Shun",
@@ -9219,6 +9726,7 @@
         "skill_group_id": 25900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Ritsu",
@@ -9244,6 +9752,7 @@
         "skill_group_id": 26000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Birman",
@@ -9260,6 +9769,7 @@
         "skill_group_id": 26000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Manx",
@@ -9276,6 +9786,7 @@
         "skill_group_id": 26000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Nebelung",
@@ -9292,6 +9803,7 @@
         "skill_group_id": 26000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Siamese",
@@ -9308,6 +9820,7 @@
         "skill_group_id": 26000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Bombay",
@@ -9333,6 +9846,7 @@
         "skill_group_id": 26100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Amber",
@@ -9349,6 +9863,7 @@
         "skill_group_id": 26100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Claire",
@@ -9365,6 +9880,7 @@
         "skill_group_id": 26100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Sonia",
@@ -9381,6 +9897,7 @@
         "skill_group_id": 26100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Veronica",
@@ -9397,6 +9914,7 @@
         "skill_group_id": 26100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Destiny",
@@ -9422,6 +9940,7 @@
         "skill_group_id": 27200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Zibala",
@@ -9438,6 +9957,7 @@
         "skill_group_id": 27200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Zima",
@@ -9454,6 +9974,7 @@
         "skill_group_id": 27200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Smicer",
@@ -9470,6 +9991,7 @@
         "skill_group_id": 27200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Kovarci",
@@ -9486,6 +10008,7 @@
         "skill_group_id": 27200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Zenisek",
@@ -9511,6 +10034,7 @@
         "skill_group_id": 28300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Parjanya",
@@ -9527,6 +10051,7 @@
         "skill_group_id": 28300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Vendhan",
@@ -9543,6 +10068,7 @@
         "skill_group_id": 28300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Chakra",
@@ -9559,6 +10085,7 @@
         "skill_group_id": 28300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Dyeus",
@@ -9575,6 +10102,7 @@
         "skill_group_id": 28300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Devaraja",
@@ -9600,6 +10128,7 @@
         "skill_group_id": 28500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Mayasura",
@@ -9616,6 +10145,7 @@
         "skill_group_id": 28500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Varuna",
@@ -9632,6 +10162,7 @@
         "skill_group_id": 28500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Usha",
@@ -9648,6 +10179,7 @@
         "skill_group_id": 28500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Danu",
@@ -9664,6 +10196,7 @@
         "skill_group_id": 28500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Vritra",
@@ -9689,6 +10222,7 @@
         "skill_group_id": 28600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Irène",
@@ -9705,6 +10239,7 @@
         "skill_group_id": 28600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Bloodya",
@@ -9721,6 +10256,7 @@
         "skill_group_id": 28600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Layla",
@@ -9737,6 +10273,7 @@
         "skill_group_id": 28600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Jessica",
@@ -9753,6 +10290,7 @@
         "skill_group_id": 28600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Liliana",
@@ -9778,6 +10316,7 @@
         "skill_group_id": 28900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Jeongnam",
@@ -9794,6 +10333,7 @@
         "skill_group_id": 28900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Moogwang",
@@ -9810,6 +10350,7 @@
         "skill_group_id": 28900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Byungchul",
@@ -9826,6 +10367,7 @@
         "skill_group_id": 28900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Euldong",
@@ -9842,6 +10384,7 @@
         "skill_group_id": 28900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Gapsoo",
@@ -9867,6 +10410,7 @@
         "skill_group_id": 29000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Minji and Sapsaree",
@@ -9883,6 +10427,7 @@
         "skill_group_id": 29000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Yeji and Sapsaree",
@@ -9899,6 +10444,7 @@
         "skill_group_id": 29000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Yuna and Sapsaree",
@@ -9915,6 +10461,7 @@
         "skill_group_id": 29000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Eunbee and Sapsaree",
@@ -9931,6 +10478,7 @@
         "skill_group_id": 29000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Damee and Sapsaree",
@@ -9956,6 +10504,7 @@
         "skill_group_id": 29100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Ramael and Judiah",
@@ -9972,6 +10521,7 @@
         "skill_group_id": 29100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Karuel and Lanoah",
@@ -9988,6 +10538,7 @@
         "skill_group_id": 29100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Sadiel and Zeryah",
@@ -10004,6 +10555,7 @@
         "skill_group_id": 29100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Miruel and Graciah",
@@ -10020,6 +10572,7 @@
         "skill_group_id": 29100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Jaduel and Aepiah",
@@ -10045,6 +10598,7 @@
         "skill_group_id": 30000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "K1D",
@@ -10061,6 +10615,7 @@
         "skill_group_id": 30000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "7R1X",
@@ -10077,6 +10632,7 @@
         "skill_group_id": 30000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "570RM",
@@ -10093,6 +10649,7 @@
         "skill_group_id": 30000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "51LV3R",
@@ -10109,6 +10666,7 @@
         "skill_group_id": 30000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "N1X",
@@ -10134,6 +10692,7 @@
         "skill_group_id": 30100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Lorenza",
@@ -10150,6 +10709,7 @@
         "skill_group_id": 30100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Carmella",
@@ -10166,6 +10726,7 @@
         "skill_group_id": 30100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Eliza",
@@ -10182,6 +10743,7 @@
         "skill_group_id": 30100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Alesia",
@@ -10198,6 +10760,7 @@
         "skill_group_id": 30100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Roberta",
@@ -10223,6 +10786,7 @@
         "skill_group_id": 30700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Solvark",
@@ -10239,6 +10803,7 @@
         "skill_group_id": 30700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Deragron",
@@ -10255,6 +10820,7 @@
         "skill_group_id": 30700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Ereshion",
@@ -10271,6 +10837,7 @@
         "skill_group_id": 30700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Fridrion",
@@ -10287,6 +10854,7 @@
         "skill_group_id": 30700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Drakar",
@@ -10312,6 +10880,7 @@
         "skill_group_id": 31300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Lamiella",
@@ -10328,6 +10897,7 @@
         "skill_group_id": 31300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Theodora",
@@ -10344,6 +10914,7 @@
         "skill_group_id": 31300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Orphina",
@@ -10360,6 +10931,7 @@
         "skill_group_id": 31300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Mortera",
@@ -10376,6 +10948,7 @@
         "skill_group_id": 31300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Velaska",
@@ -10401,6 +10974,7 @@
         "skill_group_id": 31400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Mork",
@@ -10417,6 +10991,7 @@
         "skill_group_id": 31400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Rex",
@@ -10433,6 +11008,7 @@
         "skill_group_id": 31400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Gronn",
@@ -10449,6 +11025,7 @@
         "skill_group_id": 31400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Ramon",
@@ -10465,6 +11042,7 @@
         "skill_group_id": 31400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Volg",
@@ -10490,6 +11068,7 @@
         "skill_group_id": 32300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 8,
         "variants": [
           {
             "name": "Gideon",
@@ -10506,6 +11085,7 @@
         "skill_group_id": 32300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Tityus",
@@ -10522,6 +11102,7 @@
         "skill_group_id": 32300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Elephas",
@@ -10538,6 +11119,7 @@
         "skill_group_id": 32300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Hyllus",
@@ -10554,6 +11136,7 @@
         "skill_group_id": 32300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Actaeon",
@@ -10593,6 +11176,7 @@
         "skill_group_id": 33000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Heihachi Mishima",
@@ -10660,6 +11244,7 @@
         "skill_group_id": 33100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Jin Kazama",
@@ -10676,6 +11261,7 @@
         "skill_group_id": 33100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Jin Kazama",
@@ -10692,6 +11278,7 @@
         "skill_group_id": 33100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Jin Kazama",
@@ -10708,6 +11295,7 @@
         "skill_group_id": 33100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Jin Kazama",
@@ -10724,6 +11312,7 @@
         "skill_group_id": 33100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Jin Kazama",
@@ -10749,6 +11338,7 @@
         "skill_group_id": 33200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Hwoarang",
@@ -10765,6 +11355,7 @@
         "skill_group_id": 33200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Hwoarang",
@@ -10781,6 +11372,7 @@
         "skill_group_id": 33200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Hwoarang",
@@ -10797,6 +11389,7 @@
         "skill_group_id": 33200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Hwoarang",
@@ -10813,6 +11406,7 @@
         "skill_group_id": 33200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Hwoarang",
@@ -10838,6 +11432,7 @@
         "skill_group_id": 33300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Paul Phoenix",
@@ -10854,6 +11449,7 @@
         "skill_group_id": 33300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Paul Phoenix",
@@ -10870,6 +11466,7 @@
         "skill_group_id": 33300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Paul Phoenix",
@@ -10886,6 +11483,7 @@
         "skill_group_id": 33300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Paul Phoenix",
@@ -10902,6 +11500,7 @@
         "skill_group_id": 33300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Paul Phoenix",
@@ -10927,6 +11526,7 @@
         "skill_group_id": 33400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Nina Williams",
@@ -10943,6 +11543,7 @@
         "skill_group_id": 33400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Nina Williams",
@@ -10959,6 +11560,7 @@
         "skill_group_id": 33400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Nina Williams",
@@ -10975,6 +11577,7 @@
         "skill_group_id": 33400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Nina Williams",
@@ -10991,6 +11594,7 @@
         "skill_group_id": 33400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Nina Williams",
@@ -11016,6 +11620,7 @@
         "skill_group_id": 1000100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Homunculus(Attack)",
@@ -11032,6 +11637,7 @@
         "skill_group_id": 1000100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Homunculus(Attack)",
@@ -11048,6 +11654,7 @@
         "skill_group_id": 1000100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Homunculus(Attack)",
@@ -11064,6 +11671,7 @@
         "skill_group_id": 1000200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Homunculus(Support)",
@@ -11080,6 +11688,7 @@
         "skill_group_id": 1000200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Homunculus(Support)",
@@ -11105,6 +11714,7 @@
         "skill_group_id": 10110,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Elucia",
@@ -11121,6 +11731,7 @@
         "skill_group_id": 10110,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Iselia",
@@ -11137,6 +11748,7 @@
         "skill_group_id": 10110,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Aeilene",
@@ -11153,6 +11765,7 @@
         "skill_group_id": 10110,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Neal",
@@ -11169,6 +11782,7 @@
         "skill_group_id": 10110,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Sorin",
@@ -11194,6 +11808,7 @@
         "skill_group_id": 10310,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Kacey",
@@ -11210,6 +11825,7 @@
         "skill_group_id": 10310,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Tatu",
@@ -11226,6 +11842,7 @@
         "skill_group_id": 10310,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Shannon",
@@ -11242,6 +11859,7 @@
         "skill_group_id": 10310,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Cheryl",
@@ -11258,6 +11876,7 @@
         "skill_group_id": 10310,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Camaryn",
@@ -11283,6 +11902,7 @@
         "skill_group_id": 10710,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Dagora",
@@ -11299,6 +11919,7 @@
         "skill_group_id": 10710,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Ursha",
@@ -11315,6 +11936,7 @@
         "skill_group_id": 10710,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Ramagos",
@@ -11331,6 +11953,7 @@
         "skill_group_id": 10710,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Lusha",
@@ -11347,6 +11970,7 @@
         "skill_group_id": 10710,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Gorgo",
@@ -11372,6 +11996,7 @@
         "skill_group_id": 11010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Icaru",
@@ -11388,6 +12013,7 @@
         "skill_group_id": 11010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Raoq",
@@ -11404,6 +12030,7 @@
         "skill_group_id": 11010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Ramahan",
@@ -11420,6 +12047,7 @@
         "skill_group_id": 11010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Belladeon",
@@ -11436,6 +12064,7 @@
         "skill_group_id": 11010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Kro",
@@ -11461,6 +12090,7 @@
         "skill_group_id": 14010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Vigor",
@@ -11477,6 +12107,7 @@
         "skill_group_id": 14010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Garoche",
@@ -11493,6 +12124,7 @@
         "skill_group_id": 14010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Shakan",
@@ -11509,6 +12141,7 @@
         "skill_group_id": 14010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Eshir",
@@ -11525,6 +12158,7 @@
         "skill_group_id": 14010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Jultan",
@@ -11550,6 +12184,7 @@
         "skill_group_id": 15010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Mina",
@@ -11566,6 +12201,7 @@
         "skill_group_id": 15010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Mei",
@@ -11582,6 +12218,7 @@
         "skill_group_id": 15010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Naomi",
@@ -11598,6 +12235,7 @@
         "skill_group_id": 15010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Xiao Ling",
@@ -11614,6 +12252,7 @@
         "skill_group_id": 15010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Miho",
@@ -11639,6 +12278,7 @@
         "skill_group_id": 11510,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Kahn",
@@ -11655,6 +12295,7 @@
         "skill_group_id": 11510,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Spectra",
@@ -11671,6 +12312,7 @@
         "skill_group_id": 11510,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Bernard",
@@ -11687,6 +12329,7 @@
         "skill_group_id": 11510,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Shamann",
@@ -11703,6 +12346,7 @@
         "skill_group_id": 11510,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Varus",
@@ -11728,6 +12372,7 @@
         "skill_group_id": 13210,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Lulu and Friends",
@@ -11744,6 +12389,7 @@
         "skill_group_id": 13210,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Lala and Friends",
@@ -11760,6 +12406,7 @@
         "skill_group_id": 13210,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Chichi and Friends",
@@ -11776,6 +12423,7 @@
         "skill_group_id": 13210,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Shushu and Friends",
@@ -11792,6 +12440,7 @@
         "skill_group_id": 13210,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Chacha and Friends",
@@ -11817,6 +12466,7 @@
         "skill_group_id": 16010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Hemos",
@@ -11833,6 +12483,7 @@
         "skill_group_id": 16010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Sath",
@@ -11849,6 +12500,7 @@
         "skill_group_id": 16010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Hiva",
@@ -11865,6 +12517,7 @@
         "skill_group_id": 16010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Prom",
@@ -11881,6 +12534,7 @@
         "skill_group_id": 16010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Thrain",
@@ -11906,6 +12560,7 @@
         "skill_group_id": 12010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Ellena",
@@ -11922,6 +12577,7 @@
         "skill_group_id": 12010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Kahli",
@@ -11938,6 +12594,7 @@
         "skill_group_id": 12010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Moria",
@@ -11954,6 +12611,7 @@
         "skill_group_id": 12010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Shren",
@@ -11970,6 +12628,7 @@
         "skill_group_id": 12010,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Jumaline",
@@ -11995,6 +12654,7 @@
         "skill_group_id": 15210,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Allen",
@@ -12011,6 +12671,7 @@
         "skill_group_id": 15210,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Kai'en",
@@ -12027,6 +12688,7 @@
         "skill_group_id": 15210,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Roid",
@@ -12043,6 +12705,7 @@
         "skill_group_id": 15210,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Darion",
@@ -12059,6 +12722,7 @@
         "skill_group_id": 15210,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Jubelle",
@@ -12084,6 +12748,7 @@
         "skill_group_id": 15910,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Megan",
@@ -12100,6 +12765,7 @@
         "skill_group_id": 15910,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Rebecca",
@@ -12116,6 +12782,7 @@
         "skill_group_id": 15910,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Silia",
@@ -12132,6 +12799,7 @@
         "skill_group_id": 15910,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Linda",
@@ -12148,6 +12816,7 @@
         "skill_group_id": 15910,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Gina",
@@ -12173,6 +12842,7 @@
         "skill_group_id": 16510,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Nickel",
@@ -12189,6 +12859,7 @@
         "skill_group_id": 16510,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Iron",
@@ -12205,6 +12876,7 @@
         "skill_group_id": 16510,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Copper",
@@ -12221,6 +12893,7 @@
         "skill_group_id": 16510,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Silver",
@@ -12237,6 +12910,7 @@
         "skill_group_id": 16510,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Zinc",
@@ -12262,6 +12936,7 @@
         "skill_group_id": 20810,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Tractor",
@@ -12278,6 +12953,7 @@
         "skill_group_id": 20810,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Bulldozer",
@@ -12294,6 +12970,7 @@
         "skill_group_id": 20810,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Crane",
@@ -12310,6 +12987,7 @@
         "skill_group_id": 20810,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Driller",
@@ -12326,6 +13004,7 @@
         "skill_group_id": 20810,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Crawler",
@@ -12351,6 +13030,7 @@
         "skill_group_id": 12110,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Sisroo",
@@ -12367,6 +13047,7 @@
         "skill_group_id": 12110,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Colleen",
@@ -12383,6 +13064,7 @@
         "skill_group_id": 12110,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 5,
         "variants": [
           {
             "name": "Seal",
@@ -12399,6 +13081,7 @@
         "skill_group_id": 12110,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 4,
         "variants": [
           {
             "name": "Sia",
@@ -12415,6 +13098,7 @@
         "skill_group_id": 12110,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 6,
         "variants": [
           {
             "name": "Seren",
@@ -12440,6 +13124,7 @@
         "skill_group_id": 24000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "RYU",
@@ -12463,6 +13148,7 @@
         "skill_group_id": 24000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "RYU",
@@ -12486,6 +13172,7 @@
         "skill_group_id": 24000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "RYU",
@@ -12509,6 +13196,7 @@
         "skill_group_id": 24000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "RYU",
@@ -12532,6 +13220,7 @@
         "skill_group_id": 24000,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "RYU",
@@ -12585,6 +13274,7 @@
         "skill_group_id": 24100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "KEN",
@@ -12680,6 +13370,7 @@
         "skill_group_id": 24200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "M. BISON",
@@ -12703,6 +13394,7 @@
         "skill_group_id": 24200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "M. BISON",
@@ -12726,6 +13418,7 @@
         "skill_group_id": 24200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "M. BISON",
@@ -12749,6 +13442,7 @@
         "skill_group_id": 24200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "M. BISON",
@@ -12772,6 +13466,7 @@
         "skill_group_id": 24200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "M. BISON",
@@ -12804,6 +13499,7 @@
         "skill_group_id": 24300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "DHALSIM",
@@ -12827,6 +13523,7 @@
         "skill_group_id": 24300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "DHALSIM",
@@ -12850,6 +13547,7 @@
         "skill_group_id": 24300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "DHALSIM",
@@ -12873,6 +13571,7 @@
         "skill_group_id": 24300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "DHALSIM",
@@ -12896,6 +13595,7 @@
         "skill_group_id": 24300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "DHALSIM",
@@ -12928,6 +13628,7 @@
         "skill_group_id": 24400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "CHUN-LI",
@@ -12951,6 +13652,7 @@
         "skill_group_id": 24400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "CHUN-LI",
@@ -12974,6 +13676,7 @@
         "skill_group_id": 24400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "CHUN-LI",
@@ -12997,6 +13700,7 @@
         "skill_group_id": 24400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "CHUN-LI",
@@ -13020,6 +13724,7 @@
         "skill_group_id": 24400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "CHUN-LI",
@@ -13094,6 +13799,7 @@
         "skill_group_id": 26200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "GingerBrave",
@@ -13168,6 +13874,7 @@
         "skill_group_id": 26300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Pure Vanilla Cookie",
@@ -13191,6 +13898,7 @@
         "skill_group_id": 26300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Pure Vanilla Cookie",
@@ -13214,6 +13922,7 @@
         "skill_group_id": 26300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Pure Vanilla Cookie",
@@ -13237,6 +13946,7 @@
         "skill_group_id": 26300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Pure Vanilla Cookie",
@@ -13260,6 +13970,7 @@
         "skill_group_id": 26300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Pure Vanilla Cookie",
@@ -13292,6 +14003,7 @@
         "skill_group_id": 26400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Hollyberry Cookie",
@@ -13315,6 +14027,7 @@
         "skill_group_id": 26400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Hollyberry Cookie",
@@ -13338,6 +14051,7 @@
         "skill_group_id": 26400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Hollyberry Cookie",
@@ -13361,6 +14075,7 @@
         "skill_group_id": 26400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Hollyberry Cookie",
@@ -13384,6 +14099,7 @@
         "skill_group_id": 26400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Hollyberry Cookie",
@@ -13416,6 +14132,7 @@
         "skill_group_id": 26500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Espresso Cookie",
@@ -13439,6 +14156,7 @@
         "skill_group_id": 26500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Espresso Cookie",
@@ -13462,6 +14180,7 @@
         "skill_group_id": 26500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Espresso Cookie",
@@ -13485,6 +14204,7 @@
         "skill_group_id": 26500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Espresso Cookie",
@@ -13508,6 +14228,7 @@
         "skill_group_id": 26500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Espresso Cookie",
@@ -13540,6 +14261,7 @@
         "skill_group_id": 26600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Madeleine Cookie",
@@ -13563,6 +14285,7 @@
         "skill_group_id": 26600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Madeleine Cookie",
@@ -13586,6 +14309,7 @@
         "skill_group_id": 26600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Madeleine Cookie",
@@ -13609,6 +14333,7 @@
         "skill_group_id": 26600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Madeleine Cookie",
@@ -13632,6 +14357,7 @@
         "skill_group_id": 26600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Madeleine Cookie",
@@ -13727,6 +14453,7 @@
         "skill_group_id": 27300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Altaïr",
@@ -13780,6 +14507,7 @@
         "skill_group_id": 27400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Ezio",
@@ -13803,6 +14531,7 @@
         "skill_group_id": 27400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Ezio",
@@ -13826,6 +14555,7 @@
         "skill_group_id": 27400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Ezio",
@@ -13849,6 +14579,7 @@
         "skill_group_id": 27400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Ezio",
@@ -13872,6 +14603,7 @@
         "skill_group_id": 27400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Ezio",
@@ -13904,6 +14636,7 @@
         "skill_group_id": 27500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Bayek",
@@ -13927,6 +14660,7 @@
         "skill_group_id": 27500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Bayek",
@@ -13950,6 +14684,7 @@
         "skill_group_id": 27500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Bayek",
@@ -13973,6 +14708,7 @@
         "skill_group_id": 27500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Bayek",
@@ -13996,6 +14732,7 @@
         "skill_group_id": 27500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Bayek",
@@ -14028,6 +14765,7 @@
         "skill_group_id": 27600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Kassandra",
@@ -14051,6 +14789,7 @@
         "skill_group_id": 27600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Kassandra",
@@ -14074,6 +14813,7 @@
         "skill_group_id": 27600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Kassandra",
@@ -14097,6 +14837,7 @@
         "skill_group_id": 27600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Kassandra",
@@ -14120,6 +14861,7 @@
         "skill_group_id": 27600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Kassandra",
@@ -14152,6 +14894,7 @@
         "skill_group_id": 27700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Eivor",
@@ -14175,6 +14918,7 @@
         "skill_group_id": 27700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Eivor",
@@ -14198,6 +14942,7 @@
         "skill_group_id": 27700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Eivor",
@@ -14221,6 +14966,7 @@
         "skill_group_id": 27700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Eivor",
@@ -14244,6 +14990,7 @@
         "skill_group_id": 27700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Eivor",
@@ -14276,6 +15023,7 @@
         "skill_group_id": 29200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Geralt",
@@ -14299,6 +15047,7 @@
         "skill_group_id": 29200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Geralt",
@@ -14322,6 +15071,7 @@
         "skill_group_id": 29200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Geralt",
@@ -14345,6 +15095,7 @@
         "skill_group_id": 29200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Geralt",
@@ -14368,6 +15119,7 @@
         "skill_group_id": 29200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Geralt",
@@ -14400,6 +15152,7 @@
         "skill_group_id": 29300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Ciri",
@@ -14423,6 +15176,7 @@
         "skill_group_id": 29300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Ciri",
@@ -14446,6 +15200,7 @@
         "skill_group_id": 29300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Ciri",
@@ -14469,6 +15224,7 @@
         "skill_group_id": 29300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Ciri",
@@ -14492,6 +15248,7 @@
         "skill_group_id": 29300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Ciri",
@@ -14524,6 +15281,7 @@
         "skill_group_id": 29400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Yennefer",
@@ -14547,6 +15305,7 @@
         "skill_group_id": 29400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Yennefer",
@@ -14570,6 +15329,7 @@
         "skill_group_id": 29400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Yennefer",
@@ -14593,6 +15353,7 @@
         "skill_group_id": 29400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Yennefer",
@@ -14616,6 +15377,7 @@
         "skill_group_id": 29400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Yennefer",
@@ -14648,6 +15410,7 @@
         "skill_group_id": 29500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Triss",
@@ -14671,6 +15434,7 @@
         "skill_group_id": 29500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Triss",
@@ -14694,6 +15458,7 @@
         "skill_group_id": 29500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Triss",
@@ -14717,6 +15482,7 @@
         "skill_group_id": 29500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Triss",
@@ -14740,6 +15506,7 @@
         "skill_group_id": 29500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Triss",
@@ -14856,6 +15623,7 @@
         "skill_group_id": 30200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Ryomen Sukuna",
@@ -14888,6 +15656,7 @@
         "skill_group_id": 30300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Satoru Gojo",
@@ -14911,6 +15680,7 @@
         "skill_group_id": 30300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 9,
         "variants": [
           {
             "name": "Satoru Gojo",
@@ -14934,6 +15704,7 @@
         "skill_group_id": 30300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Satoru Gojo",
@@ -14957,6 +15728,7 @@
         "skill_group_id": 30300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Satoru Gojo",
@@ -14980,6 +15752,7 @@
         "skill_group_id": 30300,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Satoru Gojo",
@@ -15012,6 +15785,7 @@
         "skill_group_id": 30400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Yuji Itadori",
@@ -15035,6 +15809,7 @@
         "skill_group_id": 30400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Yuji Itadori",
@@ -15058,6 +15833,7 @@
         "skill_group_id": 30400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Yuji Itadori",
@@ -15081,6 +15857,7 @@
         "skill_group_id": 30400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Yuji Itadori",
@@ -15104,6 +15881,7 @@
         "skill_group_id": 30400,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Yuji Itadori",
@@ -15136,6 +15914,7 @@
         "skill_group_id": 30500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Megumi Fushiguro",
@@ -15159,6 +15938,7 @@
         "skill_group_id": 30500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Megumi Fushiguro",
@@ -15182,6 +15962,7 @@
         "skill_group_id": 30500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Megumi Fushiguro",
@@ -15205,6 +15986,7 @@
         "skill_group_id": 30500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Megumi Fushiguro",
@@ -15228,6 +16010,7 @@
         "skill_group_id": 30500,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Megumi Fushiguro",
@@ -15260,6 +16043,7 @@
         "skill_group_id": 30600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Nobara Kugisaki",
@@ -15283,6 +16067,7 @@
         "skill_group_id": 30600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Nobara Kugisaki",
@@ -15306,6 +16091,7 @@
         "skill_group_id": 30600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Nobara Kugisaki",
@@ -15329,6 +16115,7 @@
         "skill_group_id": 30600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Nobara Kugisaki",
@@ -15352,6 +16139,7 @@
         "skill_group_id": 30600,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Nobara Kugisaki",
@@ -15426,6 +16214,7 @@
         "skill_group_id": 31700,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Gyomei Himejima",
@@ -15500,6 +16289,7 @@
         "skill_group_id": 31800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Tanjiro Kamado",
@@ -15523,6 +16313,7 @@
         "skill_group_id": 31800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Tanjiro Kamado",
@@ -15546,6 +16337,7 @@
         "skill_group_id": 31800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Tanjiro Kamado",
@@ -15569,6 +16361,7 @@
         "skill_group_id": 31800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Tanjiro Kamado",
@@ -15592,6 +16385,7 @@
         "skill_group_id": 31800,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Tanjiro Kamado",
@@ -15624,6 +16418,7 @@
         "skill_group_id": 31900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Nezuko Kamado",
@@ -15647,6 +16442,7 @@
         "skill_group_id": 31900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Nezuko Kamado",
@@ -15670,6 +16466,7 @@
         "skill_group_id": 31900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Nezuko Kamado",
@@ -15693,6 +16490,7 @@
         "skill_group_id": 31900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 10,
         "variants": [
           {
             "name": "Nezuko Kamado",
@@ -15716,6 +16514,7 @@
         "skill_group_id": 31900,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Nezuko Kamado",
@@ -15748,6 +16547,7 @@
         "skill_group_id": 32100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Inosuke Hashibira",
@@ -15771,6 +16571,7 @@
         "skill_group_id": 32100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Inosuke Hashibira",
@@ -15794,6 +16595,7 @@
         "skill_group_id": 32100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Inosuke Hashibira",
@@ -15817,6 +16619,7 @@
         "skill_group_id": 32100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 13,
         "variants": [
           {
             "name": "Inosuke Hashibira",
@@ -15840,6 +16643,7 @@
         "skill_group_id": 32100,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Inosuke Hashibira",
@@ -15872,6 +16676,7 @@
         "skill_group_id": 32200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Zenitsu Agatsuma",
@@ -15895,6 +16700,7 @@
         "skill_group_id": 32200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Zenitsu Agatsuma",
@@ -15918,6 +16724,7 @@
         "skill_group_id": 32200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 12,
         "variants": [
           {
             "name": "Zenitsu Agatsuma",
@@ -15941,6 +16748,7 @@
         "skill_group_id": 32200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Zenitsu Agatsuma",
@@ -15964,6 +16772,7 @@
         "skill_group_id": 32200,
         "owned": false,
         "full_skill": false,
+        "skill_ups_to_max": 11,
         "variants": [
           {
             "name": "Zenitsu Agatsuma",
