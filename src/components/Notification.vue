@@ -25,7 +25,6 @@ import SuccessIcon from './subcomponents/icons/Success.icon.vue';
 import ErrorIcon from './subcomponents/icons/Error.icon.vue';
 import DefaultIcon from './subcomponents/icons/Default.icon.vue';
 
-// props
 const props = defineProps<NotificationsProps>()
 
 // Map type → couleur de fond

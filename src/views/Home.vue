@@ -22,7 +22,6 @@
       </RouterLink>
     </div>
 
-    <!-- https://modrinth.com/ -->
     <div class="w-full">
       <ScrollingMonsterRow :speed="60" :direction="'right'" :id="1" />
       <ScrollingMonsterRow :speed="45" :direction="'left'" :id="2" />

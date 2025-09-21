@@ -11,11 +11,9 @@ export function mergeFamilies(familiesIdToMerge: number[], allMonsters: Family[]
 
     const mergedFamily = mergeFamiliesMonsters(allMonsters[index1], allMonsters[index2]);
 
-    // Remove the old families
     allMonsters.splice(Math.max(index1, index2), 1);
     allMonsters.splice(Math.min(index1, index2), 1);
 
-    // Add the merged family
     allMonsters.push(mergedFamily);
     return allMonsters;
 }
@@ -41,7 +39,7 @@ function mergeFamiliesMonsters(fam1: Family, fam2: Family): Family {
   }
 
   return {
-    family_id: fam1.family_id, // tu peux choisir fam1 ou fam2 comme id principal
+    family_id: fam1.family_id,
     family_name: fam1.family_name + "-" + fam2.family_name,
     isSecondAwakedFamily: fam1.isSecondAwakedFamily || fam2.isSecondAwakedFamily,
     isCollaboredFamily: fam1.isCollaboredFamily || fam2.isCollaboredFamily,

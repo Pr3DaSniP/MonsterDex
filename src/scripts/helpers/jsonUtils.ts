@@ -1,7 +1,6 @@
 import { writeFile, readFile } from 'fs/promises'
 import pathModule from 'path'
 
-// Fonction pour sauvegarder un json
 export async function saveJson(path: string, filename: string, data: any): Promise<void> {
   try {
     const fullPath = pathModule.join(path, filename);
@@ -13,7 +12,6 @@ export async function saveJson(path: string, filename: string, data: any): Promi
   }
 }
 
-// Fonction pour mettre à jour un json en ajoutant et/ou supprimant des éléments
 export async function updateJson(
   folderPath: string,
   filename: string,

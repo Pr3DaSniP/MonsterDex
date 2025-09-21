@@ -5,7 +5,7 @@ export function mergeCollabFamilies(
   familyIds: number[],
   allMonsters: Family[],
 ): Family[] {
-  if (familyIds.length !== 2) return allMonsters; // Need exactly 2 families
+  if (familyIds.length !== 2) return allMonsters;
 
   const index1 = findFamilyIndex(allMonsters, familyIds[0]);
   const index2 = findFamilyIndex(allMonsters, familyIds[1]);
@@ -43,7 +43,7 @@ export function mergeCollabFamilies(
   }
 
   const mergedFamily: Family = {
-    family_id: familyIds[0], // tu peux choisir lequel garder
+    family_id: familyIds[0],
     family_name: `${fam1.family_name} x ${fam2.family_name}`,
     isSecondAwakedFamily: false,
     isCollaboredFamily: true,
@@ -51,11 +51,9 @@ export function mergeCollabFamilies(
     monsters: dualFamily,
   };
 
-  // Supprimer les anciennes familles
   allMonsters.splice(Math.max(index1, index2), 1);
   allMonsters.splice(Math.min(index1, index2), 1);
 
-  // Ajouter la nouvelle famille fusionnée
   allMonsters.push(mergedFamily);
 
   console.log(`✅ Collab merged: ${fam1.family_name} & ${fam2.family_name}`);

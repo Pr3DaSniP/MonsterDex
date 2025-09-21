@@ -6,7 +6,7 @@ export async function fetchSecondAwakenedFamiliesIds(): Promise<number[]> {
   let families_id = new Set<number>();
   const filters = {
     obtainable: true,
-    awaken_level: 2, // Filtre pour les monstres éveillés
+    awaken_level: 2, // Filtre pour les monstres second awake
   };
   let nextUrl: string|null = applyFilters(
     "https://swarfarm.com/api/v2/monsters/?page=1",

@@ -1,7 +1,6 @@
 import { type Family, type SimpleMonsterWithVariants } from '../../types/monsters.ts'
 import { collabWhiteList } from '../knownCollabFamiliesIds.ts'
 
-// Construire un set pour lookup rapide
 const collabFamilyIds = new Set(collabWhiteList.flatMap((c: {
     name: string;
     families: number[];
