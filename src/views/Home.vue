@@ -1,13 +1,20 @@
 <template>
   <div
     class="relative flex flex-col items-center justify-evenly min-h-screen bg-[var(--background-color)] bg-cover bg-center text-white"
-    :style="{ backgroundImage: `url(${bgImage})` }"
   >
     <!-- Logo -->
     <div class="size-60 text-[var(--primary-color)]">
-      <svg fill="none" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-        <path d="M24 0L48 24L24 48L0 24L24 0Z" fill="currentColor"></path>
-        <path d="M36 21H12L24 9L36 21Z" fill="var(--background-color)"></path>
+      <svg
+        fill="none"
+        stroke="currentColor"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+      >
+        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+        <path d="M2 17l10 5 10-5"></path>
+        <path d="M2 12l10 5 10-5"></path>
       </svg>
     </div>
 
@@ -29,8 +36,8 @@
     <!-- https://modrinth.com/ -->
     <div class="w-full">
       <ScrollingMonsterRow :speed="60" :direction="'right'" :id="1" />
-      <ScrollingMonsterRow :speed="45" :direction="'left'" :id="2"/>
-      <ScrollingMonsterRow :speed="30" :direction="'right'" :id="3"/>
+      <ScrollingMonsterRow :speed="45" :direction="'left'" :id="2" />
+      <ScrollingMonsterRow :speed="30" :direction="'right'" :id="3" />
     </div>
   </div>
 </template>

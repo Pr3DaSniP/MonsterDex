@@ -5,6 +5,9 @@ import type { BackgroundMonsterImg } from '@/types/monsters'
 // Cache des sélections aléatoires par "clé"
 const monstersCache = ref<Record<string, BackgroundMonsterImg[]>>({})
 
+// Loading state
+const loading = ref(true)
+
 // Liste complète des monstres en mémoire (chargée 1 seule fois)
 let allMonsters: BackgroundMonsterImg[] | null = null
 
@@ -24,7 +27,7 @@ function pickRandomValidMonsters(arr: BackgroundMonsterImg[], n: number): Backgr
 }
 
 export function useBackgroundMonsters() {
-  async function loadMonsters(key: number, count = 20) {
+  async function loadMonsters(key: number, count = 20): Promise<BackgroundMonsterImg[]> {
     // Charge la liste complète 1 seule fois
     if (!allMonsters) {
       try {
@@ -34,6 +37,8 @@ export function useBackgroundMonsters() {
       } catch (e) {
         console.error('Erreur de chargement:', e)
         allMonsters = []
+      } finally {
+        loading.value = false;
       }
     }
 
@@ -45,5 +50,5 @@ export function useBackgroundMonsters() {
     return monstersCache.value[key]
   }
 
-  return { loadMonsters }
+  return { loadMonsters, loading }
 }
