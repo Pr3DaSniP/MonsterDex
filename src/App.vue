@@ -2,8 +2,6 @@
   <RouterView />
 </template>
 
-<script setup lang="ts">
-console.log('test');
-</script>
+<script setup lang="ts"></script>
 
 <style scoped></style>
