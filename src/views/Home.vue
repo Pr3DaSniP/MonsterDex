@@ -4,18 +4,7 @@
   >
     <!-- Logo -->
     <div class="size-60 text-[var(--primary-color)]">
-      <svg
-        fill="none"
-        stroke="currentColor"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="2"
-        viewBox="0 0 24 24"
-      >
-        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
-        <path d="M2 17l10 5 10-5"></path>
-        <path d="M2 12l10 5 10-5"></path>
-      </svg>
+      <img :src="logo" />
     </div>
 
     <!-- Contenu centré -->
@@ -45,4 +34,5 @@
 <script setup>
 import ScrollingMonsterRow from '@/components/ScrollingMonsterRow.vue'
 import bgImage from '@/assets/background-home.png'
+import logo from '@/assets/logo.svg'
 </script>
