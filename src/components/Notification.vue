@@ -19,7 +19,7 @@
 </template>
 
 <script setup lang="ts">
-import type { NotificationsProps } from '@/types/props/Notifications.ts'
+import type { NotificationsProps } from '@/types/props/Notifications'
 import { computed } from 'vue'
 import SuccessIcon from './subcomponents/icons/Success.icon.vue';
 import ErrorIcon from './subcomponents/icons/Error.icon.vue';

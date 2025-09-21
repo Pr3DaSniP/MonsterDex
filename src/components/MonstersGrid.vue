@@ -88,7 +88,7 @@ import CrossIcon from '@/components/subcomponents/icons/Cross.icon.vue'
 import SaveStateIcon from '@/components/subcomponents/icons/SaveState.icon.vue'
 import LoadStateIcon from '@/components/subcomponents/icons/LoadState.icon.vue'
 
-import { useMonsters } from '@/composables/useMonsters.ts'
+import { useMonsters } from '@/composables/useMonsters'
 
 const fileInput = ref<HTMLElement>()
 const fileInputSWEX = ref<HTMLElement>()

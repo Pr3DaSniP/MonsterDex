@@ -10,7 +10,7 @@ import darkType from '@/assets/types/dark.png';
 import lightType from '@/assets/types/light.png';
 import windType from '@/assets/types/wind.png';
 import fireType from '@/assets/types/fire.png';
-import { ElementType } from '@/types/element.ts';
+import { ElementType } from '@/types/element';
 
 
 const props = defineProps<{

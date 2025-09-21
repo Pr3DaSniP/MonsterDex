@@ -15,7 +15,7 @@
 <script setup lang="ts">
 import Card from './Card.vue'
 import DualCard from './DualCard.vue'
-import { type MonstersRowProps } from '@/types/props/MonstersRow.ts'
+import { type MonstersRowProps } from '@/types/props/MonstersRow'
 
 const props = defineProps<MonstersRowProps>()
 const family = props.family

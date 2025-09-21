@@ -2,7 +2,7 @@ import type { Family, SavedMonster } from '@/types/monsters'
 import { onMounted, ref } from 'vue'
 import { useNotifications } from './useNotifications'
 import { decode } from '@msgpack/msgpack'
-import type { FileType } from '@/types/file.ts'
+import type { FileType } from '@/types/file'
 
 // Loading state
 const loading = ref(true)
