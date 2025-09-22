@@ -6,25 +6,54 @@ import type { FileType } from '@/types/file'
 
 // Loading state
 const loading = ref(true)
+const updating = ref(false)
+const progress = ref(0)
 
 const families = ref<Family[]>([])
 
 export function useMonsters() {
   const { addNotification } = useNotifications()
 
-  onMounted(loadAllMonsters)
-
   async function loadAllMonsters() {
-    try {
-      const res = await fetch('/data/all_monsters.msgpack')
-      const buffer = await res.arrayBuffer()
-      families.value = decode(new Uint8Array(buffer)) as Family[]
-    } catch (err) {
-      throw new Error(`❌ Erreur de chargement monstres: ${err}`)
-    } finally {
-      loading.value = false
-    }
+    loading.value = true
+    progress.value = 0
+      try {
+        const res = await fetch('/data/all_monsters.msgpack')
+        const contentLength = res.headers.get('Content-Length')
+        const total = contentLength ? parseInt(contentLength) : 0
+
+        if (!res.body) throw new Error('ReadableStream non disponible')
+
+        const reader = res.body.getReader()
+        const chunks: Uint8Array[] = []
+        let receivedLength = 0
+
+        while (true) {
+          const { done, value } = await reader.read()
+          if (done) break
+          chunks.push(value!)
+          receivedLength += value!.length
+          if (total) progress.value = (receivedLength / total) * 100
+        }
+
+        // concaténer tous les chunks
+        const fullArray = new Uint8Array(receivedLength)
+        let position = 0
+        for (const chunk of chunks) {
+          fullArray.set(chunk, position)
+          position += chunk.length
+        }
+
+        families.value = decode(fullArray) as Family[]
+      } catch (err) {
+        console.error('Erreur de chargement:', err)
+        families.value = []
+      } finally {
+        loading.value = false
+        progress.value = 100
+      }
   }
+
 
   function saveMonsterClient() {
     try {
@@ -54,7 +83,7 @@ export function useMonsters() {
   }
 
   function loadMonsterClient(file: File) {
-    loading.value = true
+    updating.value = true
     const reader = new FileReader()
 
     reader.onload = (e: ProgressEvent<FileReader>) => {
@@ -94,7 +123,7 @@ export function useMonsters() {
       } catch (error) {
         addNotification('error', 'Erreur', 'Impossible de lire le fichier JSON.')
       } finally {
-        loading.value = false
+        updating.value = false
       }
     }
 
@@ -176,6 +205,8 @@ export function useMonsters() {
   return {
     families,
     loading,
+    updating,
+    progress,
     loadAllMonsters,
     saveMonsterClient,
     loadMonsterClient

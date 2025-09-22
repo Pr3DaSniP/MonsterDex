@@ -1,0 +1,47 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  class="logo"
+  fill="none"
+  aria-hidden="true"
+>
+  <style>
+    /* draw animation for each path */
+    .p {
+      stroke: #ea2a33;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      /* prepare dash for draw animation (large enough) */
+      stroke-dasharray: 60;
+      stroke-dashoffset: 60;
+      animation: draw 1s forwards ease-in-out;
+    }
+
+    /* stagger timings */
+    .p.p1 { animation-delay: 0s;  }
+    .p.p2 { animation-delay: 0.35s; }
+    .p.p3 { animation-delay: 0.7s;  }
+
+    /* color pulse after drawing */
+    .logo {
+      animation: bob 4s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    @keyframes draw {
+      to { stroke-dashoffset: 0; }
+    }
+
+    @keyframes bob {
+      0%   { transform: translateY(0) rotate(-1deg); }
+      50%  { transform: translateY(-6px) rotate(1deg); }
+      100% { transform: translateY(0) rotate(-1deg); }
+    }
+  </style>
+
+  <path class="p p1" d="M12 2L2 7l10 5 10-5-10-5z"></path>
+  <path class="p p2" d="M2 17l10 5 10-5"></path>
+  <path class="p p3" d="M2 12l10 5 10-5"></path>
+</svg>

@@ -4,7 +4,7 @@
   >
     <!-- Logo -->
     <div class="size-60 text-[var(--primary-color)]">
-      <img :src="logo" />
+      <img :src="animatelogo" />
     </div>
 
     <!-- Contenu centré -->
@@ -33,5 +33,5 @@
 <script setup>
 import ScrollingMonsterRow from '@/components/ScrollingMonsterRow.vue'
 import bgImage from '@/assets/background-home.png'
-import logo from '@/assets/logo.svg'
+import animatelogo from '@/assets/animateLogo.svg'
 </script>

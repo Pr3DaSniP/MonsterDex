@@ -20,7 +20,7 @@ import { type BackgroundMonsterImg } from '@/types/monsters'
 const props = defineProps<ScrollingMonstersProps>()
 const VITE_API_IMG_URL = import.meta.env.VITE_API_IMG_URL
 
-const { loadMonsters } = useBackgroundMonsters()
+const { getRandomMonsters ,loading, progress } = useBackgroundMonsters()
 const displayMonsters = ref<BackgroundMonsterImg[]>([])
 
 const direction = props.direction ?? 'left'
@@ -32,9 +32,10 @@ const animationStyle = computed(() => ({
 }))
 
 onMounted(async () => {
-  const monsters = await loadMonsters(props.id, 20)
+  const monsters = getRandomMonsters(props.id, 20)
   displayMonsters.value = [...monsters, ...monsters]
 })
+
 </script>
 
 <style scoped>

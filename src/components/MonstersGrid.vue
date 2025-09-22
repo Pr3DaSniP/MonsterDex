@@ -67,11 +67,11 @@
     </div>
   </div>
   <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
-    <template v-if="loading">
+    <template v-if="updating">
       <CardSkeleton v-for="n in 8" :key="n" />
     </template>
     <template v-else>
-      <template v-for="monsterFamily in families">
+      <template v-for="(monsterFamily, index) in families">
         <MonstersRow :family="monsterFamily" :filter="searchQuery" />
       </template>
     </template>
@@ -79,7 +79,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue'
+import { onMounted, ref } from 'vue'
 import MonstersRow from './MonstersRow.vue'
 import CardSkeleton from './CardSkeleton.vue'
 import AutofillIcon from '@/components/subcomponents/icons/Autofill.icon.vue'
@@ -94,7 +94,7 @@ const fileInput = ref<HTMLElement>()
 const fileInputSWEX = ref<HTMLElement>()
 const searchQuery = ref('')
 
-const { families, loading, saveMonsterClient, loadMonsterClient } = useMonsters()
+const { families, updating, progress, saveMonsterClient, loadMonsterClient } = useMonsters()
 
 function triggerFileInput() {
   fileInput.value?.click()
@@ -111,4 +111,5 @@ function onFileChange(event: Event) {
     loadMonsterClient(file)
   }
 }
+
 </script>
