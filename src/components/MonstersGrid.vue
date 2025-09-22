@@ -7,13 +7,7 @@
       <AutofillIcon />
       Auto-fill from SWEX JSON
     </button>
-    <input
-      type="file"
-      ref="fileInputSWEX"
-      @change="onFileChange"
-      accept=".json"
-      class="hidden"
-    />
+    <input type="file" ref="fileInputSWEX" @change="onFileChange" accept=".json" class="hidden" />
 
     <div class="flex items-center gap-4 w-full flex-1">
       <label class="relative flex items-center w-full">
@@ -57,13 +51,7 @@
         <LoadStateIcon />
         Load State
       </button>
-      <input
-        type="file"
-        ref="fileInput"
-        @change="onFileChange"
-        accept=".json"
-        class="hidden"
-      />
+      <input type="file" ref="fileInput" @change="onFileChange" accept=".json" class="hidden" />
     </div>
   </div>
   <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
@@ -71,7 +59,7 @@
       <CardSkeleton v-for="n in 8" :key="n" />
     </template>
     <template v-else>
-      <template v-for="(monsterFamily, index) in families">
+      <template v-for="monsterFamily in renderedFamilies">
         <MonstersRow :family="monsterFamily" :filter="searchQuery" />
       </template>
     </template>
@@ -89,12 +77,19 @@ import SaveStateIcon from '@/components/subcomponents/icons/SaveState.icon.vue'
 import LoadStateIcon from '@/components/subcomponents/icons/LoadState.icon.vue'
 
 import { useMonsters } from '@/composables/useMonsters'
+import { useBatchFamilies } from '@/composables/useBatchFamilies.ts'
 
 const fileInput = ref<HTMLElement>()
 const fileInputSWEX = ref<HTMLElement>()
 const searchQuery = ref('')
 
 const { families, updating, progress, saveMonsterClient, loadMonsterClient } = useMonsters()
+
+const { renderedFamilies, startRendering } = useBatchFamilies(families.value)
+
+onMounted(() => {
+  startRendering()
+})
 
 function triggerFileInput() {
   fileInput.value?.click()
@@ -111,5 +106,4 @@ function onFileChange(event: Event) {
     loadMonsterClient(file)
   }
 }
-
 </script>

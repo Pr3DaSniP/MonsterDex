@@ -5,7 +5,6 @@
 
 <script setup lang="ts">
 
-// TODO: Virtualisation pour charger instant la page monsters
 // TODO: version mobile pour les boutons de chargement/search bar
 
 import Loading from './components/Loading.vue';
