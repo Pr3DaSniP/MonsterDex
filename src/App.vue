@@ -5,7 +5,7 @@
 
 <script setup lang="ts">
 
-// TODO: version mobile pour les boutons de chargement/search bar
+// TODO: Onglet Stats
 
 import Loading from './components/Loading.vue';
 import { useMonsters } from './composables/useMonsters.ts';

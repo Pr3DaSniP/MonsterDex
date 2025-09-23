@@ -7,7 +7,7 @@
       <div class="size-8 text-[var(--primary-color)]">
         <img :src="logo" />
       </div>
-      <h1 class="text-2xl font-bold tracking-tighter text-[var(--primary-color)]">MonsterDex</h1>
+      <h1 class="text-2xl font-bold tracking-tighter text-[var(--primary-color)] hidden sm:block">MonsterDex</h1>
     </RouterLink>
 
     <!-- Nav  -->
@@ -15,6 +15,9 @@
       <RouterLink :to="{ name: 'monsters.show' }" :class="linkClass('monsters.show')"
         >Monsters</RouterLink
       >
+      <!-- <RouterLink :to="{ name: 'stats.show' }" :class="linkClass('stats.show')"
+        >Statistiques</RouterLink
+      > -->
     </nav>
   </header>
 </template>
