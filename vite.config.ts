@@ -1,8 +1,10 @@
-import { fileURLToPath, URL } from 'node:url'
+/// <reference types="vitest" />
+/// <reference types="vite/client" />
 
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import vueDevTools from 'vite-plugin-vue-devtools'
+import path from 'path'
 
 import tailwindcss from '@tailwindcss/vite'
 
@@ -13,9 +15,13 @@ export default defineConfig({
     vueDevTools(),
     tailwindcss()
   ],
+  test: {
+    globals: true,
+    environment: 'jsdom',
+  },
   resolve: {
     alias: {
-      '@': fileURLToPath(new URL('./src', import.meta.url))
+      '@': path.resolve(__dirname, 'src'),
     },
   },
 })

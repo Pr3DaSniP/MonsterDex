@@ -10,7 +10,6 @@ export function useNotifications() {
     const id = ++idCounter
     notifications.value.push({ id, type, title, message })
 
-    // auto remove after 3s
     setTimeout(() => {
       removeNotification(id)
     }, 10000)

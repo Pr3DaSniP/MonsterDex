@@ -5,6 +5,7 @@
 
 <script setup lang="ts">
 
+// TODO: Test components monsters grid, row, card, dualcard, checkbox, typeicone et des fonctions random du dossier script
 // TODO: Onglet Stats
 
 import Loading from './components/Loading.vue';
