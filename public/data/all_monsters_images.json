@@ -3938,5 +3938,45 @@
   {
     "image_filename": "unit_icon_0184_1_5.png",
     "id": 33415
+  },
+  {
+    "image_filename": "unit_icon_0192_1_1.png",
+    "id": 34011
+  },
+  {
+    "image_filename": "unit_icon_0192_1_2.png",
+    "id": 34012
+  },
+  {
+    "image_filename": "unit_icon_0192_1_3.png",
+    "id": 34013
+  },
+  {
+    "image_filename": "unit_icon_0192_1_4.png",
+    "id": 34014
+  },
+  {
+    "image_filename": "unit_icon_0192_1_5.png",
+    "id": 34015
+  },
+  {
+    "image_filename": "unit_icon_0193_1_1.png",
+    "id": 34111
+  },
+  {
+    "image_filename": "unit_icon_0193_1_2.png",
+    "id": 34112
+  },
+  {
+    "image_filename": "unit_icon_0193_1_3.png",
+    "id": 34113
+  },
+  {
+    "image_filename": "unit_icon_0193_1_4.png",
+    "id": 34114
+  },
+  {
+    "image_filename": "unit_icon_0193_1_5.png",
+    "id": 34115
   }
 ]

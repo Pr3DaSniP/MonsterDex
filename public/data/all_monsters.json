@@ -5086,6 +5086,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -5100,6 +5103,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -5114,6 +5120,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -5145,6 +5154,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -5920,6 +5932,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -5934,6 +5949,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -5948,6 +5966,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -5979,6 +6000,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -8352,6 +8376,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -8366,6 +8393,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -8380,6 +8410,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -8394,6 +8427,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -11160,6 +11196,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -11191,6 +11230,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -11205,6 +11247,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -11219,6 +11264,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
         "variants": [
           {
             "com2us_id": -1,
@@ -11602,6 +11650,194 @@
             "family_id": 33400,
             "id": 2773,
             "com2us_id": 33415
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 34000,
+    "family_name": "arcane",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": false,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 5,
+        "skill_group_id": 34000,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Cecilia",
+            "image_filename": "unit_icon_0192_1_1.png",
+            "family_id": 34000,
+            "id": 2803,
+            "com2us_id": 34011
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 5,
+        "skill_group_id": 34000,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Cynthia",
+            "image_filename": "unit_icon_0192_1_2.png",
+            "family_id": 34000,
+            "id": 2804,
+            "com2us_id": 34012
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 5,
+        "skill_group_id": 34000,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Daisy",
+            "image_filename": "unit_icon_0192_1_3.png",
+            "family_id": 34000,
+            "id": 2805,
+            "com2us_id": 34013
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 5,
+        "skill_group_id": 34000,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 10,
+        "variants": [
+          {
+            "name": "Christine",
+            "image_filename": "unit_icon_0192_1_4.png",
+            "family_id": 34000,
+            "id": 2806,
+            "com2us_id": 34014
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 5,
+        "skill_group_id": 34000,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 10,
+        "variants": [
+          {
+            "name": "Elise",
+            "image_filename": "unit_icon_0192_1_5.png",
+            "family_id": 34000,
+            "id": 2807,
+            "com2us_id": 34015
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 34100,
+    "family_name": "centaur",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": false,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 4,
+        "skill_group_id": 34100,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 10,
+        "variants": [
+          {
+            "name": "Rhoetus",
+            "image_filename": "unit_icon_0193_1_1.png",
+            "family_id": 34100,
+            "id": 2813,
+            "com2us_id": 34111
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 4,
+        "skill_group_id": 34100,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 10,
+        "variants": [
+          {
+            "name": "Agrius",
+            "image_filename": "unit_icon_0193_1_2.png",
+            "family_id": 34100,
+            "id": 2814,
+            "com2us_id": 34112
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 4,
+        "skill_group_id": 34100,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 10,
+        "variants": [
+          {
+            "name": "Pholus",
+            "image_filename": "unit_icon_0193_1_3.png",
+            "family_id": 34100,
+            "id": 2815,
+            "com2us_id": 34113
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 4,
+        "skill_group_id": 34100,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Chiron",
+            "image_filename": "unit_icon_0193_1_4.png",
+            "family_id": 34100,
+            "id": 2816,
+            "com2us_id": 34114
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 4,
+        "skill_group_id": 34100,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Asbolus",
+            "image_filename": "unit_icon_0193_1_5.png",
+            "family_id": 34100,
+            "id": 2817,
+            "com2us_id": 34115
           }
         ]
       }
@@ -13251,6 +13487,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -13296,6 +13535,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -13317,6 +13559,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -13338,6 +13583,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -13755,6 +14003,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -13776,6 +14027,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -13821,6 +14075,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -13842,6 +14099,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -14388,6 +14648,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -14409,6 +14672,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -14430,6 +14696,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -14475,6 +14744,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -15537,6 +15809,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -15558,6 +15833,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -15579,6 +15857,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -15600,6 +15881,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -16170,6 +16454,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -16191,6 +16478,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -16236,6 +16526,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
@@ -16257,6 +16550,9 @@
         "element": "Unknown",
         "natural_stars": 0,
         "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
         "variants": [
           {
             "com2us_id": -1,
