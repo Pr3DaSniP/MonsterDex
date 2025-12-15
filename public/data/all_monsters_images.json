@@ -3978,5 +3978,125 @@
   {
     "image_filename": "unit_icon_0193_1_5.png",
     "id": 34115
+  },
+  {
+    "image_filename": null,
+    "id": -1
+  },
+  {
+    "image_filename": "unit_icon_0201_1_2.png",
+    "id": 33512
+  },
+  {
+    "image_filename": null,
+    "id": -1
+  },
+  {
+    "image_filename": null,
+    "id": -1
+  },
+  {
+    "image_filename": null,
+    "id": -1
+  },
+  {
+    "image_filename": "unit_icon_0200_1_1.png",
+    "id": 33611
+  },
+  {
+    "image_filename": "unit_icon_0200_1_2.png",
+    "id": 33612
+  },
+  {
+    "image_filename": "unit_icon_0200_1_3.png",
+    "id": 33613
+  },
+  {
+    "image_filename": "unit_icon_0200_1_4.png",
+    "id": 33614
+  },
+  {
+    "image_filename": "unit_icon_0200_1_5.png",
+    "id": 33615
+  },
+  {
+    "image_filename": "unit_icon_0198_1_1.png",
+    "id": 33711
+  },
+  {
+    "image_filename": "unit_icon_0198_1_2.png",
+    "id": 33712
+  },
+  {
+    "image_filename": "unit_icon_0198_1_3.png",
+    "id": 33713
+  },
+  {
+    "image_filename": "unit_icon_0198_1_4.png",
+    "id": 33714
+  },
+  {
+    "image_filename": "unit_icon_0198_1_5.png",
+    "id": 33715
+  },
+  {
+    "image_filename": "unit_icon_0199_1_1.png",
+    "id": 33811
+  },
+  {
+    "image_filename": "unit_icon_0199_1_2.png",
+    "id": 33812
+  },
+  {
+    "image_filename": "unit_icon_0199_1_3.png",
+    "id": 33813
+  },
+  {
+    "image_filename": "unit_icon_0199_1_4.png",
+    "id": 33814
+  },
+  {
+    "image_filename": "unit_icon_0199_1_5.png",
+    "id": 33815
+  },
+  {
+    "image_filename": "unit_icon_0197_1_1.png",
+    "id": 33911
+  },
+  {
+    "image_filename": "unit_icon_0197_1_2.png",
+    "id": 33912
+  },
+  {
+    "image_filename": "unit_icon_0197_1_3.png",
+    "id": 33913
+  },
+  {
+    "image_filename": "unit_icon_0197_1_4.png",
+    "id": 33914
+  },
+  {
+    "image_filename": "unit_icon_0197_1_5.png",
+    "id": 33915
+  },
+  {
+    "image_filename": "unit_icon_0202_1_1.png",
+    "id": 34211
+  },
+  {
+    "image_filename": "unit_icon_0202_1_2.png",
+    "id": 34212
+  },
+  {
+    "image_filename": "unit_icon_0202_1_3.png",
+    "id": 34213
+  },
+  {
+    "image_filename": "unit_icon_0202_1_4.png",
+    "id": 34214
+  },
+  {
+    "image_filename": "unit_icon_0202_1_5.png",
+    "id": 34215
   }
 ]

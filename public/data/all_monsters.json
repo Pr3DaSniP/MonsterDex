@@ -11186,476 +11186,6 @@
     ]
   },
   {
-    "family_id": 33000,
-    "family_name": "heihachi",
-    "isSecondAwakedFamily": false,
-    "isCollaboredFamily": false,
-    "isMergedFamily": false,
-    "monsters": [
-      {
-        "element": "Unknown",
-        "natural_stars": 0,
-        "skill_group_id": -1,
-        "skill_ups_to_max": -1,
-        "owned": false,
-        "full_skill": false,
-        "variants": [
-          {
-            "com2us_id": -1,
-            "id": -1,
-            "name": "???",
-            "image_filename": null,
-            "family_id": -1
-          }
-        ]
-      },
-      {
-        "element": "Fire",
-        "natural_stars": 5,
-        "skill_group_id": 33000,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Heihachi Mishima",
-            "image_filename": "unit_icon_0188_1_2.png",
-            "family_id": 33000,
-            "id": 2733,
-            "com2us_id": 33012
-          }
-        ]
-      },
-      {
-        "element": "Unknown",
-        "natural_stars": 0,
-        "skill_group_id": -1,
-        "skill_ups_to_max": -1,
-        "owned": false,
-        "full_skill": false,
-        "variants": [
-          {
-            "com2us_id": -1,
-            "id": -1,
-            "name": "???",
-            "image_filename": null,
-            "family_id": -1
-          }
-        ]
-      },
-      {
-        "element": "Unknown",
-        "natural_stars": 0,
-        "skill_group_id": -1,
-        "skill_ups_to_max": -1,
-        "owned": false,
-        "full_skill": false,
-        "variants": [
-          {
-            "com2us_id": -1,
-            "id": -1,
-            "name": "???",
-            "image_filename": null,
-            "family_id": -1
-          }
-        ]
-      },
-      {
-        "element": "Unknown",
-        "natural_stars": 0,
-        "skill_group_id": -1,
-        "skill_ups_to_max": -1,
-        "owned": false,
-        "full_skill": false,
-        "variants": [
-          {
-            "com2us_id": -1,
-            "id": -1,
-            "name": "???",
-            "image_filename": null,
-            "family_id": -1
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "family_id": 33100,
-    "family_name": "jin",
-    "isSecondAwakedFamily": false,
-    "isCollaboredFamily": false,
-    "isMergedFamily": false,
-    "monsters": [
-      {
-        "element": "Water",
-        "natural_stars": 4,
-        "skill_group_id": 33100,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 9,
-        "variants": [
-          {
-            "name": "Jin Kazama",
-            "image_filename": "unit_icon_0187_1_1.png",
-            "family_id": 33100,
-            "id": 2739,
-            "com2us_id": 33111
-          }
-        ]
-      },
-      {
-        "element": "Fire",
-        "natural_stars": 5,
-        "skill_group_id": 33100,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Jin Kazama",
-            "image_filename": "unit_icon_0187_1_2.png",
-            "family_id": 33100,
-            "id": 2740,
-            "com2us_id": 33112
-          }
-        ]
-      },
-      {
-        "element": "Wind",
-        "natural_stars": 5,
-        "skill_group_id": 33100,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Jin Kazama",
-            "image_filename": "unit_icon_0187_1_3.png",
-            "family_id": 33100,
-            "id": 2741,
-            "com2us_id": 33113
-          }
-        ]
-      },
-      {
-        "element": "Light",
-        "natural_stars": 4,
-        "skill_group_id": 33100,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 10,
-        "variants": [
-          {
-            "name": "Jin Kazama",
-            "image_filename": "unit_icon_0187_1_4.png",
-            "family_id": 33100,
-            "id": 2742,
-            "com2us_id": 33114
-          }
-        ]
-      },
-      {
-        "element": "Dark",
-        "natural_stars": 5,
-        "skill_group_id": 33100,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 11,
-        "variants": [
-          {
-            "name": "Jin Kazama",
-            "image_filename": "unit_icon_0187_1_5.png",
-            "family_id": 33100,
-            "id": 2743,
-            "com2us_id": 33115
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "family_id": 33200,
-    "family_name": "33211-water-hwoarang",
-    "isSecondAwakedFamily": false,
-    "isCollaboredFamily": false,
-    "isMergedFamily": false,
-    "monsters": [
-      {
-        "element": "Water",
-        "natural_stars": 5,
-        "skill_group_id": 33200,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Hwoarang",
-            "image_filename": "unit_icon_0185_1_1.png",
-            "family_id": 33200,
-            "id": 2749,
-            "com2us_id": 33211
-          }
-        ]
-      },
-      {
-        "element": "Fire",
-        "natural_stars": 4,
-        "skill_group_id": 33200,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 11,
-        "variants": [
-          {
-            "name": "Hwoarang",
-            "image_filename": "unit_icon_0185_1_2.png",
-            "family_id": 33200,
-            "id": 2750,
-            "com2us_id": 33212
-          }
-        ]
-      },
-      {
-        "element": "Wind",
-        "natural_stars": 5,
-        "skill_group_id": 33200,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Hwoarang",
-            "image_filename": "unit_icon_0185_1_3.png",
-            "family_id": 33200,
-            "id": 2751,
-            "com2us_id": 33213
-          }
-        ]
-      },
-      {
-        "element": "Light",
-        "natural_stars": 5,
-        "skill_group_id": 33200,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 10,
-        "variants": [
-          {
-            "name": "Hwoarang",
-            "image_filename": "unit_icon_0185_1_4.png",
-            "family_id": 33200,
-            "id": 2752,
-            "com2us_id": 33214
-          }
-        ]
-      },
-      {
-        "element": "Dark",
-        "natural_stars": 4,
-        "skill_group_id": 33200,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Hwoarang",
-            "image_filename": "unit_icon_0185_1_5.png",
-            "family_id": 33200,
-            "id": 2753,
-            "com2us_id": 33215
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "family_id": 33300,
-    "family_name": "paul",
-    "isSecondAwakedFamily": false,
-    "isCollaboredFamily": false,
-    "isMergedFamily": false,
-    "monsters": [
-      {
-        "element": "Water",
-        "natural_stars": 5,
-        "skill_group_id": 33300,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 10,
-        "variants": [
-          {
-            "name": "Paul Phoenix",
-            "image_filename": "unit_icon_0186_1_1.png",
-            "family_id": 33300,
-            "id": 2759,
-            "com2us_id": 33311
-          }
-        ]
-      },
-      {
-        "element": "Fire",
-        "natural_stars": 5,
-        "skill_group_id": 33300,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Paul Phoenix",
-            "image_filename": "unit_icon_0186_1_2.png",
-            "family_id": 33300,
-            "id": 2760,
-            "com2us_id": 33312
-          }
-        ]
-      },
-      {
-        "element": "Wind",
-        "natural_stars": 5,
-        "skill_group_id": 33300,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 11,
-        "variants": [
-          {
-            "name": "Paul Phoenix",
-            "image_filename": "unit_icon_0186_1_3.png",
-            "family_id": 33300,
-            "id": 2761,
-            "com2us_id": 33313
-          }
-        ]
-      },
-      {
-        "element": "Light",
-        "natural_stars": 4,
-        "skill_group_id": 33300,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 13,
-        "variants": [
-          {
-            "name": "Paul Phoenix",
-            "image_filename": "unit_icon_0186_1_4.png",
-            "family_id": 33300,
-            "id": 2762,
-            "com2us_id": 33314
-          }
-        ]
-      },
-      {
-        "element": "Dark",
-        "natural_stars": 4,
-        "skill_group_id": 33300,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Paul Phoenix",
-            "image_filename": "unit_icon_0186_1_5.png",
-            "family_id": 33300,
-            "id": 2763,
-            "com2us_id": 33315
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "family_id": 33400,
-    "family_name": "nina",
-    "isSecondAwakedFamily": false,
-    "isCollaboredFamily": false,
-    "isMergedFamily": false,
-    "monsters": [
-      {
-        "element": "Water",
-        "natural_stars": 5,
-        "skill_group_id": 33400,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 11,
-        "variants": [
-          {
-            "name": "Nina Williams",
-            "image_filename": "unit_icon_0184_1_1.png",
-            "family_id": 33400,
-            "id": 2769,
-            "com2us_id": 33411
-          }
-        ]
-      },
-      {
-        "element": "Fire",
-        "natural_stars": 4,
-        "skill_group_id": 33400,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 13,
-        "variants": [
-          {
-            "name": "Nina Williams",
-            "image_filename": "unit_icon_0184_1_2.png",
-            "family_id": 33400,
-            "id": 2770,
-            "com2us_id": 33412
-          }
-        ]
-      },
-      {
-        "element": "Wind",
-        "natural_stars": 4,
-        "skill_group_id": 33400,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Nina Williams",
-            "image_filename": "unit_icon_0184_1_3.png",
-            "family_id": 33400,
-            "id": 2771,
-            "com2us_id": 33413
-          }
-        ]
-      },
-      {
-        "element": "Light",
-        "natural_stars": 5,
-        "skill_group_id": 33400,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Nina Williams",
-            "image_filename": "unit_icon_0184_1_4.png",
-            "family_id": 33400,
-            "id": 2772,
-            "com2us_id": 33414
-          }
-        ]
-      },
-      {
-        "element": "Dark",
-        "natural_stars": 5,
-        "skill_group_id": 33400,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 11,
-        "variants": [
-          {
-            "name": "Nina Williams",
-            "image_filename": "unit_icon_0184_1_5.png",
-            "family_id": 33400,
-            "id": 2773,
-            "com2us_id": 33415
-          }
-        ]
-      }
-    ]
-  },
-  {
     "family_id": 34000,
     "family_name": "arcane",
     "isSecondAwakedFamily": false,
@@ -11838,6 +11368,100 @@
             "family_id": 34100,
             "id": 2817,
             "com2us_id": 34115
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 34200,
+    "family_name": "34201-water-justice",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": false,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 5,
+        "skill_group_id": 34200,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 9,
+        "variants": [
+          {
+            "name": "Neriope",
+            "image_filename": "unit_icon_0202_1_1.png",
+            "family_id": 34200,
+            "id": 2872,
+            "com2us_id": 34211
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 5,
+        "skill_group_id": 34200,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Agrenia",
+            "image_filename": "unit_icon_0202_1_2.png",
+            "family_id": 34200,
+            "id": 2873,
+            "com2us_id": 34212
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 5,
+        "skill_group_id": 34200,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 13,
+        "variants": [
+          {
+            "name": "Driana",
+            "image_filename": "unit_icon_0202_1_3.png",
+            "family_id": 34200,
+            "id": 2874,
+            "com2us_id": 34213
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 5,
+        "skill_group_id": 34200,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 9,
+        "variants": [
+          {
+            "name": "Arella",
+            "image_filename": "unit_icon_0202_1_4.png",
+            "family_id": 34200,
+            "id": 2875,
+            "com2us_id": 34214
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 5,
+        "skill_group_id": 34200,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Theonia",
+            "image_filename": "unit_icon_0202_1_5.png",
+            "family_id": 34200,
+            "id": 2876,
+            "com2us_id": 34215
           }
         ]
       }
@@ -15800,7 +15424,7 @@
   },
   {
     "family_id": 30200,
-    "family_name": "ryomen x exorcist-association",
+    "family_name": "ryomen x 30815-dark-hayato",
     "isSecondAwakedFamily": false,
     "isCollaboredFamily": true,
     "isMergedFamily": false,
@@ -15917,7 +15541,7 @@
             "com2us_id": 30215
           },
           {
-            "name": "Exorcist Association Arbiter",
+            "name": "Hayato",
             "image_filename": "unit_icon_0162_1_5.png",
             "family_id": 30800,
             "id": 2570,
@@ -15929,7 +15553,7 @@
   },
   {
     "family_id": 30300,
-    "family_name": "satoru x exorcist-association",
+    "family_name": "satoru x 30911-water-werner",
     "isSecondAwakedFamily": false,
     "isCollaboredFamily": true,
     "isMergedFamily": false,
@@ -15950,7 +15574,7 @@
             "com2us_id": 30311
           },
           {
-            "name": "Exorcist Association Resolver",
+            "name": "Werner",
             "image_filename": "unit_icon_0166_1_1.png",
             "family_id": 30900,
             "id": 2576,
@@ -15974,7 +15598,7 @@
             "com2us_id": 30312
           },
           {
-            "name": "Exorcist Association Resolver",
+            "name": "Werner",
             "image_filename": "unit_icon_0166_1_2.png",
             "family_id": 30900,
             "id": 2577,
@@ -15998,7 +15622,7 @@
             "com2us_id": 30313
           },
           {
-            "name": "Exorcist Association Resolver",
+            "name": "Werner",
             "image_filename": "unit_icon_0166_1_3.png",
             "family_id": 30900,
             "id": 2578,
@@ -16022,7 +15646,7 @@
             "com2us_id": 30314
           },
           {
-            "name": "Exorcist Association Resolver",
+            "name": "Werner",
             "image_filename": "unit_icon_0166_1_4.png",
             "family_id": 30900,
             "id": 2579,
@@ -16046,7 +15670,7 @@
             "com2us_id": 30315
           },
           {
-            "name": "Exorcist Association Resolver",
+            "name": "Werner",
             "image_filename": "unit_icon_0166_1_5.png",
             "family_id": 30900,
             "id": 2580,
@@ -16058,7 +15682,7 @@
   },
   {
     "family_id": 30400,
-    "family_name": "yuji x exorcist-association",
+    "family_name": "yuji x 31011-water-rick",
     "isSecondAwakedFamily": false,
     "isCollaboredFamily": true,
     "isMergedFamily": false,
@@ -16079,7 +15703,7 @@
             "com2us_id": 30411
           },
           {
-            "name": "Exorcist Association Fighter",
+            "name": "Rick",
             "image_filename": "unit_icon_0163_1_1.png",
             "family_id": 31000,
             "id": 2586,
@@ -16103,7 +15727,7 @@
             "com2us_id": 30412
           },
           {
-            "name": "Exorcist Association Fighter",
+            "name": "Rick",
             "image_filename": "unit_icon_0163_1_2.png",
             "family_id": 31000,
             "id": 2587,
@@ -16127,7 +15751,7 @@
             "com2us_id": 30413
           },
           {
-            "name": "Exorcist Association Fighter",
+            "name": "Rick",
             "image_filename": "unit_icon_0163_1_3.png",
             "family_id": 31000,
             "id": 2588,
@@ -16151,7 +15775,7 @@
             "com2us_id": 30414
           },
           {
-            "name": "Exorcist Association Fighter",
+            "name": "Rick",
             "image_filename": "unit_icon_0163_1_4.png",
             "family_id": 31000,
             "id": 2589,
@@ -16175,7 +15799,7 @@
             "com2us_id": 30415
           },
           {
-            "name": "Exorcist Association Fighter",
+            "name": "Rick",
             "image_filename": "unit_icon_0163_1_5.png",
             "family_id": 31000,
             "id": 2590,
@@ -16187,7 +15811,7 @@
   },
   {
     "family_id": 30500,
-    "family_name": "megumi x exorcist-association",
+    "family_name": "megumi x 31111-water-tetsuya",
     "isSecondAwakedFamily": false,
     "isCollaboredFamily": true,
     "isMergedFamily": false,
@@ -16208,7 +15832,7 @@
             "com2us_id": 30511
           },
           {
-            "name": "Exorcist Association Conjurer",
+            "name": "Tetsuya",
             "image_filename": "unit_icon_0165_1_1.png",
             "family_id": 31100,
             "id": 2596,
@@ -16232,7 +15856,7 @@
             "com2us_id": 30512
           },
           {
-            "name": "Exorcist Association Conjurer",
+            "name": "Tetsuya",
             "image_filename": "unit_icon_0165_1_2.png",
             "family_id": 31100,
             "id": 2597,
@@ -16256,7 +15880,7 @@
             "com2us_id": 30513
           },
           {
-            "name": "Exorcist Association Conjurer",
+            "name": "Tetsuya",
             "image_filename": "unit_icon_0165_1_3.png",
             "family_id": 31100,
             "id": 2598,
@@ -16280,7 +15904,7 @@
             "com2us_id": 30514
           },
           {
-            "name": "Exorcist Association Conjurer",
+            "name": "Tetsuya",
             "image_filename": "unit_icon_0165_1_4.png",
             "family_id": 31100,
             "id": 2599,
@@ -16304,7 +15928,7 @@
             "com2us_id": 30515
           },
           {
-            "name": "Exorcist Association Conjurer",
+            "name": "Tetsuya",
             "image_filename": "unit_icon_0165_1_5.png",
             "family_id": 31100,
             "id": 2600,
@@ -16316,7 +15940,7 @@
   },
   {
     "family_id": 30600,
-    "family_name": "nobara x exorcist-association",
+    "family_name": "nobara x 31211-water-aya",
     "isSecondAwakedFamily": false,
     "isCollaboredFamily": true,
     "isMergedFamily": false,
@@ -16337,7 +15961,7 @@
             "com2us_id": 30611
           },
           {
-            "name": "Exorcist Association Hunter",
+            "name": "Aya",
             "image_filename": "unit_icon_0164_1_1.png",
             "family_id": 31200,
             "id": 2606,
@@ -16361,7 +15985,7 @@
             "com2us_id": 30612
           },
           {
-            "name": "Exorcist Association Hunter",
+            "name": "Aya",
             "image_filename": "unit_icon_0164_1_2.png",
             "family_id": 31200,
             "id": 2607,
@@ -16385,7 +16009,7 @@
             "com2us_id": 30613
           },
           {
-            "name": "Exorcist Association Hunter",
+            "name": "Aya",
             "image_filename": "unit_icon_0164_1_3.png",
             "family_id": 31200,
             "id": 2608,
@@ -16409,7 +16033,7 @@
             "com2us_id": 30614
           },
           {
-            "name": "Exorcist Association Hunter",
+            "name": "Aya",
             "image_filename": "unit_icon_0164_1_4.png",
             "family_id": 31200,
             "id": 2609,
@@ -16433,7 +16057,7 @@
             "com2us_id": 30615
           },
           {
-            "name": "Exorcist Association Hunter",
+            "name": "Aya",
             "image_filename": "unit_icon_0164_1_5.png",
             "family_id": 31200,
             "id": 2610,
@@ -17083,6 +16707,651 @@
             "family_id": 32900,
             "id": 2721,
             "com2us_id": 32915
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 33000,
+    "family_name": "heihachi x 33512-fire-daimon",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": true,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Unknown",
+        "natural_stars": 0,
+        "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
+        "variants": [
+          {
+            "com2us_id": -1,
+            "id": -1,
+            "name": "???",
+            "image_filename": null,
+            "family_id": -1
+          },
+          {
+            "com2us_id": -1,
+            "id": -1,
+            "name": "???",
+            "image_filename": null,
+            "family_id": -1
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 5,
+        "skill_group_id": 33000,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Heihachi Mishima",
+            "image_filename": "unit_icon_0188_1_2.png",
+            "family_id": 33000,
+            "id": 2733,
+            "com2us_id": 33012
+          },
+          {
+            "name": "Daimon",
+            "image_filename": "unit_icon_0201_1_2.png",
+            "family_id": 33500,
+            "id": 2823,
+            "com2us_id": 33512
+          }
+        ]
+      },
+      {
+        "element": "Unknown",
+        "natural_stars": 0,
+        "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
+        "variants": [
+          {
+            "com2us_id": -1,
+            "id": -1,
+            "name": "???",
+            "image_filename": null,
+            "family_id": -1
+          },
+          {
+            "com2us_id": -1,
+            "id": -1,
+            "name": "???",
+            "image_filename": null,
+            "family_id": -1
+          }
+        ]
+      },
+      {
+        "element": "Unknown",
+        "natural_stars": 0,
+        "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
+        "variants": [
+          {
+            "com2us_id": -1,
+            "id": -1,
+            "name": "???",
+            "image_filename": null,
+            "family_id": -1
+          },
+          {
+            "com2us_id": -1,
+            "id": -1,
+            "name": "???",
+            "image_filename": null,
+            "family_id": -1
+          }
+        ]
+      },
+      {
+        "element": "Unknown",
+        "natural_stars": 0,
+        "skill_group_id": -1,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": -1,
+        "variants": [
+          {
+            "com2us_id": -1,
+            "id": -1,
+            "name": "???",
+            "image_filename": null,
+            "family_id": -1
+          },
+          {
+            "com2us_id": -1,
+            "id": -1,
+            "name": "???",
+            "image_filename": null,
+            "family_id": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 33100,
+    "family_name": "jin x 33611-water-kai",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": true,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 4,
+        "skill_group_id": 33100,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 9,
+        "variants": [
+          {
+            "name": "Jin Kazama",
+            "image_filename": "unit_icon_0187_1_1.png",
+            "family_id": 33100,
+            "id": 2739,
+            "com2us_id": 33111
+          },
+          {
+            "name": "Kai",
+            "image_filename": "unit_icon_0200_1_1.png",
+            "family_id": 33600,
+            "id": 2829,
+            "com2us_id": 33611
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 5,
+        "skill_group_id": 33100,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Jin Kazama",
+            "image_filename": "unit_icon_0187_1_2.png",
+            "family_id": 33100,
+            "id": 2740,
+            "com2us_id": 33112
+          },
+          {
+            "name": "Kai",
+            "image_filename": "unit_icon_0200_1_2.png",
+            "family_id": 33600,
+            "id": 2830,
+            "com2us_id": 33612
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 5,
+        "skill_group_id": 33100,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Jin Kazama",
+            "image_filename": "unit_icon_0187_1_3.png",
+            "family_id": 33100,
+            "id": 2741,
+            "com2us_id": 33113
+          },
+          {
+            "name": "Kai",
+            "image_filename": "unit_icon_0200_1_3.png",
+            "family_id": 33600,
+            "id": 2831,
+            "com2us_id": 33613
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 4,
+        "skill_group_id": 33100,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 10,
+        "variants": [
+          {
+            "name": "Jin Kazama",
+            "image_filename": "unit_icon_0187_1_4.png",
+            "family_id": 33100,
+            "id": 2742,
+            "com2us_id": 33114
+          },
+          {
+            "name": "Kai",
+            "image_filename": "unit_icon_0200_1_4.png",
+            "family_id": 33600,
+            "id": 2832,
+            "com2us_id": 33614
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 5,
+        "skill_group_id": 33100,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Jin Kazama",
+            "image_filename": "unit_icon_0187_1_5.png",
+            "family_id": 33100,
+            "id": 2743,
+            "com2us_id": 33115
+          },
+          {
+            "name": "Kai",
+            "image_filename": "unit_icon_0200_1_5.png",
+            "family_id": 33600,
+            "id": 2833,
+            "com2us_id": 33615
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 33200,
+    "family_name": "33211-water-hwoarang x 33711-water-taebaek",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": true,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 5,
+        "skill_group_id": 33200,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Hwoarang",
+            "image_filename": "unit_icon_0185_1_1.png",
+            "family_id": 33200,
+            "id": 2749,
+            "com2us_id": 33211
+          },
+          {
+            "name": "Taebaek",
+            "image_filename": "unit_icon_0198_1_1.png",
+            "family_id": 33700,
+            "id": 2839,
+            "com2us_id": 33711
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 4,
+        "skill_group_id": 33200,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Hwoarang",
+            "image_filename": "unit_icon_0185_1_2.png",
+            "family_id": 33200,
+            "id": 2750,
+            "com2us_id": 33212
+          },
+          {
+            "name": "Taebaek",
+            "image_filename": "unit_icon_0198_1_2.png",
+            "family_id": 33700,
+            "id": 2840,
+            "com2us_id": 33712
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 5,
+        "skill_group_id": 33200,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Hwoarang",
+            "image_filename": "unit_icon_0185_1_3.png",
+            "family_id": 33200,
+            "id": 2751,
+            "com2us_id": 33213
+          },
+          {
+            "name": "Taebaek",
+            "image_filename": "unit_icon_0198_1_3.png",
+            "family_id": 33700,
+            "id": 2841,
+            "com2us_id": 33713
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 5,
+        "skill_group_id": 33200,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 10,
+        "variants": [
+          {
+            "name": "Hwoarang",
+            "image_filename": "unit_icon_0185_1_4.png",
+            "family_id": 33200,
+            "id": 2752,
+            "com2us_id": 33214
+          },
+          {
+            "name": "Taebaek",
+            "image_filename": "unit_icon_0198_1_4.png",
+            "family_id": 33700,
+            "id": 2842,
+            "com2us_id": 33714
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 4,
+        "skill_group_id": 33200,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Hwoarang",
+            "image_filename": "unit_icon_0185_1_5.png",
+            "family_id": 33200,
+            "id": 2753,
+            "com2us_id": 33215
+          },
+          {
+            "name": "Taebaek",
+            "image_filename": "unit_icon_0198_1_5.png",
+            "family_id": 33700,
+            "id": 2843,
+            "com2us_id": 33715
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 33300,
+    "family_name": "paul x 33811-water-duke",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": true,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 5,
+        "skill_group_id": 33300,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 10,
+        "variants": [
+          {
+            "name": "Paul Phoenix",
+            "image_filename": "unit_icon_0186_1_1.png",
+            "family_id": 33300,
+            "id": 2759,
+            "com2us_id": 33311
+          },
+          {
+            "name": "Duke",
+            "image_filename": "unit_icon_0199_1_1.png",
+            "family_id": 33800,
+            "id": 2849,
+            "com2us_id": 33811
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 5,
+        "skill_group_id": 33300,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Paul Phoenix",
+            "image_filename": "unit_icon_0186_1_2.png",
+            "family_id": 33300,
+            "id": 2760,
+            "com2us_id": 33312
+          },
+          {
+            "name": "Duke",
+            "image_filename": "unit_icon_0199_1_2.png",
+            "family_id": 33800,
+            "id": 2850,
+            "com2us_id": 33812
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 5,
+        "skill_group_id": 33300,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Paul Phoenix",
+            "image_filename": "unit_icon_0186_1_3.png",
+            "family_id": 33300,
+            "id": 2761,
+            "com2us_id": 33313
+          },
+          {
+            "name": "Duke",
+            "image_filename": "unit_icon_0199_1_3.png",
+            "family_id": 33800,
+            "id": 2851,
+            "com2us_id": 33813
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 4,
+        "skill_group_id": 33300,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 13,
+        "variants": [
+          {
+            "name": "Paul Phoenix",
+            "image_filename": "unit_icon_0186_1_4.png",
+            "family_id": 33300,
+            "id": 2762,
+            "com2us_id": 33314
+          },
+          {
+            "name": "Duke",
+            "image_filename": "unit_icon_0199_1_4.png",
+            "family_id": 33800,
+            "id": 2852,
+            "com2us_id": 33814
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 4,
+        "skill_group_id": 33300,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Paul Phoenix",
+            "image_filename": "unit_icon_0186_1_5.png",
+            "family_id": 33300,
+            "id": 2763,
+            "com2us_id": 33315
+          },
+          {
+            "name": "Duke",
+            "image_filename": "unit_icon_0199_1_5.png",
+            "family_id": 33800,
+            "id": 2853,
+            "com2us_id": 33815
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 33400,
+    "family_name": "nina x 33911-water-shasha",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": true,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 5,
+        "skill_group_id": 33400,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Nina Williams",
+            "image_filename": "unit_icon_0184_1_1.png",
+            "family_id": 33400,
+            "id": 2769,
+            "com2us_id": 33411
+          },
+          {
+            "name": "Shasha",
+            "image_filename": "unit_icon_0197_1_1.png",
+            "family_id": 33900,
+            "id": 2859,
+            "com2us_id": 33911
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 4,
+        "skill_group_id": 33400,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 13,
+        "variants": [
+          {
+            "name": "Nina Williams",
+            "image_filename": "unit_icon_0184_1_2.png",
+            "family_id": 33400,
+            "id": 2770,
+            "com2us_id": 33412
+          },
+          {
+            "name": "Shasha",
+            "image_filename": "unit_icon_0197_1_2.png",
+            "family_id": 33900,
+            "id": 2860,
+            "com2us_id": 33912
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 4,
+        "skill_group_id": 33400,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Nina Williams",
+            "image_filename": "unit_icon_0184_1_3.png",
+            "family_id": 33400,
+            "id": 2771,
+            "com2us_id": 33413
+          },
+          {
+            "name": "Shasha",
+            "image_filename": "unit_icon_0197_1_3.png",
+            "family_id": 33900,
+            "id": 2861,
+            "com2us_id": 33913
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 5,
+        "skill_group_id": 33400,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Nina Williams",
+            "image_filename": "unit_icon_0184_1_4.png",
+            "family_id": 33400,
+            "id": 2772,
+            "com2us_id": 33414
+          },
+          {
+            "name": "Shasha",
+            "image_filename": "unit_icon_0197_1_4.png",
+            "family_id": 33900,
+            "id": 2862,
+            "com2us_id": 33914
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 5,
+        "skill_group_id": 33400,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Nina Williams",
+            "image_filename": "unit_icon_0184_1_5.png",
+            "family_id": 33400,
+            "id": 2773,
+            "com2us_id": 33415
+          },
+          {
+            "name": "Shasha",
+            "image_filename": "unit_icon_0197_1_5.png",
+            "family_id": 33900,
+            "id": 2863,
+            "com2us_id": 33915
           }
         ]
       }
