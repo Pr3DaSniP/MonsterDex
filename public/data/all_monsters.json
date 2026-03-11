@@ -940,100 +940,6 @@
     ]
   },
   {
-    "family_id": 11700,
-    "family_name": "inferno",
-    "isSecondAwakedFamily": false,
-    "isCollaboredFamily": false,
-    "isMergedFamily": false,
-    "monsters": [
-      {
-        "element": "Water",
-        "natural_stars": 3,
-        "skill_group_id": 11700,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 10,
-        "variants": [
-          {
-            "name": "Purian",
-            "image_filename": "unit_icon_0006_0_3.png",
-            "family_id": 11700,
-            "id": 326,
-            "com2us_id": 11711
-          }
-        ]
-      },
-      {
-        "element": "Fire",
-        "natural_stars": 3,
-        "skill_group_id": 11700,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 13,
-        "variants": [
-          {
-            "name": "Tagaros",
-            "image_filename": "unit_icon_0006_1_3.png",
-            "family_id": 11700,
-            "id": 198,
-            "com2us_id": 11712
-          }
-        ]
-      },
-      {
-        "element": "Wind",
-        "natural_stars": 3,
-        "skill_group_id": 11700,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Anduril",
-            "image_filename": "unit_icon_0006_2_3.png",
-            "family_id": 11700,
-            "id": 378,
-            "com2us_id": 11713
-          }
-        ]
-      },
-      {
-        "element": "Light",
-        "natural_stars": 3,
-        "skill_group_id": 11700,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 10,
-        "variants": [
-          {
-            "name": "Eludain",
-            "image_filename": "unit_icon_0006_3_3.png",
-            "family_id": 11700,
-            "id": 436,
-            "com2us_id": 11714
-          }
-        ]
-      },
-      {
-        "element": "Dark",
-        "natural_stars": 3,
-        "skill_group_id": 11700,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 9,
-        "variants": [
-          {
-            "name": "Drogan",
-            "image_filename": "unit_icon_0006_4_3.png",
-            "family_id": 11700,
-            "id": 494,
-            "com2us_id": 11715
-          }
-        ]
-      }
-    ]
-  },
-  {
     "family_id": 17800,
     "family_name": "lizardman",
     "isSecondAwakedFamily": false,
@@ -5258,100 +5164,6 @@
             "family_id": 10900,
             "id": 131,
             "com2us_id": 10915
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "family_id": 10600,
-    "family_name": "hellhound",
-    "isSecondAwakedFamily": false,
-    "isCollaboredFamily": false,
-    "isMergedFamily": false,
-    "monsters": [
-      {
-        "element": "Water",
-        "natural_stars": 2,
-        "skill_group_id": 10600,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Tarq",
-            "image_filename": "unit_icon_0002_0_1.png",
-            "family_id": 10600,
-            "id": 60,
-            "com2us_id": 10611
-          }
-        ]
-      },
-      {
-        "element": "Fire",
-        "natural_stars": 2,
-        "skill_group_id": 10600,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 12,
-        "variants": [
-          {
-            "name": "Sieq",
-            "image_filename": "unit_icon_0002_1_1.png",
-            "family_id": 10600,
-            "id": 25,
-            "com2us_id": 10612
-          }
-        ]
-      },
-      {
-        "element": "Wind",
-        "natural_stars": 2,
-        "skill_group_id": 10600,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 10,
-        "variants": [
-          {
-            "name": "Gamir",
-            "image_filename": "unit_icon_0002_2_1.png",
-            "family_id": 10600,
-            "id": 100,
-            "com2us_id": 10613
-          }
-        ]
-      },
-      {
-        "element": "Light",
-        "natural_stars": 2,
-        "skill_group_id": 10600,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 13,
-        "variants": [
-          {
-            "name": "Shamar",
-            "image_filename": "unit_icon_0002_3_1.png",
-            "family_id": 10600,
-            "id": 150,
-            "com2us_id": 10614
-          }
-        ]
-      },
-      {
-        "element": "Dark",
-        "natural_stars": 3,
-        "skill_group_id": 10600,
-        "owned": false,
-        "full_skill": false,
-        "skill_ups_to_max": 10,
-        "variants": [
-          {
-            "name": "Shumar",
-            "image_filename": "unit_icon_0002_4_1.png",
-            "family_id": 10600,
-            "id": 488,
-            "com2us_id": 10615
           }
         ]
       }
@@ -11468,6 +11280,476 @@
     ]
   },
   {
+    "family_id": 34300,
+    "family_name": "34311-water-frodo",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": false,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 5,
+        "skill_group_id": 34300,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Frodo",
+            "image_filename": "unit_icon_0203_1_1.png",
+            "family_id": 34300,
+            "id": 2881,
+            "com2us_id": 34311
+          }
+        ]
+      },
+      {
+        "element": "Unknown",
+        "natural_stars": 0,
+        "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "com2us_id": -1,
+            "id": -1,
+            "name": "???",
+            "image_filename": null,
+            "family_id": -1
+          }
+        ]
+      },
+      {
+        "element": "Unknown",
+        "natural_stars": 0,
+        "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "com2us_id": -1,
+            "id": -1,
+            "name": "???",
+            "image_filename": null,
+            "family_id": -1
+          }
+        ]
+      },
+      {
+        "element": "Unknown",
+        "natural_stars": 0,
+        "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "com2us_id": -1,
+            "id": -1,
+            "name": "???",
+            "image_filename": null,
+            "family_id": -1
+          }
+        ]
+      },
+      {
+        "element": "Unknown",
+        "natural_stars": 0,
+        "skill_group_id": -1,
+        "skill_ups_to_max": -1,
+        "owned": false,
+        "full_skill": false,
+        "variants": [
+          {
+            "com2us_id": -1,
+            "id": -1,
+            "name": "???",
+            "image_filename": null,
+            "family_id": -1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 34400,
+    "family_name": "34411-water-gandalf",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": false,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 5,
+        "skill_group_id": 34400,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 9,
+        "variants": [
+          {
+            "name": "Gandalf",
+            "image_filename": "unit_icon_0204_1_1.png",
+            "family_id": 34400,
+            "id": 2887,
+            "com2us_id": 34411
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 5,
+        "skill_group_id": 34400,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Gandalf",
+            "image_filename": "unit_icon_0204_1_2.png",
+            "family_id": 34400,
+            "id": 2888,
+            "com2us_id": 34412
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 5,
+        "skill_group_id": 34400,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 9,
+        "variants": [
+          {
+            "name": "Gandalf",
+            "image_filename": "unit_icon_0204_1_3.png",
+            "family_id": 34400,
+            "id": 2889,
+            "com2us_id": 34413
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 5,
+        "skill_group_id": 34400,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Gandalf",
+            "image_filename": "unit_icon_0204_1_4.png",
+            "family_id": 34400,
+            "id": 2890,
+            "com2us_id": 34414
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 5,
+        "skill_group_id": 34400,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Gandalf",
+            "image_filename": "unit_icon_0204_1_5.png",
+            "family_id": 34400,
+            "id": 2891,
+            "com2us_id": 34415
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 34600,
+    "family_name": "34611-water-aragorn",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": false,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 5,
+        "skill_group_id": 34600,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 10,
+        "variants": [
+          {
+            "name": "Aragorn",
+            "image_filename": "unit_icon_0206_1_1.png",
+            "family_id": 34600,
+            "id": 2898,
+            "com2us_id": 34611
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 5,
+        "skill_group_id": 34600,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 8,
+        "variants": [
+          {
+            "name": "Aragorn",
+            "image_filename": "unit_icon_0206_1_2.png",
+            "family_id": 34600,
+            "id": 2899,
+            "com2us_id": 34612
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 4,
+        "skill_group_id": 34600,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Aragorn",
+            "image_filename": "unit_icon_0206_1_3.png",
+            "family_id": 34600,
+            "id": 2900,
+            "com2us_id": 34613
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 4,
+        "skill_group_id": 34600,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 8,
+        "variants": [
+          {
+            "name": "Aragorn",
+            "image_filename": "unit_icon_0206_1_4.png",
+            "family_id": 34600,
+            "id": 2901,
+            "com2us_id": 34614
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 5,
+        "skill_group_id": 34600,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Aragorn",
+            "image_filename": "unit_icon_0206_1_5.png",
+            "family_id": 34600,
+            "id": 2902,
+            "com2us_id": 34615
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 34700,
+    "family_name": "34711-water-legolas",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": false,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 4,
+        "skill_group_id": 34700,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Legolas",
+            "image_filename": "unit_icon_0205_1_1.png",
+            "family_id": 34700,
+            "id": 2908,
+            "com2us_id": 34711
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 5,
+        "skill_group_id": 34700,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 8,
+        "variants": [
+          {
+            "name": "Legolas",
+            "image_filename": "unit_icon_0205_1_2.png",
+            "family_id": 34700,
+            "id": 2909,
+            "com2us_id": 34712
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 5,
+        "skill_group_id": 34700,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 9,
+        "variants": [
+          {
+            "name": "Legolas",
+            "image_filename": "unit_icon_0205_1_3.png",
+            "family_id": 34700,
+            "id": 2910,
+            "com2us_id": 34713
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 5,
+        "skill_group_id": 34700,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 9,
+        "variants": [
+          {
+            "name": "Legolas",
+            "image_filename": "unit_icon_0205_1_4.png",
+            "family_id": 34700,
+            "id": 2911,
+            "com2us_id": 34714
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 4,
+        "skill_group_id": 34700,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 8,
+        "variants": [
+          {
+            "name": "Legolas",
+            "image_filename": "unit_icon_0205_1_5.png",
+            "family_id": 34700,
+            "id": 2912,
+            "com2us_id": 34715
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 34800,
+    "family_name": "34811-water-gollum",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": false,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 4,
+        "skill_group_id": 34800,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 10,
+        "variants": [
+          {
+            "name": "Gollum",
+            "image_filename": "unit_icon_0207_1_1.png",
+            "family_id": 34800,
+            "id": 2918,
+            "com2us_id": 34811
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 4,
+        "skill_group_id": 34800,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 9,
+        "variants": [
+          {
+            "name": "Gollum",
+            "image_filename": "unit_icon_0207_1_2.png",
+            "family_id": 34800,
+            "id": 2919,
+            "com2us_id": 34812
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 4,
+        "skill_group_id": 34800,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Gollum",
+            "image_filename": "unit_icon_0207_1_3.png",
+            "family_id": 34800,
+            "id": 2920,
+            "com2us_id": 34813
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 4,
+        "skill_group_id": 34800,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 11,
+        "variants": [
+          {
+            "name": "Gollum",
+            "image_filename": "unit_icon_0207_1_4.png",
+            "family_id": 34800,
+            "id": 2921,
+            "com2us_id": 34814
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 4,
+        "skill_group_id": 34800,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 10,
+        "variants": [
+          {
+            "name": "Gollum",
+            "image_filename": "unit_icon_0207_1_5.png",
+            "family_id": 34800,
+            "id": 2922,
+            "com2us_id": 34815
+          }
+        ]
+      }
+    ]
+  },
+  {
     "family_id": 1000100,
     "family_name": "homunculusattack-homunculussupport",
     "isSecondAwakedFamily": false,
@@ -12966,6 +13248,194 @@
             "family_id": 12100,
             "id": 2543,
             "com2us_id": 12135
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 10600,
+    "family_name": "hellhound",
+    "isSecondAwakedFamily": true,
+    "isCollaboredFamily": false,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 2,
+        "skill_group_id": 10610,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 5,
+        "variants": [
+          {
+            "name": "Tarq",
+            "image_filename": "unit_icon_0211_3_1.png",
+            "family_id": 10600,
+            "id": 2932,
+            "com2us_id": 10631
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 2,
+        "skill_group_id": 10610,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 4,
+        "variants": [
+          {
+            "name": "Sieq",
+            "image_filename": "unit_icon_0211_3_2.png",
+            "family_id": 10600,
+            "id": 2933,
+            "com2us_id": 10632
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 2,
+        "skill_group_id": 10610,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 5,
+        "variants": [
+          {
+            "name": "Gamir",
+            "image_filename": "unit_icon_0211_3_3.png",
+            "family_id": 10600,
+            "id": 2934,
+            "com2us_id": 10633
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 2,
+        "skill_group_id": 10610,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 6,
+        "variants": [
+          {
+            "name": "Shamar",
+            "image_filename": "unit_icon_0211_3_4.png",
+            "family_id": 10600,
+            "id": 2935,
+            "com2us_id": 10634
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 3,
+        "skill_group_id": 10610,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 4,
+        "variants": [
+          {
+            "name": "Shumar",
+            "image_filename": "unit_icon_0211_3_5.png",
+            "family_id": 10600,
+            "id": 2936,
+            "com2us_id": 10635
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "family_id": 11700,
+    "family_name": "inferno",
+    "isSecondAwakedFamily": true,
+    "isCollaboredFamily": false,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 3,
+        "skill_group_id": 11710,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 4,
+        "variants": [
+          {
+            "name": "Purian",
+            "image_filename": "unit_icon_0212_3_1.png",
+            "family_id": 11700,
+            "id": 2937,
+            "com2us_id": 11731
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 3,
+        "skill_group_id": 11710,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 6,
+        "variants": [
+          {
+            "name": "Tagaros",
+            "image_filename": "unit_icon_0212_3_2.png",
+            "family_id": 11700,
+            "id": 2938,
+            "com2us_id": 11732
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 3,
+        "skill_group_id": 11710,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 5,
+        "variants": [
+          {
+            "name": "Anduril",
+            "image_filename": "unit_icon_0212_3_3.png",
+            "family_id": 11700,
+            "id": 2939,
+            "com2us_id": 11733
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 3,
+        "skill_group_id": 11710,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 6,
+        "variants": [
+          {
+            "name": "Eludain",
+            "image_filename": "unit_icon_0212_3_4.png",
+            "family_id": 11700,
+            "id": 2940,
+            "com2us_id": 11734
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 3,
+        "skill_group_id": 11710,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 4,
+        "variants": [
+          {
+            "name": "Drogan",
+            "image_filename": "unit_icon_0212_3_5.png",
+            "family_id": 11700,
+            "id": 2941,
+            "com2us_id": 11735
           }
         ]
       }
