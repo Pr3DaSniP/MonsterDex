@@ -11750,6 +11750,100 @@
     ]
   },
   {
+    "family_id": 35500,
+    "family_name": "dr",
+    "isSecondAwakedFamily": false,
+    "isCollaboredFamily": false,
+    "isMergedFamily": false,
+    "monsters": [
+      {
+        "element": "Water",
+        "natural_stars": 5,
+        "skill_group_id": 35500,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Dr. Felix",
+            "image_filename": "unit_icon_0214_1_1.png",
+            "family_id": 35500,
+            "id": 2978,
+            "com2us_id": 35511
+          }
+        ]
+      },
+      {
+        "element": "Fire",
+        "natural_stars": 5,
+        "skill_group_id": 35500,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 9,
+        "variants": [
+          {
+            "name": "Dr. Matteo",
+            "image_filename": "unit_icon_0214_1_2.png",
+            "family_id": 35500,
+            "id": 2979,
+            "com2us_id": 35512
+          }
+        ]
+      },
+      {
+        "element": "Wind",
+        "natural_stars": 5,
+        "skill_group_id": 35500,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 12,
+        "variants": [
+          {
+            "name": "Dr. Christoph",
+            "image_filename": "unit_icon_0214_1_3.png",
+            "family_id": 35500,
+            "id": 2980,
+            "com2us_id": 35513
+          }
+        ]
+      },
+      {
+        "element": "Light",
+        "natural_stars": 5,
+        "skill_group_id": 35500,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 10,
+        "variants": [
+          {
+            "name": "Dr. Albert",
+            "image_filename": "unit_icon_0214_1_4.png",
+            "family_id": 35500,
+            "id": 2981,
+            "com2us_id": 35514
+          }
+        ]
+      },
+      {
+        "element": "Dark",
+        "natural_stars": 5,
+        "skill_group_id": 35500,
+        "owned": false,
+        "full_skill": false,
+        "skill_ups_to_max": 9,
+        "variants": [
+          {
+            "name": "Dr. Richard",
+            "image_filename": "unit_icon_0214_1_5.png",
+            "family_id": 35500,
+            "id": 2982,
+            "com2us_id": 35515
+          }
+        ]
+      }
+    ]
+  },
+  {
     "family_id": 1000100,
     "family_name": "homunculusattack-homunculussupport",
     "isSecondAwakedFamily": false,

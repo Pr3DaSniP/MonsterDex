@@ -4198,5 +4198,25 @@
   {
     "image_filename": "unit_icon_0207_1_5.png",
     "id": 34815
+  },
+  {
+    "image_filename": "unit_icon_0214_1_1.png",
+    "id": 35511
+  },
+  {
+    "image_filename": "unit_icon_0214_1_2.png",
+    "id": 35512
+  },
+  {
+    "image_filename": "unit_icon_0214_1_3.png",
+    "id": 35513
+  },
+  {
+    "image_filename": "unit_icon_0214_1_4.png",
+    "id": 35514
+  },
+  {
+    "image_filename": "unit_icon_0214_1_5.png",
+    "id": 35515
   }
 ]
